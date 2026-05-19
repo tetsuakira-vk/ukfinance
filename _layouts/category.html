@@ -4,6 +4,7 @@ layout: default
 <div class="container">
   <nav class="news-filters" aria-label="Filter by topic">
     <a href="{{ '/' | relative_url }}" class="news-filter-pill">All</a>
+    <a href="{{ '/category/deals/' | relative_url }}" class="news-filter-pill{% if page.category_label == 'Deals' %} active{% endif %}">🏷️ Deals</a>
     <a href="{{ '/category/benefits/' | relative_url }}" class="news-filter-pill{% if page.category_label == 'Benefits' %} active{% endif %}">Benefits</a>
     <a href="{{ '/category/debt/' | relative_url }}" class="news-filter-pill{% if page.category_label == 'Debt' %} active{% endif %}">Debt</a>
     <a href="{{ '/category/savings/' | relative_url }}" class="news-filter-pill{% if page.category_label == 'Savings' %} active{% endif %}">Savings</a>
