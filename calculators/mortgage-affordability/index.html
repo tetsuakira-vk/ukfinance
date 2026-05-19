@@ -1,0 +1,111 @@
+---
+layout: page
+title: "Mortgage Affordability Calculator — UK Finance Guide"
+description: "Estimate how much you could borrow, your monthly repayments, LTV, and whether you'd pass a mortgage stress test."
+permalink: /calculators/mortgage-affordability/
+---
+
+<h1>Mortgage Affordability Calculator</h1>
+<p>Find out roughly how much you could borrow and what your monthly repayments might look like. This is a guide only — lenders each have their own criteria and affordability checks.</p>
+
+<div class="box amber"><strong>Important:</strong> This calculator gives an estimate. A mortgage in principle from a lender or broker will give you an accurate figure based on your full financial picture.</div>
+
+<div class="calc-grid">
+  <div class="calc-field">
+    <label>Annual Income (Applicant 1)</label>
+    <input id="mg-inc1" type="number" min="0" placeholder="e.g. 45000">
+  </div>
+  <div class="calc-field">
+    <label>Annual Income (Applicant 2, optional)</label>
+    <input id="mg-inc2" type="number" min="0" placeholder="e.g. 30000">
+  </div>
+  <div class="calc-field">
+    <label>Deposit Amount (£)</label>
+    <input id="mg-deposit" type="number" min="0" placeholder="e.g. 40000">
+  </div>
+  <div class="calc-field">
+    <label>Interest Rate (%)</label>
+    <input id="mg-rate" type="number" min="0" step="0.1" value="4.5" placeholder="e.g. 4.5">
+  </div>
+  <div class="calc-field">
+    <label>Mortgage Term (years)</label>
+    <select id="mg-term">
+      <option value="25">25 years</option>
+      <option value="30">30 years</option>
+      <option value="35">35 years</option>
+      <option value="20">20 years</option>
+      <option value="15">15 years</option>
+    </select>
+  </div>
+  <div class="calc-field">
+    <label>Monthly Outgoings (loans, cards, etc.)</label>
+    <input id="mg-outgoings" type="number" min="0" placeholder="e.g. 300">
+  </div>
+</div>
+<button class="calc-btn" id="mg-btn">Calculate Affordability</button>
+
+<div class="calc-result" id="mg-result">
+  <h3>Your Mortgage Estimate</h3>
+  <div id="mg-rows"></div>
+  <p class="calc-note">Based on a standard 4.5x income multiple. Most lenders use between 4x and 5x. Your actual offer depends on credit score, outgoings, and lender criteria. Always consult a whole-of-market mortgage broker for the best deal.</p>
+</div>
+
+<h2>Next Steps</h2>
+<div class="calc-box">
+  <strong>Get a mortgage in principle first.</strong> This is a soft credit check that tells you exactly what you can borrow before you start house hunting. Free from most brokers and lenders. Try <a href="https://www.moneyhelper.org.uk/en/homes/buying-a-home/mortgage-affordability-calculator" target="_blank" rel="noopener">MoneyHelper's mortgage calculator</a> for a more detailed estimate.
+</div>
+
+<script>
+var POUND = String.fromCharCode(163);
+function fmt(n){ return POUND + Math.round(n).toLocaleString('en-GB'); }
+function fmtDec(n){ return POUND + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
+
+function calcMortgage() {
+  var inc1      = parseFloat(document.getElementById('mg-inc1').value) || 0;
+  var inc2      = parseFloat(document.getElementById('mg-inc2').value) || 0;
+  var deposit   = parseFloat(document.getElementById('mg-deposit').value) || 0;
+  var rate      = parseFloat(document.getElementById('mg-rate').value) || 4.5;
+  var term      = parseInt(document.getElementById('mg-term').value) || 25;
+  var outgoings = parseFloat(document.getElementById('mg-outgoings').value) || 0;
+  if (inc1 <= 0) { alert('Please enter at least one income.'); return; }
+
+  var totalIncome = inc1 + inc2;
+  var maxBorrow   = totalIncome * 4.5;
+  var maxProperty = maxBorrow + deposit;
+  var ltv         = deposit > 0 ? (1 - deposit / maxProperty) * 100 : 100;
+
+  var monthlyRate = rate / 100 / 12;
+  var months = term * 12;
+  var monthlyPayment = monthlyRate > 0
+    ? maxBorrow * (monthlyRate * Math.pow(1+monthlyRate, months)) / (Math.pow(1+monthlyRate, months) - 1)
+    : maxBorrow / months;
+  var totalRepaid = monthlyPayment * months;
+  var totalInterest = totalRepaid - maxBorrow;
+  var affordableFlag = monthlyPayment + outgoings < totalIncome * 0.35;
+
+  var stressRate = (rate + 3) / 100 / 12;
+  var stressMonthly = stressRate > 0
+    ? maxBorrow * (stressRate * Math.pow(1+stressRate, months)) / (Math.pow(1+stressRate, months) - 1)
+    : maxBorrow / months;
+
+  var html = '';
+  html += '<div class="result-row"><span>Combined income</span><span>' + fmt(totalIncome) + '/yr</span></div>';
+  html += '<div class="result-row"><span>Maximum borrowing (4.5x)</span><span>' + fmt(maxBorrow) + '</span></div>';
+  html += '<div class="result-row"><span>Maximum property price</span><span>' + fmt(maxProperty) + '</span></div>';
+  html += '<div class="result-row"><span>Loan-to-value (LTV)</span><span>' + ltv.toFixed(1) + '%</span></div>';
+  html += '<div class="result-row total"><span>Estimated monthly payment</span><span>' + fmtDec(monthlyPayment) + '/mo</span></div>';
+  html += '<div class="result-row"><span>Total repaid over ' + term + ' years</span><span>' + fmt(totalRepaid) + '</span></div>';
+  html += '<div class="result-row red"><span>Total interest paid</span><span>' + fmt(totalInterest) + '</span></div>';
+  html += '<div class="result-row ' + (affordableFlag ? 'green' : 'red') + '"><span>Affordability check</span><span>' + (affordableFlag ? 'Looks comfortable' : 'May be a stretch') + '</span></div>';
+  html += '<div class="result-row amber"><span>Stress-tested at ' + (rate+3).toFixed(1) + '%</span><span>' + fmtDec(stressMonthly) + '/mo</span></div>';
+
+  if (ltv > 90) html += '<div style="background:#fef2f2;border-left:4px solid #ef4444;padding:0.7em 1em;margin-top:0.8em;border-radius:0 6px 6px 0;font-size:0.9em">LTV above 90% — fewer lenders available and higher rates likely. A larger deposit significantly improves your options.</div>';
+  else if (ltv > 75) html += '<div style="background:#fffbeb;border-left:4px solid #f59e0b;padding:0.7em 1em;margin-top:0.8em;border-radius:0 6px 6px 0;font-size:0.9em">LTV between 75–90% — decent range of lenders, though a slightly larger deposit could unlock better rates.</div>';
+  else html += '<div style="background:var(--green-light);border-left:4px solid var(--green);padding:0.7em 1em;margin-top:0.8em;border-radius:0 6px 6px 0;font-size:0.9em">LTV below 75% — you should qualify for the most competitive mortgage rates.</div>';
+
+  document.getElementById('mg-rows').innerHTML = html;
+  document.getElementById('mg-result').style.display = 'block';
+}
+
+document.getElementById('mg-btn').addEventListener('click', calcMortgage);
+</script>

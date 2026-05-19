@@ -1,0 +1,125 @@
+---
+layout: page
+title: "Stamp Duty Calculator — UK Finance Guide"
+description: "Calculate stamp duty (SDLT/LBTT/LTT) for England, Scotland and Wales — standard buyers, first-time buyers, and additional properties."
+permalink: /calculators/stamp-duty/
+---
+
+<h1>Stamp Duty Calculator</h1>
+<p>Calculate how much stamp duty you'll pay based on the property price, location, and buyer type. Covers England &amp; Northern Ireland (SDLT), Scotland (LBTT), and Wales (LTT).</p>
+
+<div class="calc-grid">
+  <div class="calc-field">
+    <label>Property Price (£)</label>
+    <input id="sd-price" type="number" min="0" placeholder="e.g. 350000">
+  </div>
+  <div class="calc-field">
+    <label>Country</label>
+    <select id="sd-country">
+      <option value="england">England &amp; Northern Ireland</option>
+      <option value="scotland">Scotland</option>
+      <option value="wales">Wales</option>
+    </select>
+  </div>
+  <div class="calc-field">
+    <label>Buyer Type</label>
+    <select id="sd-buyer">
+      <option value="standard">Standard buyer</option>
+      <option value="ftb">First-time buyer</option>
+      <option value="additional">Additional property (BTL/second home)</option>
+    </select>
+  </div>
+</div>
+
+<button class="calc-btn" id="sd-btn">Calculate Stamp Duty</button>
+
+<div class="calc-result" id="sd-result">
+  <h3>Your Stamp Duty</h3>
+  <div id="sd-rows"></div>
+  <p class="calc-note" id="sd-note"></p>
+</div>
+
+<h2>2025 Rates at a Glance</h2>
+<div class="calc-box">
+  <strong>England &amp; NI (SDLT) — Standard buyer:</strong><br>
+  0% up to £125,000 &bull; 2% £125k–£250k &bull; 5% £250k–£925k &bull; 10% £925k–£1.5m &bull; 12% above £1.5m
+</div>
+<div class="calc-box">
+  <strong>First-time buyers (England &amp; NI):</strong><br>
+  0% up to £300,000 &bull; 5% £300k–£500k &bull; Standard rates above £500,000
+</div>
+<div class="calc-box">
+  <strong>Additional properties:</strong><br>
+  Standard rates + 3% surcharge on each band
+</div>
+
+<script>
+var POUND = String.fromCharCode(163);
+function fmt(n){ return POUND + Math.round(n).toLocaleString('en-GB'); }
+
+var BANDS = {
+  england: {
+    standard:   [[125000,0],[250000,0.02],[925000,0.05],[1500000,0.10],[Infinity,0.12]],
+    ftb:        [[300000,0],[500000,0.05],[925000,0.05],[1500000,0.10],[Infinity,0.12]],
+    additional: [[125000,0.03],[250000,0.05],[925000,0.08],[1500000,0.13],[Infinity,0.15]]
+  },
+  scotland: {
+    standard:   [[145000,0],[250000,0.02],[325000,0.05],[750000,0.10],[Infinity,0.12]],
+    ftb:        [[145000,0],[250000,0.02],[325000,0.05],[750000,0.10],[Infinity,0.12]],
+    additional: [[145000,0.06],[250000,0.08],[325000,0.11],[750000,0.16],[Infinity,0.18]]
+  },
+  wales: {
+    standard:   [[225000,0],[400000,0.06],[750000,0.075],[1500000,0.10],[Infinity,0.12]],
+    ftb:        [[225000,0],[400000,0.06],[750000,0.075],[1500000,0.10],[Infinity,0.12]],
+    additional: [[225000,0.04],[400000,0.10],[750000,0.115],[1500000,0.14],[Infinity,0.16]]
+  }
+};
+
+var BAND_LABELS = {
+  england: ['Up to £125,000','£125,001–£250,000','£250,001–£925,000','£925,001–£1,500,000','Above £1,500,000'],
+  scotland:['Up to £145,000','£145,001–£250,000','£250,001–£325,000','£325,001–£750,000','Above £750,000'],
+  wales:   ['Up to £225,000','£225,001–£400,000','£400,001–£750,000','£750,001–£1,500,000','Above £1,500,000']
+};
+
+function calcStampDuty() {
+  var price   = parseFloat(document.getElementById('sd-price').value) || 0;
+  var country = document.getElementById('sd-country').value;
+  var buyer   = document.getElementById('sd-buyer').value;
+  if (price <= 0) { alert('Please enter a property price.'); return; }
+
+  var bands = BANDS[country][buyer];
+  var labels = BAND_LABELS[country];
+  var prev = 0, total = 0, html = '';
+
+  var ftbEnglandZero = (country === 'england' && buyer === 'ftb' && price <= 300000);
+  if (ftbEnglandZero) {
+    html = '<div class="result-row green"><span>No stamp duty payable (FTB relief)</span><span>' + fmt(0) + '</span></div>';
+    total = 0;
+  } else {
+    for (var i = 0; i < bands.length; i++) {
+      var ceiling = bands[i][0], rate = bands[i][1];
+      var taxable = Math.max(0, Math.min(price, ceiling) - prev);
+      var tax = taxable * rate;
+      if (taxable > 0 && rate > 0) {
+        html += '<div class="result-row"><span>' + labels[i] + ' at ' + (rate*100) + '%</span><span>' + fmt(tax) + '</span></div>';
+        total += tax;
+      } else if (taxable > 0) {
+        html += '<div class="result-row"><span>' + labels[i] + ' at 0%</span><span>' + fmt(0) + '</span></div>';
+      }
+      prev = ceiling;
+      if (price <= ceiling) break;
+    }
+  }
+
+  html += '<div class="result-row total"><span>Total Stamp Duty</span><span>' + fmt(total) + '</span></div>';
+  html += '<div class="result-row"><span>Effective rate</span><span>' + (price > 0 ? (total/price*100).toFixed(2) : '0.00') + '%</span></div>';
+
+  document.getElementById('sd-rows').innerHTML = html;
+  var note = country === 'england' ? 'England & Northern Ireland SDLT rates effective 1 April 2025.' : country === 'scotland' ? 'Scotland LBTT rates. Additional Dwelling Supplement (ADS) applies to additional properties.' : 'Wales LTT rates. Higher rates apply to additional properties.';
+  if (buyer === 'ftb' && country === 'england' && price > 500000) note += ' First-time buyer relief does not apply above £500,000.';
+  document.getElementById('sd-note').textContent = note;
+  document.getElementById('sd-result').style.display = 'block';
+}
+
+document.getElementById('sd-btn').addEventListener('click', calcStampDuty);
+</script>

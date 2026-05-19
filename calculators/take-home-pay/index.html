@@ -1,0 +1,154 @@
+---
+layout: page
+title: "Take-Home Pay Calculator — UK Finance Guide"
+description: "See your exact take-home pay after income tax, National Insurance, pension, and student loan deductions. 2025/26 tax year."
+permalink: /calculators/take-home-pay/
+---
+
+<h1>Take-Home Pay Calculator</h1>
+<p>Enter your gross salary to see your estimated take-home pay after income tax, National Insurance, and optional student loan or pension deductions. Based on 2025/26 tax year rates.</p>
+
+<div class="calc-grid">
+  <div class="calc-field">
+    <label>Gross Annual Salary (£)</label>
+    <input id="th-salary" type="number" min="0" placeholder="e.g. 35000">
+  </div>
+  <div class="calc-field">
+    <label>Pension Contribution</label>
+    <select id="th-pension">
+      <option value="0">None</option>
+      <option value="3">3%</option>
+      <option value="4">4%</option>
+      <option value="5">5% (auto-enrolment minimum)</option>
+      <option value="6">6%</option>
+      <option value="8">8%</option>
+      <option value="10">10%</option>
+    </select>
+  </div>
+  <div class="calc-field">
+    <label>Student Loan Plan</label>
+    <select id="th-loan">
+      <option value="none">None</option>
+      <option value="plan1">Plan 1</option>
+      <option value="plan2">Plan 2</option>
+      <option value="plan4">Plan 4 (Scotland)</option>
+      <option value="plan5">Plan 5</option>
+      <option value="postgrad">Postgraduate</option>
+    </select>
+  </div>
+  <div class="calc-field">
+    <label>Tax Code</label>
+    <select id="th-taxcode">
+      <option value="standard">1257L (standard)</option>
+      <option value="scottish">Scottish rates (S1257L)</option>
+      <option value="br">BR (no personal allowance)</option>
+    </select>
+  </div>
+</div>
+<button class="calc-btn" id="th-btn">Calculate Take-Home Pay</button>
+
+<div class="calc-result" id="th-result">
+  <h3>Annual Take-Home</h3>
+  <div id="th-rows"></div>
+  <div style="margin-top:1em;display:grid;grid-template-columns:1fr 1fr 1fr;gap:0.6em;text-align:center">
+    <div style="background:var(--green-light);border-radius:var(--radius);padding:0.7em">
+      <div style="font-size:0.8em;color:var(--muted)">Monthly</div>
+      <div style="font-weight:700;font-size:1.1em" id="th-monthly">-</div>
+    </div>
+    <div style="background:var(--green-light);border-radius:var(--radius);padding:0.7em">
+      <div style="font-size:0.8em;color:var(--muted)">Weekly</div>
+      <div style="font-weight:700;font-size:1.1em" id="th-weekly">-</div>
+    </div>
+    <div style="background:var(--green-light);border-radius:var(--radius);padding:0.7em">
+      <div style="font-size:0.8em;color:var(--muted)">Daily (5-day week)</div>
+      <div style="font-weight:700;font-size:1.1em" id="th-daily">-</div>
+    </div>
+  </div>
+  <p class="calc-note">Estimates only. Does not account for benefits-in-kind, bonuses, or Scotland-specific income tax bands (when English rates selected). Consult a payroll professional for exact figures.</p>
+</div>
+
+<h2>2025/26 Tax Rates</h2>
+<div class="calc-box">
+  <strong>Income Tax (England, Wales &amp; NI)</strong><br>
+  Personal allowance: £12,570 &bull; Basic rate 20%: £12,571–£50,270 &bull; Higher rate 40%: £50,271–£125,140 &bull; Additional rate 45%: above £125,140
+</div>
+<div class="calc-box">
+  <strong>National Insurance (Class 1 Employee)</strong><br>
+  8% on earnings between £12,570 and £50,270 &bull; 2% above £50,270
+</div>
+
+<script>
+var POUND = String.fromCharCode(163);
+function fmt(n){ return POUND + Math.round(n).toLocaleString('en-GB'); }
+
+var LOAN_THRESHOLDS = { plan1:24990, plan2:27295, plan4:31395, plan5:25000, postgrad:21000 };
+var LOAN_RATES = { plan1:0.09, plan2:0.09, plan4:0.09, plan5:0.09, postgrad:0.06 };
+
+function calcTax(gross, scottish) {
+  var pa = 12570;
+  if (gross > 100000) pa = Math.max(0, 12570 - (gross - 100000) / 2);
+  var taxable = Math.max(0, gross - pa);
+  var tax = 0;
+  if (!scottish) {
+    if (taxable <= 37700)       tax = taxable * 0.20;
+    else if (taxable <= 112570) tax = 37700*0.20 + (taxable-37700)*0.40;
+    else                        tax = 37700*0.20 + 74870*0.40 + (taxable-112570)*0.45;
+  } else {
+    var bands = [[2306,0.19],[13991,0.20],[31092,0.21],[62430,0.42],[Infinity,0.45]];
+    var prev = 0, t = taxable;
+    for (var i=0;i<bands.length;i++){
+      var bw=bands[i][0], br=bands[i][1];
+      var chunk=Math.min(t,bw);
+      tax+=chunk*br; t-=chunk; if(t<=0)break;
+    }
+  }
+  return tax;
+}
+
+function calcNI(gross) {
+  var ni = 0;
+  if (gross > 12570) ni += Math.min(gross, 50270) * 0.08 - 12570 * 0.08;
+  if (gross > 50270) ni += (gross - 50270) * 0.02;
+  return ni;
+}
+
+function calcTakeHome() {
+  var gross    = parseFloat(document.getElementById('th-salary').value) || 0;
+  var pensPct  = parseFloat(document.getElementById('th-pension').value) || 0;
+  var loanPlan = document.getElementById('th-loan').value;
+  var taxCode  = document.getElementById('th-taxcode').value;
+  if (gross <= 0) { alert('Please enter a salary.'); return; }
+
+  var pension   = gross * pensPct / 100;
+  var taxable   = gross - pension;
+  var tax       = taxCode === 'br' ? taxable * 0.20 : calcTax(taxable, taxCode === 'scottish');
+  var ni        = calcNI(gross);
+  var loanRepay = 0;
+  if (loanPlan !== 'none' && LOAN_THRESHOLDS[loanPlan]) {
+    loanRepay = Math.max(0, gross - LOAN_THRESHOLDS[loanPlan]) * LOAN_RATES[loanPlan];
+  }
+  var takeHome = gross - tax - ni - pension - loanRepay;
+
+  var rows = [
+    {label:'Gross salary', val: gross, cls:''},
+    {label:'Income tax', val: -tax, cls:'red'},
+    {label:'National Insurance', val: -ni, cls:'red'},
+  ];
+  if (pension > 0)    rows.push({label:'Pension contribution (' + pensPct + '%)', val:-pension, cls:'red'});
+  if (loanRepay > 0)  rows.push({label:'Student loan repayment', val:-loanRepay, cls:'red'});
+  rows.push({label:'Annual take-home pay', val:takeHome, cls:'total green'});
+
+  var html = rows.map(function(r){
+    var disp = r.val < 0 ? ('-' + fmt(Math.abs(r.val))) : fmt(r.val);
+    return '<div class="result-row ' + r.cls + '"><span>' + r.label + '</span><span>' + disp + '</span></div>';
+  }).join('');
+
+  document.getElementById('th-rows').innerHTML = html;
+  document.getElementById('th-monthly').textContent = fmt(takeHome / 12);
+  document.getElementById('th-weekly').textContent  = fmt(takeHome / 52);
+  document.getElementById('th-daily').textContent   = fmt(takeHome / 260);
+  document.getElementById('th-result').style.display = 'block';
+}
+
+document.getElementById('th-btn').addEventListener('click', calcTakeHome);
+</script>

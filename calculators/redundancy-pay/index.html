@@ -1,0 +1,92 @@
+---
+layout: page
+title: "Redundancy Pay Calculator — UK Finance Guide"
+description: "Calculate your statutory redundancy pay based on age, years of service, and weekly pay. 2024/25 rates."
+permalink: /calculators/redundancy-pay/
+---
+
+<h1>Redundancy Pay Calculator</h1>
+<p>Calculate your statutory redundancy pay entitlement based on your age, length of service, and weekly pay. You must have worked for your employer for <strong>at least 2 continuous years</strong> to qualify.</p>
+
+<div class="calc-grid">
+  <div class="calc-field">
+    <label>Age at Date of Redundancy</label>
+    <input id="rp-age" type="number" min="16" max="80" placeholder="e.g. 38">
+  </div>
+  <div class="calc-field">
+    <label>Complete Years of Service</label>
+    <input id="rp-years" type="number" min="0" max="50" placeholder="e.g. 7">
+  </div>
+  <div class="calc-field">
+    <label>Gross Weekly Pay (£)</label>
+    <input id="rp-weekly" type="number" min="0" placeholder="e.g. 650">
+  </div>
+</div>
+
+<div class="box blue">
+  Weekly pay is capped at <strong>£643/week</strong> (2024/25 rate — reviewed annually). If you earn more than this, the cap applies.
+</div>
+
+<button class="calc-btn" id="rp-btn">Calculate Redundancy Pay</button>
+
+<div class="calc-result" id="rp-result">
+  <h3>Your Statutory Redundancy Pay</h3>
+  <div id="rp-rows"></div>
+  <div id="rp-breakdown" style="margin-top:1em;font-size:0.88em;color:var(--muted);line-height:1.8;padding:0.75rem 1rem;border-top:1px solid var(--border)"></div>
+  <p class="calc-note">Statutory redundancy pay up to £30,000 is tax-free. Your employer may offer an enhanced package above the statutory minimum — check your employment contract.</p>
+</div>
+
+<h2>How It's Calculated</h2>
+<div class="calc-box">
+  For each complete year of service (max 20 years):<br>
+  &bull; <strong>Age under 22:</strong> &frac12; week's pay per year<br>
+  &bull; <strong>Age 22–40:</strong> 1 week's pay per year<br>
+  &bull; <strong>Age 41 or over:</strong> 1&frac12; weeks' pay per year<br>
+  Weekly pay is capped at £643. Maximum total statutory pay: £19,290.
+</div>
+
+<div class="box green">
+  <strong>Also see:</strong> <a href="{{ '/guides/redundancy-rights/' | relative_url }}">Redundancy Rights Guide</a> — your notice period, the consultation process, and what to do in the first week.
+</div>
+
+<script>
+var POUND = String.fromCharCode(163);
+function fmt(n){ return POUND + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
+var WEEKLY_CAP = 643;
+
+function calcRedundancy() {
+  var age    = parseInt(document.getElementById('rp-age').value) || 0;
+  var years  = parseInt(document.getElementById('rp-years').value) || 0;
+  var weekly = parseFloat(document.getElementById('rp-weekly').value) || 0;
+  if (age < 16 || years < 2 || weekly <= 0) {
+    alert('Please enter your age (16+), years of service (2+ to qualify), and weekly pay.');
+    return;
+  }
+  var cappedWeekly = Math.min(weekly, WEEKLY_CAP);
+  var cappedYears  = Math.min(years, 20);
+  var total = 0, breakdown = [], currentAge = age;
+
+  for (var y = 0; y < cappedYears; y++) {
+    var ageAtYear = currentAge - y;
+    var mult, desc;
+    if (ageAtYear < 22)       { mult = 0.5; desc = '(under 22: x0.5)'; }
+    else if (ageAtYear <= 40) { mult = 1.0; desc = '(age 22–40: x1)'; }
+    else                       { mult = 1.5; desc = '(age 41+: x1.5)'; }
+    total += cappedWeekly * mult;
+    breakdown.push('Year ' + (y+1) + ': age ' + ageAtYear + ' ' + desc + ' = ' + fmt(cappedWeekly * mult));
+  }
+
+  var html = '';
+  if (weekly > WEEKLY_CAP) html += '<div class="result-row amber"><span>Weekly pay capped at</span><span>' + fmt(WEEKLY_CAP) + '/week</span></div>';
+  html += '<div class="result-row"><span>Qualifying years (max 20)</span><span>' + cappedYears + ' years</span></div>';
+  html += '<div class="result-row total green"><span>Statutory redundancy pay</span><span>' + fmt(total) + '</span></div>';
+  if (total > 30000) html += '<div class="result-row red"><span>Amount above £30,000 tax-free limit</span><span>' + fmt(total-30000) + ' (taxable)</span></div>';
+  else html += '<div class="result-row green"><span>Tax due on this amount</span><span>None (under £30,000)</span></div>';
+
+  document.getElementById('rp-rows').innerHTML = html;
+  document.getElementById('rp-breakdown').innerHTML = '<strong>Year-by-year breakdown:</strong><br>' + breakdown.join('<br>');
+  document.getElementById('rp-result').style.display = 'block';
+}
+
+document.getElementById('rp-btn').addEventListener('click', calcRedundancy);
+</script>
