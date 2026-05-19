@@ -14,7 +14,8 @@ layout: default
       <header class="post-header">
         <div class="post-labels">
           {% for label in page.labels %}
-          <span class="label-pill">{{ label }}</span>
+          {% assign label_slug = label | downcase %}
+          <a href="{{ '/category/' | append: label_slug | relative_url }}" class="label-pill">{{ label }}</a>
           {% endfor %}
         </div>
         <h1 class="post-title">{{ page.title }}</h1>

@@ -2,6 +2,18 @@
 layout: default
 ---
 <div class="container">
+  <nav class="news-filters" aria-label="Filter by topic">
+    <a href="{{ '/' | relative_url }}" class="news-filter-pill{% if page.url == '/' %} active{% endif %}">All</a>
+    <a href="{{ '/category/benefits/' | relative_url }}" class="news-filter-pill">Benefits</a>
+    <a href="{{ '/category/debt/' | relative_url }}" class="news-filter-pill">Debt</a>
+    <a href="{{ '/category/savings/' | relative_url }}" class="news-filter-pill">Savings</a>
+    <a href="{{ '/category/mortgages/' | relative_url }}" class="news-filter-pill">Mortgages</a>
+    <a href="{{ '/category/tax/' | relative_url }}" class="news-filter-pill">Tax</a>
+    <a href="{{ '/category/energy/' | relative_url }}" class="news-filter-pill">Energy</a>
+    <a href="{{ '/category/jobs/' | relative_url }}" class="news-filter-pill">Jobs</a>
+    <a href="{{ '/category/redundancy/' | relative_url }}" class="news-filter-pill">Redundancy</a>
+  </nav>
+
   <div class="home-layout">
     <main class="post-list">
       <div class="post-grid">
@@ -15,7 +27,8 @@ layout: default
           <div class="post-card-body">
             <div class="post-card-labels">
               {% for label in post.labels limit:2 %}
-              <span class="label-pill label-pill--sm">{{ label }}</span>
+              {% assign label_slug = label | downcase %}
+              <a href="{{ '/category/' | append: label_slug | relative_url }}" class="label-pill label-pill--sm">{{ label }}</a>
               {% endfor %}
             </div>
             <h2 class="post-card-title">
