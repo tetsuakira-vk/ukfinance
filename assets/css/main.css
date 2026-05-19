@@ -191,28 +191,35 @@ a.label-pill:hover { background: var(--green); color: #fff; }
 .news-filters {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  padding: 0.85rem 0;
-  border-bottom: 1px solid var(--border);
-  margin-bottom: 1.25rem;
+  gap: 0.45rem;
+  padding: 1rem 0 1.1rem;
+  border-bottom: 2px solid var(--border);
+  margin-bottom: 1.5rem;
 }
 .news-filter-pill {
   display: inline-block;
-  padding: 0.3rem 0.8rem;
+  padding: 0.38rem 1rem;
   border-radius: 99px;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 600;
-  color: var(--muted);
-  background: var(--bg-card);
-  border: 1px solid var(--border);
+  color: #374151;
+  background: #fff;
+  border: 1.5px solid #d1d5db;
   text-decoration: none;
-  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+  transition: background 0.15s, color 0.15s, border-color 0.15s, box-shadow 0.15s;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
 }
-.news-filter-pill:hover,
+.news-filter-pill:hover {
+  background: var(--green-light);
+  color: var(--green);
+  border-color: var(--green-mid);
+}
 .news-filter-pill.active {
   background: var(--green);
   color: #fff;
   border-color: var(--green);
+  box-shadow: 0 1px 4px rgba(26,107,60,0.25);
 }
 
 /* ── Sidebar ──────────────────────────────────────────────────────────────── */
