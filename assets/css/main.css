@@ -239,3 +239,13 @@ img { max-width: 100%; height: auto; display: block; }
   .nav-toggle { display: block; }
   .site-header { position: relative; }
 }
+
+/* ── Category pages ──────────────────────────────────────────────────────── */
+.category-heading {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 3px solid var(--green);
+}
+.no-posts { color: var(--muted); font-style: italic; }

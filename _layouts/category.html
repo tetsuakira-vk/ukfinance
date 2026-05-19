@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="home-layout">
+    <main class="post-list">
+      <h1 class="category-heading">{{ page.category_label }}</h1>
+
+      {% assign filtered = site.posts | where_exp: "post", "post.labels contains page.category_label" %}
+      {% if filtered.size == 0 %}
+      <p class="no-posts">No articles yet in this category — check back soon.</p>
+      {% else %}
+      <div class="post-grid">
+        {% for post in filtered %}
+        <article class="post-card">
+          {% if post.image %}
+          <a href="{{ post.url | relative_url }}" class="post-card-img-wrap">
+            <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+          </a>
+          {% endif %}
+          <div class="post-card-body">
+            <div class="post-card-labels">
+              {% for label in post.labels limit:2 %}
+              <span class="label-pill label-pill--sm">{{ label }}</span>
+              {% endfor %}
+            </div>
+            <h2 class="post-card-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+            <div class="post-card-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time>
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </main>
+
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+  </div>
+</div>
