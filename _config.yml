@@ -1,0 +1,39 @@
+title: UK Finance Guide
+description: "Plain-English personal finance advice and news for everyday UK readers — benefits, budgeting, debt, savings, mortgages and more."
+url: "https://tetsuakira-vk.github.io"
+baseurl: "/ukfinance"
+
+author:
+  name: UK Finance Guide
+  email: robertjohnathannelson@gmail.com
+
+lang: en
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 15
+paginate_path: "/page/:num/"
+
+permalink: /:year/:month/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - "*.sh"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="home-layout">
+    <main class="post-list">
+      <div class="post-grid">
+        {% for post in paginator.posts %}
+        <article class="post-card">
+          {% if post.image %}
+          <a href="{{ post.url | relative_url }}" class="post-card-img-wrap">
+            <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+          </a>
+          {% endif %}
+          <div class="post-card-body">
+            <div class="post-card-labels">
+              {% for label in post.labels limit:2 %}
+              <span class="label-pill label-pill--sm">{{ label }}</span>
+              {% endfor %}
+            </div>
+            <h2 class="post-card-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+            <div class="post-card-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time>
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+
+      <nav class="pagination">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-btn">&larr; Newer</a>
+        {% endif %}
+        <span class="pagination-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-btn">Older &rarr;</a>
+        {% endif %}
+      </nav>
+    </main>
+
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+  </div>
+</div>

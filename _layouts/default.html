@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% seo title=false %}
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <a href="{{ '/' | relative_url }}" class="site-logo">
+          <span class="logo-text">UK Finance Guide</span>
+          <span class="logo-sub">Personal finance for everyday British readers</span>
+        </a>
+        <nav class="site-nav">
+          <a href="{{ '/' | relative_url }}">News</a>
+          <a href="{{ '/category/budgeting/' | relative_url }}">Budgeting</a>
+          <a href="{{ '/category/benefits/' | relative_url }}">Benefits</a>
+          <a href="{{ '/category/debt/' | relative_url }}">Debt</a>
+          <a href="{{ '/category/savings/' | relative_url }}">Savings</a>
+          <a href="{{ '/category/mortgages/' | relative_url }}">Mortgages</a>
+          <a href="{{ '/category/tax/' | relative_url }}">Tax</a>
+          <a href="{{ '/category/energy/' | relative_url }}">Energy</a>
+        </nav>
+        <button class="nav-toggle" aria-label="Menu">&#9776;</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <p class="footer-legal">UK Finance Guide is for information only and does not constitute regulated financial advice. Always seek independent advice from a qualified professional before making financial decisions.</p>
+        <p class="footer-links">
+          <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+        </p>
+        <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} UK Finance Guide</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.querySelector('.nav-toggle');
+    const nav = document.querySelector('.site-nav');
+    if (toggle && nav) {
+      toggle.addEventListener('click', () => nav.classList.toggle('open'));
+    }
+  </script>
+
+</body>
+</html>
