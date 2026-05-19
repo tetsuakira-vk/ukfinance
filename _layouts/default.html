@@ -24,6 +24,7 @@
           </span>
         </a>
         <nav class="site-nav">
+          <a href="{{ '/start/' | relative_url }}" class="nav-start">Start Here</a>
           <a href="{{ '/' | relative_url }}">News</a>
           <a href="{{ '/category/deals/' | relative_url }}">Deals</a>
           <a href="{{ '/guides/' | relative_url }}">Guides</a>
@@ -31,6 +32,7 @@
           <a href="{{ '/category/benefits/' | relative_url }}">Benefits</a>
           <a href="{{ '/resources/' | relative_url }}">Resources</a>
           <a href="{{ '/mental-health/' | relative_url }}">Mental Health</a>
+          <a href="{{ '/search/' | relative_url }}" class="nav-search" aria-label="Search">&#128269;</a>
         </nav>
         <button class="nav-toggle" aria-label="Menu">&#9776;</button>
       </div>
@@ -44,11 +46,16 @@
   <footer class="site-footer">
     <div class="container">
       <div class="footer-inner">
-        <p class="footer-legal">UK Finance Guide is for information only and does not constitute regulated financial advice. Always seek independent advice from a qualified professional before making financial decisions.</p>
+        <p class="footer-legal">Here to Help with Money UK is for information only and does not constitute regulated financial advice. Always seek independent advice from a qualified professional before making financial decisions.</p>
         <p class="footer-links">
+          <a href="{{ '/start/' | relative_url }}">Start Here</a> &middot;
+          <a href="{{ '/guides/' | relative_url }}">Guides</a> &middot;
+          <a href="{{ '/calculators/' | relative_url }}">Calculators</a> &middot;
+          <a href="{{ '/resources/' | relative_url }}">Resources</a> &middot;
+          <a href="{{ '/search/' | relative_url }}">Search</a> &middot;
           <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
         </p>
-        <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} UK Finance Guide</p>
+        <p class="footer-copy">&copy; {{ site.time | date: "%Y" }} Here to Help with Money UK</p>
       </div>
     </div>
   </footer>

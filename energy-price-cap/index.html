@@ -1,0 +1,102 @@
+---
+layout: page
+title: "UK Energy Price Cap Tracker — Here to Help with Money UK"
+description: "Track the Ofgem energy price cap — current rate, full history from 2021, and what it means for your bills."
+permalink: /energy-price-cap/
+---
+
+<h1>UK Energy Price Cap Tracker</h1>
+<p>The Ofgem energy price cap sets the maximum unit rates and standing charges energy suppliers can charge. It applies to typical dual-fuel households on a standard variable tariff and is reviewed every quarter.</p>
+
+<div class="crisis" style="background:var(--green-light);border-left:4px solid var(--green);color:inherit">
+  <strong>Current cap (Q2 2025, Apr–Jun 2025): £1,849/year</strong> for a typical household using 11,500 kWh gas and 2,900 kWh electricity.<br>
+  <a href="https://www.ofgem.gov.uk/check-if-energy-price-cap-affects-you" target="_blank" rel="noopener">Check the latest rate at Ofgem &rarr;</a>
+</div>
+
+<style>
+  .cap-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; font-size: 0.9rem; }
+  .cap-table th { background: var(--green); color: #fff; padding: 0.6rem 0.8rem; text-align: left; }
+  .cap-table td { padding: 0.55rem 0.8rem; border-bottom: 1px solid var(--border); }
+  .cap-table tr:last-child td { border-bottom: none; }
+  .cap-table .cap-red    td:nth-child(2) { color: #c0392b; font-weight: 700; }
+  .cap-table .cap-amber  td:nth-child(2) { color: #b45309; font-weight: 600; }
+  .cap-table .cap-green  td:nth-child(2) { color: var(--green); font-weight: 600; }
+  .cap-table .cap-current { background: var(--green-light); font-weight: 600; }
+  .cap-note { font-size: 0.78rem; color: var(--muted); }
+  .cap-bar-wrap { margin: 1.5rem 0; }
+  .cap-bar-row { display: flex; align-items: center; gap: 0.75rem; margin: 0.4rem 0; font-size: 0.82rem; }
+  .cap-bar-label { width: 120px; flex-shrink: 0; color: var(--muted); }
+  .cap-bar-track { flex: 1; background: var(--border); border-radius: 4px; height: 20px; overflow: hidden; }
+  .cap-bar-fill  { height: 100%; border-radius: 4px; transition: width 0.3s; }
+  .cap-bar-val   { width: 60px; flex-shrink: 0; font-weight: 600; }
+</style>
+
+<h2>Cap History</h2>
+<p>The typical annual bill figure below is for a household using the Ofgem average amount of energy. Your actual bill depends on your usage, tariff, and location.</p>
+
+<table class="cap-table">
+  <thead>
+    <tr><th>Quarter</th><th>Typical Annual Bill</th><th>Change</th><th>Notes</th></tr>
+  </thead>
+  <tbody>
+    <tr class="cap-green"><td>Oct–Dec 2021</td><td>£1,277</td><td>—</td><td>Cap introduced on unit rates</td></tr>
+    <tr class="cap-red">  <td>Apr–Jun 2022</td><td>£1,971</td><td>+54%</td><td>First major rise post-pandemic</td></tr>
+    <tr class="cap-red">  <td>Oct–Dec 2022</td><td>£2,500</td><td>—</td><td>Energy Price Guarantee (EPG) applied</td></tr>
+    <tr class="cap-red">  <td>Jan–Mar 2023</td><td>£3,000</td><td>+20%</td><td>EPG adjusted upward</td></tr>
+    <tr class="cap-red">  <td>Apr–Jun 2023</td><td>£3,000</td><td>—</td><td>Ofgem cap; EPG ended April 2023</td></tr>
+    <tr class="cap-red">  <td>Jul–Sep 2023</td><td>£2,074</td><td>-31%</td><td>Wholesale prices fall sharply</td></tr>
+    <tr class="cap-amber"><td>Oct–Dec 2023</td><td>£1,834</td><td>-12%</td><td></td></tr>
+    <tr class="cap-amber"><td>Jan–Mar 2024</td><td>£1,928</td><td>+5%</td><td>Winter increase</td></tr>
+    <tr class="cap-green"><td>Apr–Jun 2024</td><td>£1,690</td><td>-12%</td><td></td></tr>
+    <tr class="cap-green"><td>Jul–Sep 2024</td><td>£1,568</td><td>-7%</td><td>Lowest since cap introduction</td></tr>
+    <tr class="cap-amber"><td>Oct–Dec 2024</td><td>£1,717</td><td>+10%</td><td>Winter increase</td></tr>
+    <tr class="cap-amber"><td>Jan–Mar 2025</td><td>£1,738</td><td>+1%</td><td></td></tr>
+    <tr class="cap-current cap-amber"><td>Apr–Jun 2025 &#9664; current</td><td>£1,849</td><td>+6%</td><td></td></tr>
+    <tr><td>Jul–Sep 2025 onwards</td><td colspan="3"><a href="https://www.ofgem.gov.uk/check-if-energy-price-cap-affects-you" target="_blank" rel="noopener">Check current rate at Ofgem &rarr;</a></td></tr>
+  </tbody>
+</table>
+
+<p class="cap-note">* Oct 2022–Mar 2023: the government's Energy Price Guarantee (EPG) capped bills at £2,500 then £3,000 for most households, regardless of the higher Ofgem price cap figure at the time. The EPG ended April 2023.</p>
+
+<h2>At a Glance</h2>
+<div class="cap-bar-wrap">
+  <div class="cap-bar-row"><span class="cap-bar-label">Oct 2021</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:43%;background:var(--green)"></div></div><span class="cap-bar-val">£1,277</span></div>
+  <div class="cap-bar-row"><span class="cap-bar-label">Apr 2022</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:66%;background:#b45309"></div></div><span class="cap-bar-val">£1,971</span></div>
+  <div class="cap-bar-row"><span class="cap-bar-label">Oct 2022</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:83%;background:#c0392b"></div></div><span class="cap-bar-val">£2,500</span></div>
+  <div class="cap-bar-row"><span class="cap-bar-label">Jan 2023</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:100%;background:#c0392b"></div></div><span class="cap-bar-val">£3,000</span></div>
+  <div class="cap-bar-row"><span class="cap-bar-label">Jul 2023</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:69%;background:#b45309"></div></div><span class="cap-bar-val">£2,074</span></div>
+  <div class="cap-bar-row"><span class="cap-bar-label">Oct 2023</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:61%;background:#b45309"></div></div><span class="cap-bar-val">£1,834</span></div>
+  <div class="cap-bar-row"><span class="cap-bar-label">Jul 2024</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:52%;background:var(--green)"></div></div><span class="cap-bar-val">£1,568</span></div>
+  <div class="cap-bar-row"><span class="cap-bar-label">Oct 2024</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:57%;background:#b45309"></div></div><span class="cap-bar-val">£1,717</span></div>
+  <div class="cap-bar-row" style="font-weight:600"><span class="cap-bar-label">Apr 2025 ▶</span><div class="cap-bar-track"><div class="cap-bar-fill" style="width:62%;background:#b45309"></div></div><span class="cap-bar-val">£1,849</span></div>
+</div>
+
+<h2>What the Cap Means for Your Bill</h2>
+<div class="calc-box">
+  The cap <strong>does not</strong> cap your total bill — it caps the unit rate (p/kWh) and standing charge. If you use more energy than the Ofgem "typical" household, you'll pay more. If you use less, you'll pay less.<br><br>
+  The typical household figure assumes <strong>11,500 kWh of gas</strong> and <strong>2,900 kWh of electricity</strong> per year. A small flat will pay significantly less; a large detached house may pay more.
+</div>
+
+<h2>Help with Energy Bills</h2>
+<div class="cards">
+  <div class="card green">
+    <a href="https://www.gov.uk/the-warm-home-discount-scheme" target="_blank" rel="noopener">Warm Home Discount</a>
+    <p>£150 off your electricity bill if you're on certain benefits or a low income. Applied automatically for most eligible households.</p>
+  </div>
+  <div class="card green">
+    <a href="https://www.gov.uk/apply-great-british-insulation-scheme" target="_blank" rel="noopener">ECO4 / Great British Insulation Scheme</a>
+    <p>Free insulation, boiler upgrades, and energy efficiency improvements for eligible low-income and fuel-poor households.</p>
+  </div>
+  <div class="card blue">
+    <a href="https://www.citizensadvice.org.uk/consumer/energy/energy-supply/get-help-paying-your-bills/grants-and-benefits-to-help-you-pay-your-energy-bills/" target="_blank" rel="noopener">Citizens Advice: Energy Bill Help</a>
+    <p>Full list of grants and schemes available to help with energy costs — including charitable funds from energy suppliers.</p>
+  </div>
+  <div class="card blue">
+    <a href="{{ '/guides/energy-bills/' | relative_url }}">Energy Bills Guide</a>
+    <p>Our full guide to the price cap, switching tariffs, and practical tips to cut usage and costs.</p>
+  </div>
+</div>
+
+<div class="box amber" style="margin-top:1rem">
+  <strong>Struggling to pay?</strong> Contact your energy supplier directly — they're required to offer payment plans, debt repayment options, and in some cases emergency credit. You can also get free help from <a href="https://www.citizensadvice.org.uk" target="_blank" rel="noopener">Citizens Advice</a> or call the <strong>National Energy Action helpline: 0800 304 7159</strong>.
+</div>

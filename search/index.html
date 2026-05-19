@@ -1,0 +1,103 @@
+---
+layout: page
+title: "Search — Here to Help with Money UK"
+description: "Search all articles, guides, and advice on Here to Help with Money UK."
+permalink: /search/
+---
+
+<h1>Search</h1>
+
+<div class="search-wrap">
+  <input type="text" id="search-input" class="search-input" placeholder="e.g. redundancy pay, ISA, Universal Credit…" autocomplete="off" autofocus>
+  <button class="calc-btn" id="search-btn" style="margin-top:0.75rem">Search</button>
+</div>
+
+<div id="search-status" style="margin:1rem 0;color:var(--muted);font-size:0.9rem"></div>
+<div id="search-results"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-21OFfqynAbyMHJCPK/k+s9zcKBBQHR6BBk8P7HQOQR9gA8B+m+FycCGzE5pDWvOv5D8KBtNvTlBFQQFwFGjA==" crossorigin="anonymous"></script>
+
+<style>
+  .search-wrap { display: flex; flex-direction: column; max-width: 540px; }
+  .search-input {
+    width: 100%; padding: 0.7rem 1rem; font-size: 1rem;
+    border: 2px solid var(--border); border-radius: 8px;
+    background: #fff; color: var(--text);
+    transition: border-color 0.15s;
+  }
+  .search-input:focus { outline: none; border-color: var(--green); }
+  .search-result-card {
+    border: 1px solid var(--border); border-radius: 10px;
+    padding: 1rem 1.25rem; margin-bottom: 1rem;
+    background: #fff; transition: box-shadow 0.15s;
+  }
+  .search-result-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+  .search-result-card h3 { margin: 0 0 0.35rem; font-size: 1.05rem; }
+  .search-result-card h3 a { color: var(--green); text-decoration: none; }
+  .search-result-card h3 a:hover { text-decoration: underline; }
+  .search-result-meta { font-size: 0.78rem; color: var(--muted); margin-bottom: 0.4rem; }
+  .search-result-excerpt { font-size: 0.88rem; color: var(--text); line-height: 1.6; }
+</style>
+
+<script>
+(function() {
+  var idx, docs;
+  var input  = document.getElementById('search-input');
+  var btn    = document.getElementById('search-btn');
+  var status = document.getElementById('search-status');
+  var results = document.getElementById('search-results');
+
+  var jsonUrl = '{{ "/search.json" | relative_url }}';
+
+  function buildIndex(data) {
+    docs = {};
+    data.forEach(function(d) { docs[d.id] = d; });
+    idx = lunr(function() {
+      this.ref('id');
+      this.field('title', { boost: 10 });
+      this.field('labels', { boost: 5 });
+      this.field('excerpt');
+      data.forEach(function(d) { this.add(d); }, this);
+    });
+  }
+
+  function runSearch(query) {
+    if (!query.trim()) { results.innerHTML = ''; status.textContent = ''; return; }
+    if (!idx) { status.textContent = 'Loading index…'; return; }
+    var hits = idx.search(query.trim() + '~1');
+    if (hits.length === 0) {
+      status.textContent = 'No results for "' + query + '".';
+      results.innerHTML = '';
+      return;
+    }
+    status.textContent = hits.length + ' result' + (hits.length !== 1 ? 's' : '') + ' for "' + query + '"';
+    results.innerHTML = hits.map(function(h) {
+      var d = docs[parseInt(h.ref)];
+      if (!d) return '';
+      var pills = d.labels ? d.labels.split(', ').map(function(l) {
+        return '<a href="{{ \'/category/\' | relative_url }}" class="label-pill label-pill--sm" style="text-decoration:none">' + l + '</a>';
+      }).join(' ') : '';
+      return '<div class="search-result-card">'
+        + '<h3><a href="' + d.url + '">' + d.title + '</a></h3>'
+        + '<div class="search-result-meta">' + d.date + (pills ? ' &nbsp;' + pills : '') + '</div>'
+        + '<p class="search-result-excerpt">' + d.excerpt + '</p>'
+        + '</div>';
+    }).join('');
+  }
+
+  fetch(jsonUrl)
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      buildIndex(data);
+      var q = new URLSearchParams(window.location.search).get('q') || '';
+      if (q) { input.value = q; runSearch(q); }
+    })
+    .catch(function() { status.textContent = 'Search unavailable — please try again later.'; });
+
+  input.addEventListener('keydown', function(e) { if (e.key === 'Enter') runSearch(input.value); });
+  btn.addEventListener('click', function() { runSearch(input.value); });
+  input.addEventListener('input', function() {
+    if (input.value.length >= 3) runSearch(input.value);
+  });
+})();
+</script>

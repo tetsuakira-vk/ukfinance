@@ -1,0 +1,210 @@
+---
+layout: page
+title: "Debt Payoff Calculator — Here to Help with Money UK"
+description: "Free UK debt payoff calculator. Compare the snowball and avalanche methods — see when you'll be debt-free and how much interest you'll save."
+permalink: /calculators/debt-payoff/
+---
+
+<h1>Debt Payoff Calculator</h1>
+<p>Enter your debts below to see exactly when you'll be debt-free and how much interest you'll pay — comparing the two most popular payoff strategies.</p>
+
+<div class="box blue">
+  <strong>❄️ Snowball</strong> — pay off the smallest balance first. Quick wins keep motivation high.<br>
+  <strong>🌊 Avalanche</strong> — pay off the highest interest rate first. Saves the most money overall.
+</div>
+
+<style>
+  .debt-row { background: #fff; border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem; position: relative; }
+  .debt-name-input { width: 100%; padding: 0.5rem 0.75rem; border: 1px solid var(--border); border-radius: 6px; font-size: 0.95rem; background: #fff; color: var(--text); margin-bottom: 0.75rem; box-sizing: border-box; }
+  .debt-fields { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.75rem; }
+  .debt-fields label { display: block; font-size: 0.8rem; font-weight: 600; color: var(--muted); margin-bottom: 0.25rem; }
+  .debt-fields input { width: 100%; padding: 0.45rem 0.6rem; border: 1px solid var(--border); border-radius: 6px; font-size: 0.95rem; background: #fff; color: var(--text); box-sizing: border-box; }
+  .remove-btn { position: absolute; top: 0.75rem; right: 1rem; background: none; border: none; color: var(--muted); font-size: 1.1rem; cursor: pointer; padding: 0; line-height: 1; }
+  .remove-btn:hover { color: #c0392b; }
+  .add-debt-btn { background: none; border: 2px dashed var(--border); border-radius: 10px; width: 100%; padding: 0.75rem; color: var(--muted); font-size: 0.9rem; font-weight: 600; cursor: pointer; margin-bottom: 1.25rem; transition: border-color 0.15s, color 0.15s; }
+  .add-debt-btn:hover { border-color: var(--green); color: var(--green); }
+  .dp-compare { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
+  .dp-method { border: 2px solid var(--border); border-radius: 10px; padding: 1rem 1.25rem; }
+  .dp-method.dp-winner { border-color: var(--green); background: var(--green-light); }
+  .dp-method-name { font-size: 1rem; font-weight: 700; margin-bottom: 0.75rem; }
+  .dp-badge { display: inline-block; background: var(--green); color: #fff; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 99px; margin-left: 0.4rem; vertical-align: middle; }
+  @media (max-width: 500px) {
+    .debt-fields { grid-template-columns: 1fr; }
+    .dp-compare { grid-template-columns: 1fr; }
+  }
+</style>
+
+<div id="debt-rows"></div>
+<button class="add-debt-btn" onclick="addRow()">+ Add another debt</button>
+
+<div class="calc-grid" style="max-width:320px">
+  <div class="calc-field">
+    <label>Extra monthly payment (£) <span style="font-weight:400;color:var(--muted)">(optional — beyond minimums)</span></label>
+    <input id="extra-payment" type="number" min="0" placeholder="0">
+  </div>
+</div>
+
+<button class="calc-btn" onclick="calculate()">Calculate My Payoff Plan</button>
+
+<div id="dp-result" style="display:none"></div>
+
+<h2 style="margin-top:2rem">How the methods work</h2>
+<div class="calc-box">
+  <strong>Snowball:</strong> List debts smallest balance to largest. Pay the minimum on everything, then throw every spare pound at debt #1. When it's gone, roll that payment into debt #2. Psychologically powerful — you see debts disappearing quickly.<br><br>
+  <strong>Avalanche:</strong> Same idea, but ordered by interest rate (highest first). Mathematically optimal — you always pay less total interest. Best if you're disciplined enough to stick with it even when progress feels slow.
+</div>
+
+<div class="box green" style="margin-top:1.5rem">
+  <strong>Also see:</strong> <a href="{{ '/guides/debt-help/' | relative_url }}">Debt Help Guide</a> — if your debts are unmanageable, free help from StepChange or Citizens Advice is always the first step.
+</div>
+
+<script>
+(function() {
+  var POUND = '£';
+  var rowCount = 0;
+
+  window.addRow = function(name, balance, rate, min) {
+    rowCount++;
+    var id = rowCount;
+    var div = document.createElement('div');
+    div.className = 'debt-row';
+    div.id = 'drow-' + id;
+    div.innerHTML =
+      (id > 1 ? '<button class="remove-btn" onclick="removeRow(' + id + ')" title="Remove">&#10005;</button>' : '') +
+      '<input class="debt-name-input" placeholder="Debt name (e.g. Barclaycard, Personal loan)" value="' + (name || '') + '">' +
+      '<div class="debt-fields">' +
+        '<div><label>Balance (' + POUND + ')</label><input type="number" min="0" class="df-balance" placeholder="0" value="' + (balance || '') + '"></div>' +
+        '<div><label>APR (%)</label><input type="number" min="0" max="200" step="0.1" class="df-rate" placeholder="0" value="' + (rate || '') + '"></div>' +
+        '<div><label>Min payment (' + POUND + '/mo)</label><input type="number" min="0" class="df-min" placeholder="0" value="' + (min || '') + '"></div>' +
+      '</div>';
+    document.getElementById('debt-rows').appendChild(div);
+  };
+
+  window.removeRow = function(id) {
+    var el = document.getElementById('drow-' + id);
+    if (el) el.remove();
+  };
+
+  function getDebts() {
+    var rows = document.querySelectorAll('.debt-row');
+    var debts = [];
+    rows.forEach(function(row) {
+      var bal  = parseFloat(row.querySelector('.df-balance').value) || 0;
+      var rate = parseFloat(row.querySelector('.df-rate').value)    || 0;
+      var min  = parseFloat(row.querySelector('.df-min').value)     || 0;
+      var name = row.querySelector('.debt-name-input').value.trim() || 'Debt';
+      if (bal > 0) debts.push({ name: name, balance: bal, rate: rate, min: Math.max(min, 1) });
+    });
+    return debts;
+  }
+
+  function simulate(inputDebts, extra, method) {
+    var ds = inputDebts.map(function(d) {
+      return { name: d.name, balance: d.balance, mRate: d.rate / 100 / 12, min: d.min };
+    });
+    if (method === 'snowball') ds.sort(function(a, b) { return a.balance - b.balance; });
+    else                       ds.sort(function(a, b) { return b.mRate - a.mRate; });
+
+    var totalMin = ds.reduce(function(s, d) { return s + d.min; }, 0);
+    var month = 0, interest = 0;
+
+    while (ds.some(function(d) { return d.balance > 0.01; }) && month < 600) {
+      month++;
+      ds.forEach(function(d) {
+        if (d.balance <= 0) return;
+        var i = d.balance * d.mRate;
+        d.balance += i;
+        interest  += i;
+      });
+      var paid = 0;
+      ds.forEach(function(d) {
+        if (d.balance <= 0) return;
+        var p = Math.min(d.balance, d.min);
+        d.balance -= p; paid += p;
+        if (d.balance < 0.01) d.balance = 0;
+      });
+      var pool = totalMin + extra - paid;
+      ds.forEach(function(d) {
+        if (pool <= 0.01 || d.balance <= 0.01) return;
+        var p = Math.min(d.balance, pool);
+        d.balance -= p; pool -= p;
+        if (d.balance < 0.01) d.balance = 0;
+      });
+    }
+    return { months: month, interest: interest };
+  }
+
+  function fmt(n)  { return POUND + Math.round(n).toLocaleString(); }
+  function fmtM(m) {
+    var y = Math.floor(m / 12), mo = m % 12;
+    if (y === 0) return mo + ' month' + (mo !== 1 ? 's' : '');
+    if (mo === 0) return y + ' year' + (y !== 1 ? 's' : '');
+    return y + 'yr ' + mo + 'mo';
+  }
+
+  window.calculate = function() {
+    var debts = getDebts();
+    if (debts.length === 0) { alert('Please add at least one debt with a balance.'); return; }
+
+    var totalDebt = debts.reduce(function(s, d) { return s + d.balance; }, 0);
+    var totalMin  = debts.reduce(function(s, d) { return s + d.min; }, 0);
+    var extra     = parseFloat(document.getElementById('extra-payment').value) || 0;
+
+    if (totalMin + extra <= 0) { alert('Please enter minimum payments for your debts.'); return; }
+
+    var snow = simulate(debts, extra, 'snowball');
+    var aval = simulate(debts, extra, 'avalanche');
+
+    var snowWinsTime  = snow.months <= aval.months;
+    var avalWinsMoney = aval.interest <= snow.interest;
+    var intDiff  = Math.abs(snow.interest - aval.interest);
+    var monDiff  = Math.abs(snow.months - aval.months);
+
+    var html = '<h3>Your Payoff Plan</h3>';
+    html += '<div class="result-row"><span>Total debt</span><span>' + fmt(totalDebt) + '</span></div>';
+    html += '<div class="result-row"><span>Monthly minimum payments</span><span>' + fmt(totalMin) + '/mo</span></div>';
+    if (extra > 0) html += '<div class="result-row green"><span>Extra monthly payment</span><span>' + fmt(extra) + '/mo</span></div>';
+
+    html += '<div class="dp-compare" style="margin-top:1rem">';
+    html += '<div class="dp-method' + (snowWinsTime ? ' dp-winner' : '') + '">';
+    html += '<div class="dp-method-name">❄️ Snowball' + (snowWinsTime && monDiff > 0 ? '<span class="dp-badge">Faster</span>' : '') + '</div>';
+    html += '<div class="result-row total green"><span>Debt-free in</span><span>' + fmtM(snow.months) + '</span></div>';
+    html += '<div class="result-row"><span>Total interest</span><span>' + fmt(snow.interest) + '</span></div>';
+    html += '</div>';
+    html += '<div class="dp-method' + (avalWinsMoney ? ' dp-winner' : '') + '">';
+    html += '<div class="dp-method-name">🌊 Avalanche' + (avalWinsMoney && intDiff >= 10 ? '<span class="dp-badge">Saves most</span>' : '') + '</div>';
+    html += '<div class="result-row total green"><span>Debt-free in</span><span>' + fmtM(aval.months) + '</span></div>';
+    html += '<div class="result-row"><span>Total interest</span><span>' + fmt(aval.interest) + '</span></div>';
+    html += '</div>';
+    html += '</div>';
+
+    if (intDiff < 10 && monDiff === 0) {
+      html += '<div class="box blue">Both methods give the same result for these debts — pick whichever feels more motivating.</div>';
+    } else if (avalWinsMoney && snowWinsTime) {
+      html += '<div class="box blue">'
+        + '<strong>Avalanche</strong> saves you <strong>' + fmt(intDiff) + ' in interest</strong>. '
+        + '<strong>Snowball</strong> gets you debt-free <strong>' + monDiff + ' month' + (monDiff !== 1 ? 's' : '') + ' sooner</strong>. '
+        + 'Pick Avalanche if you want to save money; Snowball if you want quick wins to stay motivated.</div>';
+    } else {
+      var winner = avalWinsMoney ? 'Avalanche' : 'Snowball';
+      html += '<div class="box green"><strong>' + winner + ' wins on both counts</strong>'
+        + (intDiff >= 10 ? ' — saves <strong>' + fmt(intDiff) + ' in interest</strong>' : '')
+        + (monDiff > 0 ? ' and finishes <strong>' + monDiff + ' month' + (monDiff !== 1 ? 's' : '') + ' sooner</strong>' : '') + '.</div>';
+    }
+
+    if (extra === 0) {
+      html += '<div class="box amber">Even an extra <strong>' + POUND + '50/month</strong> can shave months off your payoff time. Try adding an extra payment above to see the difference.</div>';
+    }
+
+    html += '<p class="calc-note">Assumes fixed interest rates and minimum payments throughout. In practice, your minimum payments may reduce as balances fall — this calculator assumes you maintain the same payments for maximum impact.</p>';
+
+    var el = document.getElementById('dp-result');
+    el.innerHTML = html;
+    el.style.display = 'block';
+    el.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  };
+
+  addRow('Credit card', '', '20', '');
+  addRow('Personal loan', '', '8', '');
+})();
+</script>
