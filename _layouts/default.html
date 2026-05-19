@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 </head>
 <body>
@@ -16,8 +17,14 @@
     <div class="container">
       <div class="header-inner">
         <a href="{{ '/' | relative_url }}" class="site-logo">
-          <span class="logo-text">UK Finance Guide</span>
-          <span class="logo-sub">Personal finance for everyday British readers</span>
+          <svg class="logo-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-hidden="true">
+            <circle cx="32" cy="32" r="32" fill="#fff" opacity="0.15"/>
+            <text x="32" y="46" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">£</text>
+          </svg>
+          <span class="logo-text-wrap">
+            <span class="logo-text">UK Finance Guide</span>
+            <span class="logo-sub">Personal finance for everyday British readers</span>
+          </span>
         </a>
         <nav class="site-nav">
           <a href="{{ '/' | relative_url }}">News</a>
