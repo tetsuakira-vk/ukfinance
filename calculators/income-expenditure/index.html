@@ -1,0 +1,186 @@
+---
+layout: page
+title: "Income & Expenditure Calculator — UK Finance Guide"
+description: "Free UK income and expenditure calculator. Enter your monthly income and outgoings to see your budget surplus or shortfall instantly."
+permalink: /calculators/income-expenditure/
+---
+
+<h1>Income &amp; Expenditure Calculator</h1>
+<p>Enter your income and outgoings below to see your monthly budget at a glance. All data stays in your browser — nothing is sent anywhere.</p>
+
+<style>
+  .ie-section { background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 1.2em 1.5em; margin: 1em 0; }
+  .ie-row { display: flex; align-items: center; gap: 0.8em; margin: 0.6em 0; flex-wrap: wrap; }
+  .ie-row label { flex: 1; min-width: 160px; font-size: 0.95em; }
+  .ie-row input { width: 120px; padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px; font-size: 1em; text-align: right; background: var(--bg); color: var(--text); }
+  .ie-row .ie-monthly { width: 100px; text-align: right; font-size: 0.85em; color: var(--muted); }
+  .ie-freq { width: 110px; padding: 5px 6px; border: 1px solid var(--border); border-radius: 6px; font-size: 0.82em; background: var(--bg); color: var(--text); }
+  .ie-summary { background: var(--green-light); border: 2px solid var(--green); border-radius: 10px; padding: 1.5em; margin-top: 1.5em; display: none; }
+  .ie-summary-row { display: flex; justify-content: space-between; align-items: center; padding: 0.4em 0; font-size: 1.05em; }
+  .ie-summary-row.total { font-weight: 700; font-size: 1.2em; border-top: 2px solid var(--green); margin-top: 0.5em; padding-top: 0.8em; }
+  .ie-summary-row.surplus { color: var(--green); }
+  .ie-summary-row.deficit { color: #c0392b; }
+  .ie-bar-wrap { margin: 1.2em 0 0.5em; background: var(--border); border-radius: 6px; overflow: hidden; height: 14px; }
+  .ie-bar { height: 100%; background: var(--green); border-radius: 6px; transition: width 0.4s, background 0.4s; }
+  .ie-bar-note { font-size: 0.82em; color: var(--muted); margin-top: 0.3em; }
+  .ie-advice { margin-top: 1em; }
+  .ie-advice .box { margin: 0; }
+  @media (max-width: 520px) {
+    .ie-row input, .ie-freq, .ie-row .ie-monthly { width: 100%; }
+  }
+</style>
+
+<h2>Income</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Employment income (take-home)</label><select class="ie-freq" data-for="inc-employment"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="inc-employment" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="inc-employment-m"></span></div>
+  <div class="ie-row"><label>Self-employment income</label><select class="ie-freq" data-for="inc-self"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="inc-self" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="inc-self-m"></span></div>
+  <div class="ie-row"><label>Universal Credit</label><select class="ie-freq" data-for="inc-uc"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="inc-uc" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="inc-uc-m"></span></div>
+  <div class="ie-row"><label>Child Benefit</label><select class="ie-freq" data-for="inc-cb"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="inc-cb" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="inc-cb-m"></span></div>
+  <div class="ie-row"><label>Other benefits / tax credits</label><select class="ie-freq" data-for="inc-other-ben"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="inc-other-ben" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="inc-other-ben-m"></span></div>
+  <div class="ie-row"><label>Pension income</label><select class="ie-freq" data-for="inc-pension"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="inc-pension" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="inc-pension-m"></span></div>
+  <div class="ie-row"><label>Other income (rental, maintenance, etc.)</label><select class="ie-freq" data-for="inc-other"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="inc-other" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="inc-other-m"></span></div>
+</div>
+
+<h2>Housing</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Rent or mortgage</label><select class="ie-freq" data-for="exp-rent"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-rent" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-rent-m"></span></div>
+  <div class="ie-row"><label>Council Tax</label><select class="ie-freq" data-for="exp-council"><option value="10">Monthly (10 months)</option><option value="12">Monthly (12 months)</option><option value="1">Annually</option></select><input id="exp-council" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-council-m"></span></div>
+  <div class="ie-row"><label>Home / contents insurance</label><select class="ie-freq" data-for="exp-home-ins"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-home-ins" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-home-ins-m"></span></div>
+  <div class="ie-row"><label>Ground rent / service charge</label><select class="ie-freq" data-for="exp-ground"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-ground" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-ground-m"></span></div>
+</div>
+
+<h2>Utilities &amp; Bills</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Gas &amp; electricity</label><select class="ie-freq" data-for="exp-energy"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-energy" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-energy-m"></span></div>
+  <div class="ie-row"><label>Water rates</label><select class="ie-freq" data-for="exp-water"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-water" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-water-m"></span></div>
+  <div class="ie-row"><label>Broadband</label><select class="ie-freq" data-for="exp-broadband"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-broadband" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-broadband-m"></span></div>
+  <div class="ie-row"><label>Mobile phone</label><select class="ie-freq" data-for="exp-mobile"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-mobile" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-mobile-m"></span></div>
+  <div class="ie-row"><label>TV Licence (£174.50/yr)</label><select class="ie-freq" data-for="exp-tv"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-tv" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-tv-m"></span></div>
+</div>
+
+<h2>Food &amp; Household</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Groceries &amp; food shopping</label><select class="ie-freq" data-for="exp-food"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-food" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-food-m"></span></div>
+  <div class="ie-row"><label>Eating out &amp; takeaways</label><select class="ie-freq" data-for="exp-eating"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-eating" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-eating-m"></span></div>
+  <div class="ie-row"><label>Household cleaning / toiletries</label><select class="ie-freq" data-for="exp-household"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-household" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-household-m"></span></div>
+</div>
+
+<h2>Transport</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Petrol / diesel</label><select class="ie-freq" data-for="exp-petrol"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-petrol" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-petrol-m"></span></div>
+  <div class="ie-row"><label>Car insurance</label><select class="ie-freq" data-for="exp-car-ins"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-car-ins" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-car-ins-m"></span></div>
+  <div class="ie-row"><label>Car finance / loan</label><select class="ie-freq" data-for="exp-car-fin"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-car-fin" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-car-fin-m"></span></div>
+  <div class="ie-row"><label>Road tax</label><select class="ie-freq" data-for="exp-road"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-road" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-road-m"></span></div>
+  <div class="ie-row"><label>Public transport (bus/train/Tube)</label><select class="ie-freq" data-for="exp-transport"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-transport" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-transport-m"></span></div>
+</div>
+
+<h2>Debt Repayments</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Credit card minimum payments</label><select class="ie-freq" data-for="exp-cc"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-cc" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-cc-m"></span></div>
+  <div class="ie-row"><label>Personal loans</label><select class="ie-freq" data-for="exp-loan"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-loan" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-loan-m"></span></div>
+  <div class="ie-row"><label>Other debt repayments</label><select class="ie-freq" data-for="exp-debt-other"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-debt-other" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-debt-other-m"></span></div>
+</div>
+
+<h2>Family &amp; Personal</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Childcare</label><select class="ie-freq" data-for="exp-childcare"><option value="12">Monthly</option><option value="52">Weekly</option><option value="1">Annually</option></select><input id="exp-childcare" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-childcare-m"></span></div>
+  <div class="ie-row"><label>School costs / activities</label><select class="ie-freq" data-for="exp-school"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-school" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-school-m"></span></div>
+  <div class="ie-row"><label>Clothing &amp; footwear</label><select class="ie-freq" data-for="exp-clothing"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-clothing" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-clothing-m"></span></div>
+  <div class="ie-row"><label>Haircuts &amp; personal care</label><select class="ie-freq" data-for="exp-hair"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-hair" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-hair-m"></span></div>
+  <div class="ie-row"><label>Prescriptions &amp; health costs</label><select class="ie-freq" data-for="exp-health"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-health" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-health-m"></span></div>
+  <div class="ie-row"><label>Pet costs</label><select class="ie-freq" data-for="exp-pets"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-pets" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-pets-m"></span></div>
+</div>
+
+<h2>Savings &amp; Leisure</h2>
+<div class="ie-section">
+  <div class="ie-row"><label>Savings / emergency fund</label><select class="ie-freq" data-for="exp-savings"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-savings" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-savings-m"></span></div>
+  <div class="ie-row"><label>Pension contributions</label><select class="ie-freq" data-for="exp-pension-c"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-pension-c" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-pension-c-m"></span></div>
+  <div class="ie-row"><label>Streaming / subscriptions</label><select class="ie-freq" data-for="exp-stream"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-stream" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-stream-m"></span></div>
+  <div class="ie-row"><label>Hobbies &amp; entertainment</label><select class="ie-freq" data-for="exp-hobbies"><option value="12">Monthly</option><option value="1">Annually</option></select><input id="exp-hobbies" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-hobbies-m"></span></div>
+  <div class="ie-row"><label>Holidays</label><select class="ie-freq" data-for="exp-holidays"><option value="1">Annually</option><option value="12">Monthly</option></select><input id="exp-holidays" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-holidays-m"></span></div>
+  <div class="ie-row"><label>Gifts / Christmas fund</label><select class="ie-freq" data-for="exp-gifts"><option value="1">Annually</option><option value="12">Monthly</option></select><input id="exp-gifts" type="number" min="0" placeholder="0.00"><span class="ie-monthly" id="exp-gifts-m"></span></div>
+</div>
+
+<button class="calc-btn" onclick="calcBudget()">Calculate My Budget</button>
+
+<div class="ie-summary" id="ie-summary">
+  <div class="ie-summary-row"><span>Total Monthly Income</span><span id="sum-income">£0.00</span></div>
+  <div class="ie-summary-row"><span>Total Monthly Outgoings</span><span id="sum-outgoings">£0.00</span></div>
+  <div class="ie-summary-row total" id="sum-result-row"><span id="sum-result-label">Monthly Surplus</span><span id="sum-result">£0.00</span></div>
+  <div class="ie-bar-wrap"><div class="ie-bar" id="ie-bar" style="width:0%"></div></div>
+  <p class="ie-bar-note" id="ie-bar-note"></p>
+  <div class="ie-advice" id="ie-advice"></div>
+</div>
+
+<div class="box blue" style="margin-top:1.5rem">
+  <strong>Also see:</strong> <a href="{{ '/guides/budget-guide/' | relative_url }}">UK Budget Guide</a> — step-by-step advice on making sense of your finances.
+</div>
+
+<script>
+(function() {
+  var INC_IDS = ['inc-employment','inc-self','inc-uc','inc-cb','inc-other-ben','inc-pension','inc-other'];
+  var EXP_IDS = ['exp-rent','exp-council','exp-home-ins','exp-ground','exp-energy','exp-water','exp-broadband','exp-mobile','exp-tv','exp-food','exp-eating','exp-household','exp-petrol','exp-car-ins','exp-car-fin','exp-road','exp-transport','exp-cc','exp-loan','exp-debt-other','exp-childcare','exp-school','exp-clothing','exp-hair','exp-health','exp-pets','exp-savings','exp-pension-c','exp-stream','exp-hobbies','exp-holidays','exp-gifts'];
+
+  function toMonthly(id) {
+    var val = parseFloat(document.getElementById(id).value) || 0;
+    var sel = document.querySelector('[data-for="' + id + '"]');
+    var freq = sel ? parseInt(sel.value) : 12;
+    if (freq === 12) return val;
+    if (freq === 52) return val * 52 / 12;
+    if (freq === 1)  return val / 12;
+    if (freq === 10) return val * 10 / 12;
+    return val;
+  }
+
+  function fmt(n) { return '£' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ','); }
+
+  INC_IDS.concat(EXP_IDS).forEach(function(id) {
+    var el = document.getElementById(id);
+    var sel = document.querySelector('[data-for="' + id + '"]');
+    var preview = document.getElementById(id + '-m');
+    function update() {
+      if (!preview) return;
+      var m = toMonthly(id);
+      preview.textContent = m > 0 ? fmt(m) + '/mo' : '';
+    }
+    if (el) el.addEventListener('input', update);
+    if (sel) sel.addEventListener('change', update);
+  });
+
+  window.calcBudget = function() {
+    var income   = INC_IDS.reduce(function(s, id) { return s + toMonthly(id); }, 0);
+    var outgoing = EXP_IDS.reduce(function(s, id) { return s + toMonthly(id); }, 0);
+    var diff     = income - outgoing;
+    var surplus  = diff >= 0;
+
+    document.getElementById('sum-income').textContent    = fmt(income);
+    document.getElementById('sum-outgoings').textContent = fmt(outgoing);
+    document.getElementById('sum-result').textContent    = fmt(Math.abs(diff));
+    document.getElementById('sum-result-label').textContent = surplus ? 'Monthly Surplus' : 'Monthly Shortfall';
+
+    var resultRow = document.getElementById('sum-result-row');
+    resultRow.className = 'ie-summary-row total ' + (surplus ? 'surplus' : 'deficit');
+
+    var pct = income > 0 ? Math.min(100, Math.round((outgoing / income) * 100)) : 100;
+    var bar = document.getElementById('ie-bar');
+    bar.style.width = pct + '%';
+    bar.style.background = pct < 80 ? 'var(--green)' : pct < 95 ? '#d4a017' : '#c0392b';
+    document.getElementById('ie-bar-note').textContent = pct + '% of income spoken for';
+
+    var advice = '';
+    if (!surplus) {
+      advice = '<div class="box red"><strong>You have a shortfall of ' + fmt(Math.abs(diff)) + ' per month.</strong> Outgoings exceed income. Review your variable expenses first, and consider contacting <a href="https://www.stepchange.org" target="_blank" rel="noopener">StepChange</a> or <a href="https://www.moneyhelper.org.uk" target="_blank" rel="noopener">MoneyHelper</a> for free advice.</div>';
+    } else if (pct > 90) {
+      advice = '<div class="box amber"><strong>Very little headroom.</strong> Over 90% of income is committed. Focus on building even a small emergency fund (&pound;500) before it\'s needed. See our <a href="{{ \'/guides/budget-guide/\' | relative_url }}">budget guide</a> for tips.</div>';
+    } else if (pct > 75) {
+      advice = '<div class="box amber"><strong>You have a surplus of ' + fmt(diff) + '/month.</strong> That\'s a reasonable position. Consider putting some into an emergency fund or ISA. See our <a href="{{ \'/guides/budget-guide/\' | relative_url }}">budget guide</a> for next steps.</div>';
+    } else {
+      advice = '<div class="box green"><strong>Good position — surplus of ' + fmt(diff) + '/month.</strong> You have room to save, invest, or pay down debt faster. Consider maximising your ISA allowance or increasing pension contributions.</div>';
+    }
+    document.getElementById('ie-advice').innerHTML = advice;
+    var summary = document.getElementById('ie-summary');
+    summary.style.display = 'block';
+    summary.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  };
+})();
+</script>
