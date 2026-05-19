@@ -1,24 +1,17 @@
 <div class="sidebar-widget">
-  <h3 class="widget-title">About</h3>
-  <p>Here to Help with Money UK delivers free, plain-English money news and advice for everyday people — benefits, budgeting, debt, savings, mortgages, tax and more.</p>
+  <h3 class="widget-title">Popular Pages</h3>
+  <ul class="pop-pages" id="popPages"></ul>
 </div>
 
 <div class="sidebar-widget">
-  <h3 class="widget-title">Topics</h3>
-  <div class="sidebar-tags">
-    <span class="label-pill">News</span>
-    <span class="label-pill">Budgeting</span>
-    <span class="label-pill">Benefits</span>
-    <span class="label-pill">Debt</span>
-    <span class="label-pill">Savings</span>
-    <span class="label-pill">Mortgages</span>
-    <span class="label-pill">Tax</span>
-    <span class="label-pill">Energy</span>
-    <span class="label-pill">Jobs</span>
-    <span class="label-pill">Redundancy</span>
-    <span class="label-pill">Pensions</span>
-    <span class="label-pill">Cost of Living</span>
-  </div>
+  <h3 class="widget-title">Quick Calculators</h3>
+  <ul class="sidebar-links">
+    <li><a href="{{ '/calculators/take-home-pay/' | relative_url }}">📊 Take-Home Pay</a></li>
+    <li><a href="{{ '/calculators/debt-payoff/' | relative_url }}">📊 Debt Payoff</a></li>
+    <li><a href="{{ '/calculators/mortgage-affordability/' | relative_url }}">📊 Mortgage Affordability</a></li>
+    <li><a href="{{ '/calculators/stamp-duty/' | relative_url }}">📊 Stamp Duty</a></li>
+    <li><a href="{{ '/calculators/redundancy-pay/' | relative_url }}">📊 Redundancy Pay</a></li>
+  </ul>
 </div>
 
 <div class="sidebar-widget">
@@ -28,7 +21,44 @@
     <li><a href="https://www.gov.uk/browse/benefits" target="_blank" rel="noopener">GOV.UK Benefits</a></li>
     <li><a href="https://www.moneyhelper.org.uk" target="_blank" rel="noopener">MoneyHelper</a></li>
     <li><a href="https://www.stepchange.org" target="_blank" rel="noopener">StepChange Debt Charity</a></li>
-    <li><a href="https://www.moneysavingexpert.com" target="_blank" rel="noopener">MoneySavingExpert</a></li>
     <li><a href="https://www.citizensadvice.org.uk" target="_blank" rel="noopener">Citizens Advice</a></li>
   </ul>
 </div>
+
+<script>
+(function(){
+  var base = '{{ site.baseurl }}';
+  var pages = [
+    {t:'Universal Credit Guide',      u:base+'/guides/universal-credit/',             e:'📖'},
+    {t:'Debt Help Guide',             u:base+'/guides/debt-help/',                    e:'📖'},
+    {t:'PIP & Disability Benefits',   u:base+'/guides/pip-disability-benefits/',      e:'📖'},
+    {t:'State Pension Guide',         u:base+'/guides/state-pension/',                e:'📖'},
+    {t:'Renting Rights Guide',        u:base+'/guides/renting-rights/',               e:'📖'},
+    {t:'Child Benefit Guide',         u:base+'/guides/child-benefit/',                e:'📖'},
+    {t:'Redundancy Rights',           u:base+'/guides/redundancy-rights/',            e:'📖'},
+    {t:'ISA Guide',                   u:base+'/guides/isa-guide/',                    e:'📖'},
+    {t:'Self-Employment Tax',         u:base+'/guides/self-employment-tax/',          e:'📖'},
+    {t:'Car Finance Guide',           u:base+'/guides/car-finance/',                  e:'🚗'},
+    {t:'Statutory Sick Pay',          u:base+'/guides/statutory-sick-pay/',           e:'📖'},
+    {t:'Cost of Living Tips',         u:base+'/guides/cost-of-living-tips/',          e:'📖'},
+    {t:'Free Things on the NHS',      u:base+'/guides/free-nhs-things/',              e:'🏥'},
+    {t:'Energy Price Cap Tracker',    u:base+'/energy-price-cap/',                    e:'⚡'},
+    {t:'Start Here',                  u:base+'/start/',                               e:'✅'},
+    {t:'Budget Guide',                u:base+'/guides/budget-guide/',                 e:'📖'},
+    {t:'Council Tax Discounts',       u:base+'/guides/council-tax-discounts/',        e:'📖'},
+    {t:'Best 0% Credit Cards',        u:base+'/guides/best-0-percent-credit-cards/', e:'💳'},
+    {t:'Bank Switching Bonuses',      u:base+'/guides/bank-switching-bonuses/',       e:'🏦'},
+    {t:'Cheapest Supermarkets',       u:base+'/guides/cheapest-supermarkets/',        e:'🛒'},
+  ];
+  for (var i = pages.length-1; i > 0; i--) {
+    var j = Math.floor(Math.random()*(i+1));
+    var tmp = pages[i]; pages[i] = pages[j]; pages[j] = tmp;
+  }
+  var ul = document.getElementById('popPages');
+  if (ul) pages.slice(0,8).forEach(function(p){
+    var li = document.createElement('li');
+    li.innerHTML = '<a href="'+p.u+'">'+p.e+' '+p.t+'</a>';
+    ul.appendChild(li);
+  });
+})();
+</script>

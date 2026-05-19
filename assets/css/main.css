@@ -114,6 +114,35 @@ img { max-width: 100%; height: auto; display: block; }
   margin-left: auto;
 }
 
+/* ── Home Hero ────────────────────────────────────────────────────────────── */
+.home-hero {
+  background: var(--green-light);
+  border: 1px solid #c6e6d5;
+  border-radius: var(--radius);
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.home-hero__text { display: flex; flex-direction: column; gap: 0.1rem; }
+.home-hero__text strong { color: #14532d; font-size: 1rem; }
+.home-hero__text span { color: #1a6b3c; font-size: 0.87rem; opacity: 0.85; }
+.home-hero__ctas { display: flex; gap: 0.6rem; flex-shrink: 0; }
+.hero-btn {
+  padding: 0.45rem 1rem;
+  border-radius: var(--radius);
+  font-size: 0.87rem;
+  font-weight: 600;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.hero-btn--primary { background: var(--green); color: #fff; }
+.hero-btn--primary:hover { background: var(--green-mid); text-decoration: none; }
+.hero-btn--secondary { background: #fff; color: var(--green); border: 1.5px solid var(--green-mid); }
+.hero-btn--secondary:hover { background: var(--green-light); text-decoration: none; }
+
 /* ── Post Grid (home) ─────────────────────────────────────────────────────── */
 .post-grid {
   display: grid;
@@ -142,6 +171,13 @@ img { max-width: 100%; height: auto; display: block; }
 .post-card-title a:hover { color: var(--green); text-decoration: none; }
 .post-card-excerpt { font-size: 0.85rem; color: var(--muted); flex: 1; }
 .post-card-meta { font-size: 0.78rem; color: var(--muted); margin-top: auto; }
+
+/* Featured (first) post card */
+.post-card--featured { grid-column: 1 / -1; }
+.post-card--featured .post-card-title { font-size: 1.2rem; }
+.post-card--featured .post-card-excerpt { font-size: 0.93rem; }
+.post-card--featured .post-card-body { padding: 1.25rem 1.5rem; }
+.post-card--featured .post-card-img-wrap { aspect-ratio: 21/9; }
 
 /* ── Post ─────────────────────────────────────────────────────────────────── */
 .post {
@@ -255,6 +291,20 @@ a.label-pill:hover { background: var(--green); color: #fff; }
 .sidebar-links { list-style: none; display: flex; flex-direction: column; gap: 0.4rem; }
 .sidebar-links a { font-size: 0.87rem; color: var(--green); }
 
+/* Popular Pages widget */
+.pop-pages { list-style: none; display: flex; flex-direction: column; }
+.pop-pages li a {
+  display: block;
+  padding: 0.38rem 0;
+  font-size: 0.86rem;
+  color: var(--text);
+  border-bottom: 1px solid var(--border);
+  line-height: 1.4;
+  text-decoration: none;
+}
+.pop-pages li:last-child a { border-bottom: none; }
+.pop-pages li a:hover { color: var(--green); }
+
 /* ── Pagination ───────────────────────────────────────────────────────────── */
 .pagination {
   display: flex;
@@ -294,6 +344,8 @@ a.label-pill:hover { background: var(--green); color: #fff; }
   .sidebar { order: 2; }
   .post-grid { grid-template-columns: 1fr; }
   .post-hero { margin: -1.5rem -1.5rem 1.25rem; }
+  .home-hero { flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+  .home-hero__ctas { flex-wrap: wrap; }
   .post { padding: 1.5rem; }
   .post-title { font-size: 1.35rem; }
   .site-nav { display: none; }

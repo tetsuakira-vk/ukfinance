@@ -2,6 +2,17 @@
 layout: default
 ---
 <div class="container">
+  <div class="home-hero">
+    <div class="home-hero__text">
+      <strong>Free money help for everyone in the UK.</strong>
+      <span>Benefits, debt, budgeting, renting, pensions — plain English, no jargon.</span>
+    </div>
+    <div class="home-hero__ctas">
+      <a href="{{ '/start/' | relative_url }}" class="hero-btn hero-btn--primary">Where do I start?</a>
+      <a href="{{ '/guides/' | relative_url }}" class="hero-btn hero-btn--secondary">All guides &rarr;</a>
+    </div>
+  </div>
+
   <nav class="news-filters" aria-label="Filter by topic">
     <a href="{{ '/' | relative_url }}" class="news-filter-pill active">All</a>
     <a href="{{ '/category/deals/' | relative_url }}" class="news-filter-pill">🏷️ Deals</a>
@@ -19,7 +30,7 @@ layout: default
     <main class="post-list">
       <div class="post-grid">
         {% for post in paginator.posts %}
-        <article class="post-card">
+        <article class="post-card{% if forloop.first %} post-card--featured{% endif %}">
           {% if post.image %}
           <a href="{{ post.url | relative_url }}" class="post-card-img-wrap">
             <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy">
@@ -35,9 +46,14 @@ layout: default
             <h2 class="post-card-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>
+            {% if forloop.first %}
+            <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 260 }}</p>
+            {% else %}
             <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+            {% endif %}
             <div class="post-card-meta">
               <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time>
+              {% if post.source %} &middot; {{ post.source }}{% endif %}
             </div>
           </div>
         </article>
