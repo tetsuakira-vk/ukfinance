@@ -4,7 +4,6 @@ title: "Renters' Rights Act forces landlords to hold onto properties longer"
 date: 2026-07-13T08:01:45.531Z
 labels: ["News", "Housing", "Mortgages", "Cost of Living"]
 source: "https://www.dailymail.com/money/buytolet/article-15967943/Fewer-landlords-listing-properties-fear-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F10%2F14%2F109936861-0-image-m-35_1783691823006.jpg&w=1200&output=jpg"
 ---
 
 The rental market is shifting in ways that could affect both landlords and tenants. A new analysis by property firm Hamptons reveals that fewer landlords are putting their homes up for sale — and the reason is the Government's new Renters' Rights Act.

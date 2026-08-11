@@ -4,7 +4,6 @@ title: "Why Your Marital Status Could Cost You £51 More on Home Insurance"
 date: 2026-07-05T08:00:39.914Z
 labels: ["News", "Housing", "Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/personal-finance/couples-could-pay-51-more-37383751"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37383828.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2151420842.jpg&w=1200&output=jpg"
 ---
 
 If you're shopping around for home insurance, here's something worth knowing: the answer to one simple question about your relationship status could affect how much you pay. New analysis from consumer group Which? reveals that married homeowners are paying significantly more than their single neighbours — sometimes by as much as £51 a year.

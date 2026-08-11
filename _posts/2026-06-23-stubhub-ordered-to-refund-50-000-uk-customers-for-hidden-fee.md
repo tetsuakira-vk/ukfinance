@@ -4,7 +4,6 @@ title: "StubHub ordered to refund 50,000 UK customers for hidden fees"
 date: 2026-06-23T08:00:49.798Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.bbc.com/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F55f6%2Flive%2Ffdf2e250-6e48-11f1-8a85-d1d176b992ab.jpg&w=1200&output=jpg"
 ---
 
 If you've bought tickets through StubHub UK recently, you might be owed money back. The Competition and Markets Authority (CMA) has ordered the ticket reseller to refund more than 50,000 customers and pay a £900,000 fine for sneaking extra charges into the checkout process.

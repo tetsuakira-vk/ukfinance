@@ -4,7 +4,6 @@ title: "Why Fish and Chips Is Getting More Expensive – And What It Means for Y
 date: 2026-06-13T08:01:05.212Z
 labels: ["News", "Cost of Living", "Inflation", "Consumer Rights", "Budgeting"]
 source: "https://www.mirror.co.uk/news/uk-news/uk-chip-shops-stop-selling-37289715"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37289722.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1242980922.jpg&w=1200&output=jpg"
 ---
 
 Fish and chips has long been a cheap, reliable meal for working families across the UK – but that's changing fast. Chip shop owners are now pulling cod off their menus entirely or limiting it to just a few days a week, because the price has almost doubled in just 12 months.

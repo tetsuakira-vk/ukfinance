@@ -4,7 +4,6 @@ title: "86 Bank Branches Closing June 2026: What to Do Now"
 date: 2026-05-31T08:00:44.878Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/86-natwest-lloyds-halifax-bos-37218388"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle36983794.ece%2FALTERNATES%2Fs1200d%2F0_Natwest-Hartlepool.jpg&w=1200&output=jpg"
 ---
 
 If your local bank branch is about to close, you're not alone. A major wave of closures is coming this month, with 86 branches shutting across NatWest, Lloyds, Halifax and Bank of Scotland between now and February 2027.

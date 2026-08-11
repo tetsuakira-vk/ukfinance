@@ -4,7 +4,6 @@ title: "Sainsbury's: Kalamata Olive Bloomer Bread — 52% Off"
 date: 2026-08-11T08:01:14.126Z
 labels: ["Deals", "Groceries", "Food & Drink"]
 source: "https://www.hotukdeals.com/deals/sainsburys-400g-kalamata-olive-bloomer-bread-taste-the-difference-nectar-price-4954769"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FbSBNa%2F4954769_1%2Fre%2F1024x1024%2Fqt%2F60%2F4954769_1.jpg&w=1200&output=jpg"
 ---
 
 Sainsbury's Taste the Difference Kalamata Olive Bloomer Bread is half price at just £1 — down from £2.10. That's a cracking saving on a premium loaf.

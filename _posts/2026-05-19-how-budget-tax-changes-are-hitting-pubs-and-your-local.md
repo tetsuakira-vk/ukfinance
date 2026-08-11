@@ -4,7 +4,6 @@ title: "How Budget Tax Changes Are Hitting Pubs and Your Local"
 date: 2026-05-19T07:32:52.362Z
 labels: ["News", "Cost of Living", "Tax", "Jobs"]
 source: "https://www.cityam.com/magners-owner-hits-out-at-reeves-as-hospitality-crisis-hits-sales/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMagners.jpg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 If you've noticed your local pub feeling quieter or prices creeping up, there's a reason — and it's linked directly to decisions made in the recent Budget.

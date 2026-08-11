@@ -4,7 +4,6 @@ title: "What to do if your employer enters administration"
 date: 2026-07-05T08:00:54.754Z
 labels: ["News", "Redundancy", "Jobs", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/news/uk-news/historic-uk-school-insurance-company-37382622"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37382621.ece%2FALTERNATES%2Fs1200d%2F0_Teenage-Students-Listening-To-Male-Teacher-In-Classroom.jpg&w=1200&output=jpg"
 ---
 
 If your employer enters administration, it can feel like a financial bombshell. But there are protections in place to help you, and knowing your rights could make a real difference to your finances during this uncertain time.

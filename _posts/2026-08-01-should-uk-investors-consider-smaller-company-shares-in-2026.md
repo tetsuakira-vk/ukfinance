@@ -4,7 +4,6 @@ title: "Should UK investors consider smaller company shares in 2026?"
 date: 2026-08-01T08:01:45.038Z
 labels: ["Savings", "Pensions", "ISA", "Investments", "Cost of Living"]
 source: "https://www.dailymail.com/money/investing/article-16008763/Smaller-company-shares-primed-profit-ten-years-Brexit-says-UK-fund-manager.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F27%2F19%2F110280937-0-image-a-21_1785175996851.jpg&w=1200&output=jpg"
 ---
 
 If you've got money sitting in a stocks and shares ISA or pension, a UK fund manager is suggesting it might be time to look at smaller British companies – an area that's been left behind for a decade.

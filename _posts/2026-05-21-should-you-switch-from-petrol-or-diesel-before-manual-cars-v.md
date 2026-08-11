@@ -4,7 +4,6 @@ title: "Should you switch from petrol or diesel before manual cars vanish?"
 date: 2026-05-21T08:00:19.357Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/cars/article-15833625/Manual-gearboxes-extinct-2030-diesel-engine-wont-far-behind.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F20%2F15%2F108751851-0-image-m-34_1779288026990.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about your next car purchase, here's something worth considering: manual gearboxes could be gone within the next five years, and diesel engines won't be far behind.

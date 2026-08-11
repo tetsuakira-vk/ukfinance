@@ -4,7 +4,6 @@ title: "TV costs rising 13% from July — here's what you'll pay"
 date: 2026-05-29T08:00:32.283Z
 labels: ["Energy", "Cost of Living", "News", "Budgeting", "Inflation"]
 source: "https://www.mirror.co.uk/money/household-bills/tv-energy-bills-price-increase-37220181"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37220180.ece%2FALTERNATES%2Fs1200d%2F0_Holding-a-remote-control-in-hand-to-control-a-smart-TV.jpg&w=1200&output=jpg"
 ---
 
 From 1 July 2026, your electricity bills are about to jump — and that includes the cost of running your TV. Energy regulator Ofgem is raising gas and electricity prices by 13%, which means even everyday appliances will cost more to run.

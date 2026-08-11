@@ -4,7 +4,6 @@ title: "£1.5m country mansion: what stamp duty costs really mean"
 date: 2026-08-05T08:00:20.652Z
 labels: ["Mortgages", "Tax", "Housing", "Cost of Living"]
 source: "https://www.dailymail.com/money/mortgageshome/article-16027033/Ultimate-fixer-upper-19-bed-country-mansion-Wiltshire-village-used-Harry-Potter-filming-location-sale-1-5m.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F04%2F10%2F110427261-0-image-m-56_1785836452772.jpg&w=1200&output=jpg"
 ---
 
 If you've ever dreamed of owning a grand country estate, a 19-bedroom Grade II-listed mansion in Wiltshire might sound tempting — especially with Harry Potter filming location credentials. But the £1.5 million price tag tells only half the story. The real financial shock comes when you factor in stamp duty and renovation costs that could easily dwarf the purchase price itself.

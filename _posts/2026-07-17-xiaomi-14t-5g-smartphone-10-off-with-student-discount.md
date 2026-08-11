@@ -4,7 +4,6 @@ title: "Xiaomi: 14T 5G Smartphone — 10% Off with Student Discount"
 date: 2026-07-17T08:02:01.230Z
 labels: ["Deals", "Tech", "Shopping"]
 source: "https://www.hotukdeals.com/deals/xiaomi-14t-256gb-5g-smartphone-ps24210-with-student-discount-512gb-ps319-ps28710-three-colours-4937678"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2F3IMpr%2F4937678_1%2Fre%2F1024x1024%2Fqt%2F60%2F4937678_1.jpg&w=1200&output=jpg"
 ---
 
 Xiaomi's 14T 5G is dropping to £242.10 for the 256GB model (or £319 for 512GB) when you register a valid student or key worker ID on Xiaomi UK — that's a solid 10% saving on an already competitive flagship phone.

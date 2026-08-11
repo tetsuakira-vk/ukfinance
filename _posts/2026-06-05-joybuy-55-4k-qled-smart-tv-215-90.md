@@ -4,7 +4,6 @@ title: "Joybuy: 55\" 4K QLED Smart TV — £215.90"
 date: 2026-06-05T08:02:12.516Z
 labels: ["Deals", "Tech", "Shopping"]
 source: "https://www.hotukdeals.com/deals/tees-55-inch-4k-qled-smart-tv-memc-hdr10-tizen-os-uhd-apple-tv-bbc-netflix-free-stand-installation-new-customers-ps219-existing-4905115"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2Fl3Dmc%2F4905115_1%2Fre%2F1024x1024%2Fqt%2F60%2F4905115_1.jpg&w=1200&output=jpg"
 ---
 
 Joybuy's flogging a 55-inch 4K QLED Smart TV for just £215.90 — an absolute steal for a telly of this size and spec. New customers, this one's for you.

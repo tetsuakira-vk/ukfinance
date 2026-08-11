@@ -4,7 +4,6 @@ title: "Married Pensioners: Check If You're Missing Out on £4,300 DWP Payment"
 date: 2026-05-31T08:00:27.694Z
 labels: ["Benefits", "News", "Pensions", "Cost of Living", "DWP"]
 source: "https://www.mirror.co.uk/money/married-pensioners-could-eligible-extra-37212359"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37212162.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2271461011-1.jpg&w=1200&output=jpg"
 ---
 
 If you're a married pensioner with a modest income, you could be missing out on thousands of pounds in extra government support. The Department for Work and Pensions (DWP) estimates that around 760,000 pensioners are entitled to Pension Credit but aren't claiming it — and that's money you might desperately need right now.

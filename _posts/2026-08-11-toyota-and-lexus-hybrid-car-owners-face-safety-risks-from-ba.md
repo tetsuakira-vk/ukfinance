@@ -4,7 +4,6 @@ title: "Toyota and Lexus hybrid car owners face safety risks from battery faults
 date: 2026-08-11T08:01:30.318Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.dailymail.com/money/cars/article-16041277/Lexus-Toyota-hybrid-cars-trapping-owners-families-inside-thanks-battery-faults.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F11%2F08%2F110540535-0-image-m-11_1786432743371.jpg&w=1200&output=jpg"
 ---
 
 If you own a Toyota or Lexus hybrid car, a serious safety issue has just come to light that you need to know about — some models are trapping owners and their families inside due to battery faults.

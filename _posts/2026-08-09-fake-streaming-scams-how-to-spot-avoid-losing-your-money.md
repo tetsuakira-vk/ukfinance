@@ -4,7 +4,6 @@ title: "Fake Streaming Scams: How to Spot & Avoid Losing Your Money"
 date: 2026-08-09T08:00:15.430Z
 labels: ["News", "Consumer Rights", "Scams", "Cost of Living"]
 source: "https://www.theguardian.com/money/2026/aug/09/watch-the-odyssey-for-free-online-scam-film-fans-fake-streaming-sites"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F537d9493363d2b5156b9a73970eeff5796233604%2F1002_232_3103_2483%2Fmaster%2F3103.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D6905e2dbf01119a81aeb129629d442bf&w=1200&output=jpg"
 ---
 
 Scammers are using fake streaming websites to trick film fans into handing over their bank details — and you could be next if you're not careful.

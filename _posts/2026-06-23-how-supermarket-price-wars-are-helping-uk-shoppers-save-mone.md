@@ -4,7 +4,6 @@ title: "How supermarket price wars are helping UK shoppers save money"
 date: 2026-06-23T08:01:16.761Z
 labels: ["News", "Cost of Living", "Consumer Rights", "Inflation"]
 source: "https://www.dailymail.com/money/markets/article-15922037/Lidl-cements-lead-Morrisons-record-market-share-plans-50-new-stores.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F23%2F07%2F109533587-0-image-a-9_1782197874649.jpg&w=1200&output=jpg"
 ---
 
 The good news for your weekly food shop: budget supermarkets are driving down prices across the board, and it's worth knowing why.

@@ -4,7 +4,6 @@ title: "Nationwide £100 bonus: how to check if you qualify this year"
 date: 2026-05-27T08:02:16.301Z
 labels: ["News", "Savings", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/nationwide-says-you-can-check-37206996"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37207011.ece%2FALTERNATES%2Fs1200d%2F0_Nationwide-2.jpg&w=1200&output=jpg"
 ---
 
 If you're a Nationwide customer, there's a potential £100 payment heading your way — but only if you meet the eligibility criteria. The building society has just confirmed which members qualify for this year's Fairer Share bonus, and it's worth checking whether you're in line for the cash.

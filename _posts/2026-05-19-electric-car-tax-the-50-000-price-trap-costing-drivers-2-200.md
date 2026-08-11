@@ -4,7 +4,6 @@ title: "Electric car tax: the £50,000 price trap costing drivers £2,200"
 date: 2026-05-19T07:36:10.443Z
 labels: ["Tax", "News", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/lifestyle/motoring/new-dvla-alert-expensive-tax-37172813"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37172810.ece%2FALTERNATES%2Fs1200d%2F0_A-handsome-young-man-travels-through-a-snow-covered-forest.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about buying an electric vehicle, there's a crucial tax threshold you need to know about — and it could cost you an extra £2,200 over five years if you get it wrong.

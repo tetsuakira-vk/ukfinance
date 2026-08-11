@@ -4,7 +4,6 @@ title: "BT losing 800k customers: what it means for your broadband bills"
 date: 2026-07-23T08:01:27.430Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.cityam.com/bt-braces-for-loss-of-800000-customers-as-it-banks-on-fibre-to-keep-turnaround-on-track/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2024%2F12%2F003-BT-Logo.jpg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 BT is facing a significant customer exodus, with plans to lose around 800,000 customers as the telecoms giant reshapes its business around fibre broadband. If you're a BT customer, here's what you need to know and whether this affects your bills or service.

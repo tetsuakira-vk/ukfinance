@@ -4,7 +4,6 @@ title: "UK cost of living crisis: one family's bold escape to Greece"
 date: 2026-05-19T07:36:59.386Z
 labels: ["News", "Cost of Living", "Budgeting", "Housing"]
 source: "https://www.mirror.co.uk/news/uk-news/i-quit-money-crisis-uk-37174423"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37174427.ece%2FALTERNATES%2Fs1200d%2F1_Jam_Press_JMP857956.jpg&w=1200&output=jpg"
 ---
 
 As the UK cost of living crisis continues to squeeze household budgets, one family has made a radical decision: they've packed up and moved abroad. Renae and Pawel Wasik left Hertfordshire in November with their daughter to start a new life on the Greek island of Lefkada — where their rent is just £99 per week, compared to the £3,000 monthly rent they were paying in Britain.

@@ -4,7 +4,6 @@ title: "ASDA: Pork Sausages — 43% Off at £2"
 date: 2026-07-11T08:02:09.596Z
 labels: ["Deals", "Groceries", "Food & Drink"]
 source: "https://www.hotukdeals.com/deals/exceptional-by-asda-10-classic-pork-sausages-667g-4933456"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FVOmNl%2F4933456_1%2Fre%2F1024x1024%2Fqt%2F60%2F4933456_1.jpg&w=1200&output=jpg"
 ---
 
 Grab a pack of Exceptional by ASDA 10 Classic Pork Sausages for just £2 — that's 43% off the usual £3.50 price tag.

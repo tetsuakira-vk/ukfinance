@@ -4,7 +4,6 @@ title: "UK House Prices Rise Again: What It Means for Your Mortgage"
 date: 2026-07-07T08:00:54.826Z
 labels: ["News", "Mortgages", "Housing", "Cost of Living", "Interest Rates"]
 source: "https://www.theguardian.com/money/2026/jul/07/uk-house-prices-rise-iran-war-property-june-lloyds-halifax-hpi"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F2f55e7cf0e3ca1d26d816474b399dcdfd1e88b2e%2F0_0_4269_3415%2Fmaster%2F4269.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D965d2f1d05434aa16ebd880748e06e21&w=1200&output=jpg"
 ---
 
 After months of decline, there's a glimmer of good news for UK homeowners: house prices have finally started moving upwards again.

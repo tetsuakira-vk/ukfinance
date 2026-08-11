@@ -4,7 +4,6 @@ title: "First Date Costs: How to Budget for Dating in 2025"
 date: 2026-06-19T08:00:57.659Z
 labels: ["Budgeting", "Cost of Living", "Consumer Rights"]
 source: "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F2bee%2Flive%2Ff9804710-6a44-11f1-8546-8f19e4fe30f4.png&w=1200&output=jpg"
 ---
 
 Dating in the UK is getting expensive – and it's time to talk about it openly.

@@ -4,7 +4,6 @@ title: "Argos: Dyson V10 Submarine Vacuum — 48% Off"
 date: 2026-06-03T08:01:26.473Z
 labels: ["Deals", "Shopping", "Tech", "Home"]
 source: "https://www.hotukdeals.com/deals/dyson-cyclone-v10-submarine-vacuum-cleaner-2-year-guarantee-w-code-4903399"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FTK63C%2F4903399_1%2Fre%2F1024x1024%2Fqt%2F60%2F4903399_1.jpg&w=1200&output=jpg"
 ---
 
 Argos has slashed the Dyson Cyclone V10 Submarine down to £249.99 — that's nearly half off the £479 RRP and a solid £50 cheaper than Costco's offer. This isn't just any vacuum either; it's a wet and dry powerhouse that vacuums, washes, and de-tangles all in one go.

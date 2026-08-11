@@ -4,7 +4,6 @@ title: "Iceland's £2.50 Thai curry: Budget meals that don't skimp on taste"
 date: 2026-08-01T08:00:31.242Z
 labels: ["Budgeting", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/shopping-deals/amazing-250-iceland-meal-tastes-37495720"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37013787.ece%2FALTERNATES%2Fs1200d%2F1_GettyImages-2266599893.jpg&w=1200&output=jpg"
 ---
 
 If you're watching your food budget without wanting to sacrifice flavour, Iceland's Kitchen Joy Thai Cube Chicken Panang curry might be exactly what you're looking for. At just £2.50 (or £2.75 full price), this frozen ready meal is getting rave reviews from shoppers who say it tastes genuinely good — and that's worth knowing about when you're trying to keep grocery costs down.

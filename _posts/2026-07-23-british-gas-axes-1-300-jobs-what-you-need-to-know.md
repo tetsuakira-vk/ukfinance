@@ -4,7 +4,6 @@ title: "British Gas axes 1,300 jobs: what you need to know"
 date: 2026-07-23T08:00:23.420Z
 labels: ["Jobs", "News", "Redundancy", "Cost of Living", "Energy"]
 source: "https://www.dailymail.com/money/markets/article-15998917/British-Gas-owner-Centrica-plans-axe-1-300-jobs-two-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F23%2F08%2F110201087-0-image-a-6_1784792593812.jpg&w=1200&output=jpg"
 ---
 
 British Gas owner Centrica has announced plans to cut 1,300 jobs over the next two years, raising concerns for workers in an already challenging energy sector. If you work for the company or are worried about job security in the energy industry, here's what you need to know.

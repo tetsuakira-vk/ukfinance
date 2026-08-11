@@ -4,7 +4,6 @@ title: "Landlords: What You Must Send Tenants Under New Renters' Rights Act"
 date: 2026-05-19T07:31:23.102Z
 labels: ["Housing", "Consumer Rights", "News"]
 source: "https://www.dailymail.com/money/buytolet/article-15814543/Im-landlord-need-send-tenants-comply-new-Renters-Rights-Act.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F15%2F10%2F108629165-0-image-a-47_1778838315261.jpg&w=1200&output=jpg"
 ---
 
 The Renters' Rights Bill has now become law, and if you're a landlord, you need to act quickly to update your tenants. The key question many landlords are asking is: what documents do I need to send, and how do I tell tenants their old agreement no longer applies?

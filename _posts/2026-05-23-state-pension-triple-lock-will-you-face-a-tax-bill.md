@@ -4,7 +4,6 @@ title: "State Pension Triple Lock: Will You Face a Tax Bill?"
 date: 2026-05-23T08:01:02.386Z
 labels: ["Tax", "News", "Pensions", "HMRC", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/triple-lock-rise-could-push-37185886"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37185723.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2265174882.jpg&w=1200&output=jpg"
 ---
 
 If you're a pensioner, the latest State Pension rise is welcome news — but it could come with an unexpected sting: a tax bill you weren't expecting. Here's what's happening and what you need to know.

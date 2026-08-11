@@ -4,7 +4,6 @@ title: "Santander Life Insurance Cashback: Who Gets £150?"
 date: 2026-05-29T08:01:21.936Z
 labels: ["News", "Consumer Rights", "Mortgages", "Savings"]
 source: "https://www.mirror.co.uk/money/santander-customers-see-150-land-37220083"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37220082.ece%2FALTERNATES%2Fs1200d%2F0_A-woman-stands-outside-a-branch-of-Santander-bank-in-London.jpg&w=1200&output=jpg"
 ---
 
 If you bank with Santander, you might be about to receive up to £150 in free cash — but only if you meet certain criteria and take action soon.

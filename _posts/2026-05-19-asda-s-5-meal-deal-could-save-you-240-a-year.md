@@ -4,7 +4,6 @@ title: "Asda's £5 meal deal could save you £240 a year"
 date: 2026-05-19T07:23:29.347Z
 labels: ["News", "Cost of Living", "Consumer Rights", "Budgeting"]
 source: "https://www.mirror.co.uk/money/new-deal-every-asda-undercuts-37174556"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37174496.ece%2FALTERNATES%2Fs1200d%2F1_Jam_Press_JMP866804.jpg&w=1200&output=jpg"
 ---
 
 If you buy lunch at the supermarket regularly, Asda's new "Exceptional" meal deal could put real money back in your pocket — potentially £240 a year or more.

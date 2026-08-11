@@ -4,7 +4,6 @@ title: "National Grid's failures could push UK energy bills higher"
 date: 2026-07-29T08:00:59.628Z
 labels: ["Energy", "News", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/markets/article-16011105/National-Grid-operator-uses-fax-machines-fails-file-crucial-risk-reports-Ofgem-report-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F28%2F15%2F110299521-0-image-m-60_1785250153917.jpg&w=1200&output=jpg"
 ---
 
 Britain's energy grid operator is in serious trouble, and it could end up costing households more on their bills. The National Energy System Operator (Neso) has repeatedly failed to file crucial safety reports to regulator Ofgem, and it's still relying on fax machines instead of modern technology.

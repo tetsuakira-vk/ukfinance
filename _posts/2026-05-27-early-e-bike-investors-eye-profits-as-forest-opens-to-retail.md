@@ -4,7 +4,6 @@ title: "Early e-bike investors eye profits as Forest opens to retail buyers"
 date: 2026-05-27T08:01:14.632Z
 labels: ["Savings", "Investing", "Consumer Rights"]
 source: "https://www.dailymail.com/money/markets/article-15848519/Investors-e-bike-firm-Forest-eye-hefty-gains-launches-new-crowdfunding-campaign.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F26%2F09%2F108868495-0-image-m-26_1779783492807.jpg&w=1200&output=jpg"
 ---
 
 If you invested in e-bike firm Forest back in 2021, you might be sitting on a tidy profit. The London-based company is now offering existing shareholders the chance to cash out their gains for the first time in five years — and new retail investors can buy in at the same price as major institutions.

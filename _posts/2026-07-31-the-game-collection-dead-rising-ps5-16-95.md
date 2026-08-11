@@ -4,7 +4,6 @@ title: "The Game Collection: Dead Rising PS5 — £16.95"
 date: 2026-07-31T08:01:55.455Z
 labels: ["Deals", "Shopping", "Entertainment"]
 source: "https://www.hotukdeals.com/deals/dead-rising-deluxe-remastered-special-edition-ps5-pegi-18-4947298"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FZpsp3%2F4947298_1%2Fre%2F1024x1024%2Fqt%2F60%2F4947298_1.jpg&w=1200&output=jpg"
 ---
 
 The Game Collection is flogging Dead Rising Deluxe Remastered for PS5 at just £16.95 — an absolute steal for this newly remastered zombie action classic.

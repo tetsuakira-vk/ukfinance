@@ -4,7 +4,6 @@ title: "School Bus Cuts: How Parents Can Budget for Transport Costs"
 date: 2026-05-19T07:34:08.085Z
 labels: ["News", "Cost of Living", "Budgeting", "Consumer Rights"]
 source: "https://www.bbc.com/news/articles/c1e24zngw2do?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F7eff%2Flive%2Ff93a7f10-52d8-11f1-8b8c-6d33e1d5abb6.jpg&w=1200&output=jpg"
 ---
 
 School transport decisions can have a real impact on your household finances — and parents at Brixham College in Devon are facing exactly that challenge right now. The college has announced it will stop running dedicated school buses at the end of the academic year, leaving 266 families to find alternative arrangements during an already tight cost-of-living period.

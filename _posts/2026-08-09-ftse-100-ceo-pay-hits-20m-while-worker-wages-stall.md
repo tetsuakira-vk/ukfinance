@@ -4,7 +4,6 @@ title: "FTSE 100 CEO pay hits £20M while worker wages stall"
 date: 2026-08-09T08:00:42.162Z
 labels: ["News", "Cost of Living", "Pensions", "Tax"]
 source: "https://www.dailymail.com/money/markets/article-16038809/Best-paid-FTSE-100-bosses-revealed-earners-smash-20M.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F08%2F21%2F110518153-0-image-a-36_1786220686681.jpg&w=1200&output=jpg"
 ---
 
 Britain's biggest company bosses are pulling in eye-watering pay packages — some potentially topping £28 million a year — while ordinary workers' wages have barely kept up with inflation.

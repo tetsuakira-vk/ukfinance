@@ -4,7 +4,6 @@ title: "Heating oil customers owed compensation after Middle East price surge"
 date: 2026-07-15T08:00:52.862Z
 labels: ["Energy", "News", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/bills/article-15976213/Heating-oil-suppliers-told-compensate-customers-price-surge-start-Middle-East-conflict.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F14%2F12%2F107112591-0-image-a-9_1784027176418.jpg&w=1200&output=jpg"
 ---
 
 If you heat your home with oil, there's potentially good news: the UK's competition regulator is investigating heating oil suppliers and pushing them to compensate customers who were hit with sky-high bills when prices spiked at the start of the Middle East conflict.

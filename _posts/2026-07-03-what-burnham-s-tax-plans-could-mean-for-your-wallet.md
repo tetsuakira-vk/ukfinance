@@ -4,7 +4,6 @@ title: "What Burnham's Tax Plans Could Mean for Your Wallet"
 date: 2026-07-03T08:00:21.515Z
 labels: ["Tax", "News", "Cost of Living", "Benefits"]
 source: "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F6eb7%2Flive%2F8e7bce30-7647-11f1-83d0-9b0728fe8be0.jpg&w=1200&output=jpg"
 ---
 
 Andy Burnham, set to become Prime Minister on 20 July 2026, has signalled he's willing to make changes to tax rules — but with strict limits. Here's what it could mean for your finances.

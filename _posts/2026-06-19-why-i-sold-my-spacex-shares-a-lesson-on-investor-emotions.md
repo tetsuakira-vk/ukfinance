@@ -4,7 +4,6 @@ title: "Why I sold my SpaceX shares: A lesson on investor emotions"
 date: 2026-06-19T08:01:17.370Z
 labels: ["Savings", "Investments", "ISA", "Cost of Living"]
 source: "https://www.dailymail.com/money/diyinvesting/article-15911621/I-bought-SpaceX-shares-Ive-sold-lot-SIMON-LAMBERT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F18%2F17%2F109447723-0-image-m-11_1781801788135.jpg&w=1200&output=jpg"
 ---
 
 Even the most disciplined investors can be tempted by market buzz — but knowing when to step back is what separates sensible money decisions from costly mistakes.

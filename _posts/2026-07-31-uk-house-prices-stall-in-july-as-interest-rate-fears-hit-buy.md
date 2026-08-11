@@ -4,7 +4,6 @@ title: "UK House Prices Stall in July as Interest Rate Fears Hit Buyers"
 date: 2026-07-31T08:00:18.515Z
 labels: ["News", "Mortgages", "Housing", "Interest Rates", "Cost of Living"]
 source: "https://www.theguardian.com/business/2026/jul/31/uk-house-prices-july-buyers-cautious-interest-rates"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fab578bf8e29bbea27d3a21764fbfa2b9ad00d384%2F251_4_1397_1118%2Fmaster%2F1397.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D531f3d13f376a61b158b2a634e75ae73&w=1200&output=jpg"
 ---
 
 If you're thinking about buying a home, July's house price figures offer a reality check: the market is losing momentum as ordinary buyers pump the brakes on interest rate worries.

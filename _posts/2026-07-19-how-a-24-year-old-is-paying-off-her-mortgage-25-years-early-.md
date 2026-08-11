@@ -4,7 +4,6 @@ title: "How a 24-year-old is paying off her mortgage 25 years early with cashbac
 date: 2026-07-19T08:00:22.166Z
 labels: ["Mortgages", "Budgeting", "Savings", "Housing", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/mortgage-free-property-ladder-saving-37402156"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37402910.ece%2FALTERNATES%2Fs1200d%2F0_5556ea41-bdb3-45dd-ab31-adb21377ea0cJPG.jpg&w=1200&output=jpg"
 ---
 
 A Liverpool-based first-time buyer has found a simple way to chip away at her mortgage without feeling the financial strain — and it could save her tens of thousands in interest.

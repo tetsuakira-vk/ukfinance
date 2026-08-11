@@ -4,7 +4,6 @@ title: "AI job screening is rejecting older workers — here's what to do"
 date: 2026-07-27T08:00:18.533Z
 labels: ["Jobs", "Employment Law", "Consumer Rights", "Cost of Living", "Redundancy"]
 source: "https://www.dailymail.com/money/markets/article-16007421/Jobseekers-thwarted-AI-bots-throwing-CVs-wrong-age-says-RUTH-SUNDERLAND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F27%2F08%2F110270477-0-image-m-53_1785138484960.jpg&w=1200&output=jpg"
 ---
 
 Applying for jobs is hard enough without artificial intelligence quietly binning your CV before a human even sees it. But that's exactly what's happening to thousands of British jobseekers, with AI screening tools allegedly filtering out applicants based on age — a practice that may be illegal.

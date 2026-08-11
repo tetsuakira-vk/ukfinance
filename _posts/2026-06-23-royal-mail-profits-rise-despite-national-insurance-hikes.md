@@ -4,7 +4,6 @@ title: "Royal Mail Profits Rise Despite National Insurance Hikes"
 date: 2026-06-23T08:00:20.450Z
 labels: ["News", "Cost of Living", "Employment Law", "Inflation"]
 source: "https://www.cityam.com/royal-mail-earnings-jump-despite-employment-cost-hikes/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2024%2F05%2FRoyal-Mail-1200-x-800-1.jpeg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 Royal Mail has reported a revenue increase of 2.6% to £8.4 billion in the year to March 2024, proving that even with rising employment costs hitting businesses across the UK, some large organisations can still grow their top line. But what does this mean for ordinary people relying on postal services?

@@ -4,7 +4,6 @@ title: "Northern Ireland heating oil prices jump £100 in weeks"
 date: 2026-07-27T08:00:50.091Z
 labels: ["Energy", "News", "Cost of Living", "Budgeting"]
 source: "https://www.bbc.co.uk/news/articles/cly9npzw3y3o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F9028%2Flive%2F75e75220-86b6-11f1-bb58-d3ffca85db6d.png&w=1200&output=jpg"
 ---
 
 Home heating oil prices in Northern Ireland have spiked sharply, with the average cost of 500 litres jumping from £346.59 to £445.37 in just three weeks – a rise of nearly £99 (29%). For the two-thirds of Northern Ireland households reliant on oil heating, this is a serious blow to already stretched household budgets.

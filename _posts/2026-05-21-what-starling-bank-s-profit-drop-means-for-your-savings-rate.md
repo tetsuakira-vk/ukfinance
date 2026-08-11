@@ -4,7 +4,6 @@ title: "What Starling Bank's profit drop means for your savings rates"
 date: 2026-05-21T08:01:18.514Z
 labels: ["News", "Interest Rates", "Savings", "Cost of Living"]
 source: "https://www.cityam.com/starlings-profit-slides-as-falling-interest-rates-bite/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2026%2F05%2FStarling_ApplePay.jpeg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 Starling Bank's profits have fallen, and if you're banking with them — or considering it — here's what you need to know about what's really happening behind the scenes.

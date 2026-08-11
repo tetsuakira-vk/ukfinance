@@ -4,7 +4,6 @@ title: "Currys: PlayStation 5 Digital Edition Bundle — £249"
 date: 2026-06-17T08:00:47.449Z
 labels: ["Deals", "Tech", "Shopping"]
 source: "https://www.hotukdeals.com/deals/sony-refurbished-playstation-5-digital-edition-ea-sports-fc-26-bundle-very-good-condition-4914206"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FSVaQz%2F4914206_1%2Fre%2F1024x1024%2Fqt%2F60%2F4914206_1.jpg&w=1200&output=jpg"
 ---
 
 Currys has dropped a cracking deal on a refurbished PS5 Digital Edition bundled with EA Sports FC 26 for just £249. That's a seriously decent price for both the console and a brand-new game.

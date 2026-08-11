@@ -4,7 +4,6 @@ title: "Virgin Media free £250 TV offer ends soon – should you switch?"
 date: 2026-05-19T08:01:43.528Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/tech/virgin-media-free-smart-tv-37171665"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37172719.ece%2FALTERNATES%2Fs1200d%2F0_Untitled-6jpeg.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about switching broadband provider, Virgin Media is sweetening the deal with a free Ultra HD smart TV worth around £250 – but you'll need to act fast, as the offer runs out this month.

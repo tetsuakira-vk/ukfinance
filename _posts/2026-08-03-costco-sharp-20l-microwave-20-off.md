@@ -4,7 +4,6 @@ title: "Costco: Sharp 20L Microwave — £20 Off"
 date: 2026-08-03T08:01:25.934Z
 labels: ["Deals", "Shopping", "Home"]
 source: "https://www.hotukdeals.com/deals/sharp-20-litre-700w-solo-digital-microwave-yc-ps204au-s-4948881"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FMBS6f%2F4948881_1%2Fre%2F1024x1024%2Fqt%2F60%2F4948881_1.jpg&w=1200&output=jpg"
 ---
 
 Grab a Sharp 20 Litre 700W Solo Digital Microwave for £49.99 at Costco — that's a solid £20 saving on the usual £69.99 price tag, plus free delivery.

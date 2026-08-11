@@ -4,7 +4,6 @@ title: "Budget travel essentials from Poundland: save money on airport shopping"
 date: 2026-06-27T08:00:22.906Z
 labels: ["Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/shopping-deals/travellers-need-poundland-ideal-item-37347711"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37347710.ece%2FALTERNATES%2Fs1200d%2F1_Poundland-supermarket-store-front-shoppers.jpg&w=1200&output=jpg"
 ---
 
 If you're planning a holiday this year, here's a money-saving tip that could cut your airport shopping bill: Poundland has become an unlikely hero for budget-conscious travellers.

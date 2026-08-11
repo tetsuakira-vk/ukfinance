@@ -4,7 +4,6 @@ title: "UK Budget 2026: What Burnham's spending freeze means for you"
 date: 2026-08-01T08:00:16.806Z
 labels: ["News", "Cost of Living", "Tax", "Inflation"]
 source: "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2Ff911%2Flive%2F99ae70c0-8ced-11f1-a573-93159e2b55da.jpg&w=1200&output=jpg"
 ---
 
 The government has just sent a clear message to its ministers: there's no money to splash about. Prime Minister Andy Burnham and Chancellor John Healey have told cabinet members to stick within existing spending limits while funding new pledges — and this matters to your wallet.

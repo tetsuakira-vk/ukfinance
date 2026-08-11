@@ -4,7 +4,6 @@ title: "Neighbour Using Your Bin? Know Your UK Legal Rights"
 date: 2026-05-19T07:35:53.050Z
 labels: ["Consumer Rights", "Housing"]
 source: "https://www.mirror.co.uk/news/uk-news/your-legal-rights-neighbour-uses-37172462"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37172461.ece%2FALTERNATES%2Fs1200d%2F0_Homeowner-about-to-discard-cardboard-into-a-council-blue-recycling-bin-outside-his-home.jpg&w=1200&output=jpg"
 ---
 
 Finding extra rubbish in your wheelie bin might seem like a minor annoyance, but if it's happening regularly, you have legal options — and your local council is on your side.

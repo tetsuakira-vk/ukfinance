@@ -4,7 +4,6 @@ title: "Unmarried couples: the £200k inheritance tax mistake"
 date: 2026-06-03T08:00:16.470Z
 labels: ["Tax", "Savings", "Housing", "Pensions"]
 source: "https://www.mirror.co.uk/money/martin-lewis-stark-warning-unmarried-37240365"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37240393.ece%2FALTERNATES%2Fs1200d%2F0_mart5PNG.png&w=1200&output=jpg"
 ---
 
 If you're living with a partner but not married, you could be accidentally costing your children £200,000 or more in inheritance tax. Personal finance expert Martin Lewis has warned that cohabiting couples miss out on major tax breaks that married couples and civil partners get automatically.

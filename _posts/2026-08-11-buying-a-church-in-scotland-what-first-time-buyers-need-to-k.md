@@ -4,7 +4,6 @@ title: "Buying a Church in Scotland: What First-Time Buyers Need to Know"
 date: 2026-08-11T08:01:01.817Z
 labels: ["Mortgages", "Housing", "Consumer Rights", "Cost of Living"]
 source: "https://www.dailymail.com/money/mortgageshome/article-16041073/Three-churches-heading-auction-Scotland-ones-boxing-gym-almighty-mess.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F10%2F14%2F110541045-0-image-m-91_1786368740943.jpg&w=1200&output=jpg"
 ---
 
 Converting a church into a home or business sounds romantic — until you face the bills. Three Scottish churches heading to auction offer a timely reminder that buying an unusual property can be far more expensive than a standard house.

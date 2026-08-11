@@ -4,7 +4,6 @@ title: "Should UK savers and investors watch foreign takeover boom?"
 date: 2026-05-23T08:00:32.141Z
 labels: ["Savings", "Investing", "News", "Cost of Living", "Pensions"]
 source: "https://www.dailymail.com/money/investing/article-15841727/YOU-profit-foreign-predators-circle-home-grown-businesses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F22%2F20%2F108811969-0-image-m-127_1779476856000.jpg&w=1200&output=jpg"
 ---
 
 If you have money in a UK savings account, pension pot or investment portfolio, a major shift is happening in the stock market that's worth understanding — even if company takeovers sound boring.

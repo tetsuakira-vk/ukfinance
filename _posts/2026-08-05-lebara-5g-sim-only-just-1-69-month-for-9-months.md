@@ -4,7 +4,6 @@ title: "Lebara: 5G SIM Only — Just £1.69/month for 9 Months"
 date: 2026-08-05T08:01:48.882Z
 labels: ["Deals", "Tech", "Finance"]
 source: "https://www.hotukdeals.com/deals/lebara-3gb-5g-data-300-uk-mins-unlimited-texts-unltd-mins-texts-to-lebara-uk-50-international-mins-roaming-ps169pm9m-ps440-after-4950819"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2F6Lolw%2F4950819_1%2Fre%2F1024x1024%2Fqt%2F60%2F4950819_1.jpg&w=1200&output=jpg"
 ---
 
 Lebara's just dropped a cracking deal on their 5G SIM-only plan: just £1.69 per month for the first 9 months, then £4.40/month after. Over a full year? That averages out to just £2.38/month. Seriously good value.

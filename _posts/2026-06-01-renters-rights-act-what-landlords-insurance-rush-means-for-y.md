@@ -4,7 +4,6 @@ title: "Renters' Rights Act: What Landlords' Insurance Rush Means for You"
 date: 2026-06-01T08:01:41.100Z
 labels: ["Housing", "News", "Consumer Rights", "Cost of Living"]
 source: "https://www.cityam.com/landlords-rush-to-protect-income-over-renters-rights-act-fears/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2026%2F05%2FUK-rental-market-e1778062442166.jpg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 The government's Renters' Rights Act, which came into force in May, is reshaping the rental market — and landlords are taking action that could affect your housing costs and security.

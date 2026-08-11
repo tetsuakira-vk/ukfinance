@@ -4,7 +4,6 @@ title: "Ryanair's hidden family seat fees investigated by UK watchdog"
 date: 2026-06-11T08:00:39.808Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2Faf40%2Flive%2F608cfde0-655e-11f1-a1f9-afd6f3de9cfa.jpg&w=1200&output=jpg"
 ---
 
 If you're planning a budget family holiday this summer, here's something worth knowing: the UK's competition watchdog is investigating Ryanair over charges it imposes on parents who want to sit next to their children on flights.

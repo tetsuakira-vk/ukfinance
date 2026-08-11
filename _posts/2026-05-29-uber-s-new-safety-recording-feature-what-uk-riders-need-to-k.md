@@ -4,7 +4,6 @@ title: "Uber's New Safety Recording Feature: What UK Riders Need to Know"
 date: 2026-05-29T08:00:47.405Z
 labels: ["Consumer Rights", "Scams"]
 source: "https://www.cityam.com/uber-wants-your-journey-on-tape-as-safety-concerns-mount/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2024%2F05%2FUber-1200-x-800-1.jpeg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 Uber has launched a new safety feature across the UK that lets you record audio during your journeys — and it could be important for protecting yourself as a passenger.

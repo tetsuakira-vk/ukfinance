@@ -4,7 +4,6 @@ title: "PIP Disability Benefit Claims \"Dehumanising\" — What You Need to Know
 date: 2026-07-09T08:00:58.926Z
 labels: ["Benefits", "DWP", "Cost of Living", "News"]
 source: "https://www.mirror.co.uk/news/politics/welfare-pip-stephen-timms-failure-37404472"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37248439.ece%2FALTERNATES%2Fs1200d%2F4_Couple-looking-at-formsjpeg.jpg&w=1200&output=jpg"
 ---
 
 If you're claiming Personal Independence Payment (PIP) — or thinking about applying — you should know that a major new government review has found serious problems with how the system works. A report by DWP minister Sir Stephen Timms describes the claims process as "dehumanising", "soul destroying", and "degrading" for disabled people trying to access the support they're entitled to.

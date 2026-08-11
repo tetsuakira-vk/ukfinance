@@ -4,7 +4,6 @@ title: "Why UK investors are ditching AI stocks for the FTSE 100"
 date: 2026-08-03T08:00:57.469Z
 labels: ["News", "Savings", "Pensions", "ISA", "Investments"]
 source: "https://www.dailymail.com/money/markets/article-16024199/RUTH-SUNDERLAND-investors-pulling-AI-hype.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F03%2F07%2F110270443-0-image-a-15_1785740033606.jpg&w=1200&output=jpg"
 ---
 
 If you've got money invested in your pension or ISA, pay attention: investor behaviour is shifting in a big way, and it could affect your portfolio returns.

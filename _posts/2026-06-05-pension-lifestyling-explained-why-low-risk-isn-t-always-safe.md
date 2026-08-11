@@ -4,7 +4,6 @@ title: "Pension Lifestyling Explained: Why 'Low Risk' Isn't Always Safe"
 date: 2026-06-05T08:01:59.781Z
 labels: ["Pensions", "Savings", "News", "Cost of Living", "Inflation"]
 source: "https://www.dailymail.com/money/pensions/article-12720089/Pension-lifestyling-Bond-crash-derisking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F04%2F17%2F77497885-0-image-a-54_1780590886558.jpg&w=1200&output=jpg"
 ---
 
 As you approach retirement, your pension provider might automatically shift your savings out of stock markets and into bonds — a strategy called pension lifestyling. It sounds sensible, but recent events show it's far riskier than it appears.

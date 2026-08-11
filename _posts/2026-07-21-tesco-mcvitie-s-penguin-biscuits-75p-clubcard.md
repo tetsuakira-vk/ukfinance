@@ -4,7 +4,6 @@ title: "Tesco: McVitie's Penguin Biscuits — 75p Clubcard"
 date: 2026-07-21T08:01:55.633Z
 labels: ["Deals", "Groceries", "Food & Drink"]
 source: "https://www.hotukdeals.com/deals/mcvities-penguin-original-biscuit-bar-7-pack-x-246g-clubcard-4940108"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FrNQvD%2F4940108_1%2Fre%2F1024x1024%2Fqt%2F60%2F4940108_1.jpg&w=1200&output=jpg"
 ---
 
 McVitie's Penguin bars are down to just 75p at Tesco with your Clubcard — and it's genuinely better value than their half-price offer starting tomorrow. You're getting a 7-pack of the classic chocolate-covered biscuit bars, and at this price, they're an absolute steal for a cheeky treat or lunchbox filler.

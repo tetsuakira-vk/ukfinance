@@ -4,7 +4,6 @@ title: "UK House Prices Fall in June: What It Means for Buyers and Sellers"
 date: 2026-06-15T08:00:27.858Z
 labels: ["Mortgages", "News", "Housing", "Cost of Living", "Interest Rates"]
 source: "https://www.mirror.co.uk/money/uk-house-prices-suffer-biggest-37295810"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle36897171.ece%2FALTERNATES%2Fs1200d%2F1_Home-for-sale-with-real-estate-sign.jpg&w=1200&output=jpg"
 ---
 
 UK house prices have dropped by 0.6% in June — the biggest fall for that month in 14 years — according to new data from Rightmove. The typical asking price across Britain has fallen to £376,191, down by £2,113 on average.

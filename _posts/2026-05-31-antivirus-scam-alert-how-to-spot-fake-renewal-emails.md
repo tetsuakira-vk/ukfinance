@@ -4,7 +4,6 @@ title: "Antivirus scam alert: how to spot fake renewal emails"
 date: 2026-05-31T08:01:43.226Z
 labels: ["News", "Consumer Rights", "Scams"]
 source: "https://www.theguardian.com/money/2026/may/31/virus-software-scam-trade-fear-urgent-renewal"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fc5b132c3a656b8edf971bf8c8dfea288c1e81886%2F653_0_3244_2594%2Fmaster%2F3244.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3Df02cc71467841c42f85db769cab7ebef&w=1200&output=jpg"
 ---
 
 Scammers are using fear and fake urgency to trick British computer users into handing over their money and personal data through bogus antivirus renewal emails. Here's how to protect yourself.

@@ -4,7 +4,6 @@ title: "The £5 Note Fridge Trick That Could Cut Your Energy Bills"
 date: 2026-06-19T08:00:36.990Z
 labels: ["Energy", "Cost of Living", "Budgeting"]
 source: "https://www.mirror.co.uk/news/uk-news/expert-says-putting-banknote-fridge-37318426"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37318430.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1460831041-1.jpg&w=1200&output=jpg"
 ---
 
 Here's a money-saving hack that takes less than a minute: grab a £5 note and test your fridge door seal. It sounds odd, but it could help you spot a problem that's quietly pushing up your energy bills by as much as 25%.

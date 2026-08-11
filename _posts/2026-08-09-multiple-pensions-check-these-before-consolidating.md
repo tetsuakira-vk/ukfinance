@@ -4,7 +4,6 @@ title: "Multiple Pensions? Check These Before Consolidating"
 date: 2026-08-09T08:01:26.552Z
 labels: ["Savings", "Pensions", "Budgeting", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/warning-anyone-more-one-pension-37525735"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37461294.ece%2FALTERNATES%2Fs1200d%2F4_Senior-couple-using-laptop-while-planning-their-home-budget.jpg&w=1200&output=jpg"
 ---
 
 If you've changed jobs several times, you've probably got old pension pots scattered across different providers without realising it. The good news is that bringing them together could make your retirement savings easier to manage and potentially save you thousands. But there's a crucial catch: not all pensions should be moved.

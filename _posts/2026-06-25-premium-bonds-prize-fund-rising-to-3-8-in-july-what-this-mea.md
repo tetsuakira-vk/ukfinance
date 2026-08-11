@@ -4,7 +4,6 @@ title: "Premium Bonds Prize Fund Rising to 3.8% in July — What This Means for 
 date: 2026-06-25T08:01:19.762Z
 labels: ["News", "Savings", "Interest Rates", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/premium-bonds-update-issued-expert-37342412"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37342523.ece%2FALTERNATES%2Fs1200d%2F0_Premium-Bonds-1.jpg&w=1200&output=jpg"
 ---
 
 Good news for Premium Bond holders: NS&I is increasing the prize fund rate from 3.3% to 3.8% from the July draw, and your odds of winning are improving too.

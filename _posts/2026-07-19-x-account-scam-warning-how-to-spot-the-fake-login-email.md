@@ -4,7 +4,6 @@ title: "X Account Scam Warning: How to Spot the Fake Login Email"
 date: 2026-07-19T08:01:20.108Z
 labels: ["News", "Consumer Rights", "Scams"]
 source: "https://www.theguardian.com/money/2026/jul/19/x-scams-login-new-device-message-account-crypto-phishing"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fd2a6fbefb53099a369374133dcecaf942cca4281%2F417_0_4167_3333%2Fmaster%2F4167.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3Df9ea6077c1a8b73e2ca50ae93093eba3&w=1200&output=jpg"
 ---
 
 Fraudsters are targeting X (formerly Twitter) users with a convincing phishing scam that could leave your accounts and money at serious risk. Here's what you need to know to protect yourself.

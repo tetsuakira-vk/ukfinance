@@ -4,7 +4,6 @@ title: "Do You Need a TV Licence for YouTube? UK Viewing Rules Explained"
 date: 2026-07-19T08:01:04.011Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/tv-licence-rules-watching-youtube-37432900"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37433115.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-458984485.jpg&w=1200&output=jpg"
 ---
 
 If you're wondering whether a YouTube Premium subscription means you can ditch your TV Licence, the answer might surprise you. The short version: Premium doesn't replace a licence if you're watching live TV — but you probably already knew that was too good to be true.

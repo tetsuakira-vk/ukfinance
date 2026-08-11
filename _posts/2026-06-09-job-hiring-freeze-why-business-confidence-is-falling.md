@@ -4,7 +4,6 @@ title: "Job Hiring Freeze: Why Business Confidence Is Falling"
 date: 2026-06-09T08:01:41.690Z
 labels: ["News", "Cost of Living", "Jobs", "Inflation"]
 source: "https://www.dailymail.com/money/markets/article-15884851/Labour-leadership-battle-high-taxes-firms-hiring-says-CBI.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F09%2F07%2F109218933-0-image-a-6_1780987064114.jpg&w=1200&output=jpg"
 ---
 
 British businesses are hitting the brakes on hiring and investment plans, and political uncertainty at the top is partly to blame. The Confederation of British Industry (CBI) has warned that the ongoing Labour leadership contest — with Andy Burnham and Wes Streeting competing to replace Keir Starmer — is adding to concerns that are already keeping firms from expanding their workforce.

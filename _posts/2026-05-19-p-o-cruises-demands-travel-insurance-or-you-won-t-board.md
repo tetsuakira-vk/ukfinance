@@ -4,7 +4,6 @@ title: "P&O Cruises Demands Travel Insurance or You Won't Board"
 date: 2026-05-19T13:32:10.787Z
 labels: ["Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/travel/news/po-cruises-tells-passengers-must-37176898"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37176897.ece%2FALTERNATES%2Fs1200d%2F0_Arvia-and-Iona-cruise-ships-moored-at-Tortola.jpg&w=1200&output=jpg"
 ---
 
 If you've booked a P&O Cruises holiday, there's one item you absolutely must pack alongside your passport: proof of travel insurance. The cruise operator has made it clear that without it, you won't be allowed to board — and you'll be out of pocket for the full cost of your trip.

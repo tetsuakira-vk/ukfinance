@@ -4,7 +4,6 @@ title: "Why First-Time Buyers Are Struggling: Housing Crisis Deepens"
 date: 2026-08-11T08:00:24.812Z
 labels: ["Mortgages", "News", "Cost of Living", "Housing", "Interest Rates"]
 source: "https://www.dailymail.com/money/markets/article-16043675/Housebuilder-Bellway-urges-Burnham-cut-stamp-duty-flags-weak-demand-higher-costs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F11%2F08%2F110555433-0-image-a-6_1786433177021.jpg&w=1200&output=jpg"
 ---
 
 First-time buyers in the UK are facing a perfect storm of rising costs, and now major housebuilders are sounding the alarm. Bellway, one of the country's largest new-build developers, has publicly urged the Government to cut stamp duty and introduce a deposit support scheme—a sign that the housing market is in real trouble.

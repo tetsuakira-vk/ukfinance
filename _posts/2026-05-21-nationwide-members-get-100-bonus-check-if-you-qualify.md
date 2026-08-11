@@ -4,7 +4,6 @@ title: "Nationwide members get £100 bonus – check if you qualify"
 date: 2026-05-21T08:01:34.477Z
 labels: ["News", "Savings", "Consumer Rights"]
 source: "https://www.dailymail.com/money/markets/article-15836499/Nationwide-members-receive-100-bonus-Fairer-Share-scheme.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F21%2F07%2F108768471-0-image-a-8_1779343422630.jpg&w=1200&output=jpg"
 ---
 
 If you're a Nationwide member, you could be getting £100 in your account from 10 June 2026 as part of the building society's Fairer Share scheme. This is the fourth year running that Nationwide has shared profits with eligible members – but not everyone will qualify.

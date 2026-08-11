@@ -4,7 +4,6 @@ title: "Hotel Price Drop Hack: How to Save Hundreds on UK Holiday Bookings"
 date: 2026-07-19T08:00:48.608Z
 labels: ["Budgeting", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/travel/news/itvs-coupon-king-says-hotels-37448074"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37448145.ece%2FALTERNATES%2Fs1200d%2F1_jordon.jpg&w=1200&output=jpg"
 ---
 
 If you're planning a holiday, here's a money-saving trick that could put hundreds of pounds back in your pocket. TV presenter Jordon Cox, known as the "Coupon King" on ITV, has revealed a simple but effective way to slash hotel booking costs — and hotels would rather you didn't know about it.

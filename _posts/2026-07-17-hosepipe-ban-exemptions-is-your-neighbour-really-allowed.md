@@ -4,7 +4,6 @@ title: "Hosepipe Ban Exemptions: Is Your Neighbour Really Allowed?"
 date: 2026-07-17T08:01:04.484Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.dailymail.com/money/experts/article-15980033/Neighbour-hosepipe-ban-stop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F15%2F17%2F110037901-0-image-a-8_1784132129488.jpg&w=1200&output=jpg"
 ---
 
 If you're in a hosepipe ban area and spot your neighbour watering their garden or filling a paddling pool while you're banned from doing the same, you might feel it's unfair. But they could genuinely be exempt — and there are legitimate reasons why.

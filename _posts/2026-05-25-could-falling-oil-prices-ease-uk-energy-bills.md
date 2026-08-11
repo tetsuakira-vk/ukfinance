@@ -4,7 +4,6 @@ title: "Could falling oil prices ease UK energy bills?"
 date: 2026-05-25T08:01:04.058Z
 labels: ["Energy", "Cost of Living", "News"]
 source: "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F31c2%2Flive%2F3949aed0-57ea-11f1-8305-4591ea57c76a.jpg&w=1200&output=jpg"
 ---
 
 Oil prices have just fallen sharply on hopes of a peace deal between the US and Iran — and this could eventually mean some relief for your energy bills.

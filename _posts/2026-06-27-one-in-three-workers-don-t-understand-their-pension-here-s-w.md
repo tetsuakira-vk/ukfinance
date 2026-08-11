@@ -4,7 +4,6 @@ title: "One in three workers don't understand their pension – here's what to d
 date: 2026-06-27T08:01:31.107Z
 labels: ["Pensions", "News", "Savings", "Jobs", "Cost of Living"]
 source: "https://www.dailymail.com/money/pensions/article-15930243/Confused-anxious-pension-quick-guide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F25%2F18%2F109601459-0-image-m-21_1782406844141.jpg&w=1200&output=jpg"
 ---
 
 A new survey has revealed something worrying: one in three workers say their employer never properly explained their workplace pension, or didn't explain it at all. If that sounds like you, you're not alone – and it's worth taking action now.

@@ -4,7 +4,6 @@ title: "From Redundancy at 17 to Million-Pound Business: How You Can Too"
 date: 2026-06-15T08:01:43.718Z
 labels: ["Jobs", "Redundancy", "Cost of Living", "News"]
 source: "https://www.dailymail.com/money/markets/article-15897095/Multi-millionaire-tyre-tycoon-Mike-Welch-positive-message-Britains-lost-generation-Neets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F13%2F11%2F109324297-0-image-m-57_1781345121425.jpg&w=1200&output=jpg"
 ---
 
 Getting made redundant is tough—especially when you're just 17. But one Liverpool entrepreneur has turned that setback into a remarkable success story, and his journey offers real lessons for anyone facing job loss or struggling to find their way.

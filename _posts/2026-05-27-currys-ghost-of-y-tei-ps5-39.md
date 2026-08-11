@@ -4,7 +4,6 @@ title: "Currys: Ghost of Yōtei PS5 — £39"
 date: 2026-05-27T08:01:42.551Z
 labels: ["Deals", "Shopping", "Tech", "Entertainment"]
 source: "https://www.hotukdeals.com/deals/ghost-of-yotei-ps5-4898343"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FeWrJ4%2F4898343_1%2Fre%2F1024x1024%2Fqt%2F60%2F4898343_1.jpg&w=1200&output=jpg"
 ---
 
 Currys has Ghost of Yōtei for PS5 down to just £39 with free click and collect — a solid saving on this stunning action-adventure.

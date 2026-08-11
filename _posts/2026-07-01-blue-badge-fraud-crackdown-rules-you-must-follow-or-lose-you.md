@@ -4,7 +4,6 @@ title: "Blue Badge fraud crackdown: rules you must follow or lose your permit"
 date: 2026-07-01T08:01:23.990Z
 labels: ["News", "Consumer Rights", "Benefits", "DWP"]
 source: "https://www.mirror.co.uk/money/hundreds-blue-badges-cancelled-rules-37367005"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37366995.ece%2FALTERNATES%2Fs1200d%2F0_Disabled-parking-spot.jpg&w=1200&output=jpg"
 ---
 
 If you hold a Blue Badge, pay attention. Over 450 permits have just been cancelled in a fraud crackdown, and the rules around how you use yours are stricter than many people realise.

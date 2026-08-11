@@ -4,7 +4,6 @@ title: "Food Crisis Warning: What Rising Prices Mean for Your Grocery Bill"
 date: 2026-05-19T07:37:14.545Z
 labels: ["News", "Cost of Living", "Inflation"]
 source: "https://www.gov.uk/government/news/foreign-secretary-warns-the-world-cannot-wait-any-longer-to-reopen-the-strait-of-hormuz-as-food-security-crisis-looms-for-countries-already-on-the-edg"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.gov.uk%2Fassets%2Ffrontend%2Fgovuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png&w=1200&output=jpg"
 ---
 
 The UK Foreign Secretary has issued a stark warning: a global food crisis could push tens of millions of people into hunger unless world leaders act fast. Here's what it means for your wallet.

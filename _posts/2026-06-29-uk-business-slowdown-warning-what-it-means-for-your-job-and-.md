@@ -4,7 +4,6 @@ title: "UK Business Slowdown Warning: What it Means for Your Job and Bills"
 date: 2026-06-29T08:00:49.414Z
 labels: ["News", "Cost of Living", "Jobs", "Energy", "Inflation"]
 source: "https://www.dailymail.com/money/markets/article-15937649/Britains-firms-pressure-energy-tax-hikes-bite-CBI-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F29%2F08%2F109664513-0-image-m-16_1782718220601.jpg&w=1200&output=jpg"
 ---
 
 British businesses are facing mounting pressure from rising energy costs and tax increases, and that could affect your job security and household finances over the coming months.

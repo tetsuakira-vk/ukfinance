@@ -4,7 +4,6 @@ title: "Why Over-55s Must Talk About Inheritance Now — Before 2027 Tax Changes
 date: 2026-06-29T08:01:35.815Z
 labels: ["Tax", "News", "Pensions", "Cost of Living"]
 source: "https://www.dailymail.com/money/tax/article-15932917/A-quarter-55s-never-discussed-inheritance-plans-family.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F26%2F17%2F109627503-0-image-a-9_1782492282121.jpg&w=1200&output=jpg"
 ---
 
 A startling new finding reveals that one in four people over 55 have never discussed their inheritance plans with their family. That's a problem — especially with major changes to how inheritance tax affects pensions coming in April 2027.

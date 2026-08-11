@@ -4,7 +4,6 @@ title: "ChatGPT shopping scams: how fake websites trick UK buyers"
 date: 2026-06-07T08:01:07.286Z
 labels: ["News", "Consumer Rights", "Scams", "Cost of Living"]
 source: "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F5b159f0a4ab644187eac8ef560051bc791814eda%2F0_0_2500_2001%2Fmaster%2F2500.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3Ddbfac095907236b80b0bb63ee21aed19&w=1200&output=jpg"
 ---
 
 Artificial intelligence tools like ChatGPT are incredibly useful for shopping advice — but scammers are now exploiting them to trick you into buying from fake websites. Here's what you need to know to stay safe.

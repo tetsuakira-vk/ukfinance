@@ -4,7 +4,6 @@ title: "Dunelm: Shark Kids Rug — Just £3.75 + Free C&C"
 date: 2026-06-05T08:02:34.826Z
 labels: ["Deals", "Shopping", "Home"]
 source: "https://www.hotukdeals.com/deals/shark-kids-rug-65x70cm-free-click-collect-4905113"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2F4eRy8%2F4905113_1%2Fre%2F1024x1024%2Fqt%2F60%2F4905113_1.jpg&w=1200&output=jpg"
 ---
 
 Dunelm's knocked the price right down on this adorable Shark Kids Rug to just £3.75 — and you won't pay a penny for Click & Collect.

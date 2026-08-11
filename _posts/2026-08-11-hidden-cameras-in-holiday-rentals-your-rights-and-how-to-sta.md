@@ -4,7 +4,6 @@ title: "Hidden cameras in holiday rentals: your rights and how to stay safe"
 date: 2026-08-11T08:00:40.367Z
 labels: ["Consumer Rights", "News", "Scams", "Housing"]
 source: "https://www.mirror.co.uk/news/uk-news/couple-flee-airbnb-spain-after-37536564"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37536570.ece%2FALTERNATES%2Fs1200d%2F1_airbnb-guests-f-1587711.jpg&w=1200&output=jpg"
 ---
 
 A British couple's anniversary trip to Madrid turned into a nightmare when they discovered hidden cameras pointed at their bed in an Airbnb rental. The incident is a stark reminder that holiday rental scams and privacy breaches can happen anywhere — and it's worth knowing your rights before you book.

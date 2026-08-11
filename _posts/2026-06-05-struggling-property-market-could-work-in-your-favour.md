@@ -4,7 +4,6 @@ title: "Struggling Property Market Could Work in Your Favour"
 date: 2026-06-05T08:00:39.059Z
 labels: ["Mortgages", "News", "Housing", "Interest Rates", "Cost of Living"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15873875/Video-property-market-struggling-good-time-buy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F04%2F13%2F109118647-0-image-a-6_1780575469053.jpg&w=1200&output=jpg"
 ---
 
 The property market is quieter than it's been in years, and that might actually be good news if you're thinking about buying a home.

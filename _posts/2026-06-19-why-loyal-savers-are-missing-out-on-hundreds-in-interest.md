@@ -4,7 +4,6 @@ title: "Why Loyal Savers Are Missing Out on Hundreds in Interest"
 date: 2026-06-19T08:01:33.554Z
 labels: ["Savings", "News", "Interest Rates", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/saving/article-15911007/Savers-blinded-loyalty-losing-huge-amounts-money-rates-instead.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F18%2F16%2F109445721-0-image-a-9_1781796593898.jpg&w=1200&output=jpg"
 ---
 
 If you've had money sitting in the same savings account for years, you could be losing hundreds of pounds annually without realising it. Banks are quietly cutting interest rates on existing accounts, banking on the fact that many customers simply won't notice or bother to switch.

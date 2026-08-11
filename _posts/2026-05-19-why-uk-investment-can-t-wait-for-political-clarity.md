@@ -4,7 +4,6 @@ title: "Why UK Investment Can't Wait for Political Clarity"
 date: 2026-05-19T08:02:20.794Z
 labels: ["News", "Cost of Living", "Housing", "Economy", "Business"]
 source: "https://www.cityam.com/capital-wont-wait-for-westminster-to-sort-itself-out/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2026%2F04%2FHouses-of-Parliament-Westminster-e1777390077157.jpg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 Political uncertainty shouldn't hold back Britain's economic growth — and it's a lesson we need to learn fast.

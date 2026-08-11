@@ -4,7 +4,6 @@ title: "Amazon: Captain Morgan Spiced Gold — £9.45"
 date: 2026-07-27T08:01:35.331Z
 labels: ["Deals", "Food & Drink", "Shopping"]
 source: "https://www.hotukdeals.com/deals/captain-morgan-original-spiced-gold-35-vol-70cl-4944364"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2Fax5FT%2F4944364_1%2Fre%2F1024x1024%2Fqt%2F60%2F4944364_1.jpg&w=1200&output=jpg"
 ---
 
 Captain Morgan Original Spiced Gold is down to £9.45 on Amazon — a cracking price for this classic spiced rum.

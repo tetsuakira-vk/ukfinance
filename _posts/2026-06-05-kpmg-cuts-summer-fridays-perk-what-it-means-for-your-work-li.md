@@ -4,7 +4,6 @@ title: "KPMG cuts summer Fridays perk: what it means for your work-life balance"
 date: 2026-06-05T08:00:23.645Z
 labels: ["News", "Cost of Living", "Jobs", "Consumer Rights"]
 source: "https://www.cityam.com/kpmg-scraps-summer-early-friday-finish-for-staff/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2024%2F08%2FKPMG-Offices-In-Berlin-1297929084-1-1.webp%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 If you work in accountancy or professional services, pay attention: KPMG has just scrapped one of the few perks that made summer bearable for its staff.

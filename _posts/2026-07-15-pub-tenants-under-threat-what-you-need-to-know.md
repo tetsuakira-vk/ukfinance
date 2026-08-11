@@ -4,7 +4,6 @@ title: "Pub Tenants Under Threat: What You Need to Know"
 date: 2026-07-15T08:00:26.814Z
 labels: ["News", "Consumer Rights", "Employment Law", "Housing"]
 source: "https://www.cityam.com/uks-biggest-pub-firm-probed-over-treatment-of-tenants/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2026%2F07%2FStonegate.jpg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 If you're a pub tenant or thinking about becoming one, there's important news you should know about. The UK's biggest pub company, Stonegate, is being investigated by the industry watchdog over concerns it has mistreated its tenants — and the investigation reveals a real problem in how some pubs operate.

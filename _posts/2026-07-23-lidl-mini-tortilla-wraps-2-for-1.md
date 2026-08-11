@@ -4,7 +4,6 @@ title: "Lidl: Mini Tortilla Wraps — 2 for £1"
 date: 2026-07-23T08:01:57.056Z
 labels: ["Deals", "Groceries", "Food & Drink"]
 source: "https://www.hotukdeals.com/deals/mini-tortilla-wraps-2-for-ps1-4939729"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2F439qL%2F4939729_1%2Fre%2F1024x1024%2Fqt%2F60%2F4939729_1.jpg&w=1200&output=jpg"
 ---
 
 Lidl's knocked mini tortilla wraps down to an absolute steal: **2 packs for just £1 with Lidl Plus**. That's proper value for something you'd normally pay 50p+ per pack for elsewhere.

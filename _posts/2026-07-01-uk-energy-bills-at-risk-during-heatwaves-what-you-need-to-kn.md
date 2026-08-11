@@ -4,7 +4,6 @@ title: "UK Energy Bills at Risk During Heatwaves – What You Need to Know"
 date: 2026-07-01T08:00:46.135Z
 labels: ["Energy", "News", "Cost of Living", "Consumer Rights"]
 source: "https://www.bbc.co.uk/news/articles/cj0gez6d50ro?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F7c04%2Flive%2Faff4d6e0-7135-11f1-8e1d-bbbb1017d210.jpg&w=1200&output=jpg"
 ---
 
 As Britain faces more frequent and intense heatwaves, a hidden threat to your energy supply and bills is emerging: extreme heat is making crucial technology fail.

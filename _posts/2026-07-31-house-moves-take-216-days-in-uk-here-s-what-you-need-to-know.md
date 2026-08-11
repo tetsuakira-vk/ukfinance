@@ -4,7 +4,6 @@ title: "House moves take 216 days in UK: Here's what you need to know"
 date: 2026-07-31T08:01:37.418Z
 labels: ["Mortgages", "Housing", "Cost of Living", "Consumer Rights", "News"]
 source: "https://www.dailymail.com/money/mortgageshome/article-16016315/It-takes-216-days-house-Britain-sellers-face-longest-wait.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F30%2F14%2F110345615-0-image-m-35_1785418931840.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about moving house in Britain, you'd better be patient. According to new data from Rightmove, the average home move now takes a staggering 216 days – more than seven months from start to finish. This is the longest time on record, and it's important to understand why and what it means for your plans.

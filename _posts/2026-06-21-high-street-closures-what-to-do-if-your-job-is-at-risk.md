@@ -4,7 +4,6 @@ title: "High Street Closures: What to Do If Your Job Is At Risk"
 date: 2026-06-21T08:00:17.922Z
 labels: ["News", "Redundancy", "Jobs", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/shopping-deals/bank-branches-fashion-brand-close-37319505"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37319504.ece%2FALTERNATES%2Fs1200d%2F0_Numerous-stores-will-be-closing-their-doors.jpg&w=1200&output=jpg"
 ---
 
 Hundreds of jobs are hanging in the balance as major high street names announce closures across the UK. If you work in retail or banking, or simply rely on your local branches and shops, it's worth understanding what's happening—and what support is available if the worst happens.

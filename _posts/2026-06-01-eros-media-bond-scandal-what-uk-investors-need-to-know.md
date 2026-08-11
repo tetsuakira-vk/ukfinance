@@ -4,7 +4,6 @@ title: "Eros Media Bond Scandal: What UK Investors Need to Know"
 date: 2026-06-01T08:00:39.584Z
 labels: ["News", "Consumer Rights", "Scams", "Savings", "Debt"]
 source: "https://www.dailymail.com/money/markets/article-15860693/FCA-sparks-new-twist-Bollywood-bond-drama.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F30%2F14%2F108977607-0-image-m-80_1780148215947.jpg&w=1200&output=jpg"
 ---
 
 If you invested in Eros Media bonds, you're not alone in feeling angry and let down. The Bollywood film production company has been forced into a climbdown by the Financial Conduct Authority (FCA) — but for many British investors, the damage is already done.

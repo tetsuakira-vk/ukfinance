@@ -4,7 +4,6 @@ title: "Who pays for a garden fence? Your neighbour dispute guide"
 date: 2026-08-01T08:01:03.373Z
 labels: ["Housing", "Consumer Rights", "Mortgages"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15965777/I-want-high-fence-house-neighbours-pay.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F09%2F15%2F109912509-0-image-m-87_1783609142329.jpg&w=1200&output=jpg"
 ---
 
 Boundary disputes with neighbours can quickly turn into expensive headaches — and the question of who pays for a new fence is one of the most common flashpoints. If you're thinking about installing a fence but aren't sure who should foot the bill, here's what you need to know.

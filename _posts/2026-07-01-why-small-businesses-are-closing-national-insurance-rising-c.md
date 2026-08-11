@@ -4,7 +4,6 @@ title: "Why Small Businesses Are Closing: National Insurance & Rising Costs"
 date: 2026-07-01T08:01:01.248Z
 labels: ["News", "Cost of Living", "Employment Law", "Business Rates"]
 source: "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F84e3%2Flive%2F987b6fc0-7517-11f1-adcf-e1eef1a1ef9c.jpg&w=1200&output=jpg"
 ---
 
 The closure of Coughlans Bakery – an 89-year-old business across Kent, Surrey, West Sussex and south London – offers a sobering lesson in how government policy and rising costs are squeezing UK small businesses.

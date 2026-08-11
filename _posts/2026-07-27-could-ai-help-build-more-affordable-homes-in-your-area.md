@@ -4,7 +4,6 @@ title: "Could AI Help Build More Affordable Homes in Your Area?"
 date: 2026-07-27T08:00:34.903Z
 labels: ["News", "Housing", "Cost of Living", "Mortgages"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15994009/Councils-using-AI-snooping-sites-build-homes-area-doing-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F22%2F17%2F110190331-0-image-a-9_1784739550580.jpg&w=1200&output=jpg"
 ---
 
 Councils across the UK are turning to artificial intelligence and advanced technology to find land where new homes could be built — and it could affect housing availability and prices where you live.

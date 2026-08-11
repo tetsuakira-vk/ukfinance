@@ -4,7 +4,6 @@ title: "How a confusing travel rule cost this couple £973 – and how to avoid 
 date: 2026-08-07T08:00:37.851Z
 labels: ["News", "Consumer Rights", "Cost of Living", "Scams"]
 source: "https://www.mirror.co.uk/travel/couple-left-973-out-pocket-37520553"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37520547.ece%2FALTERNATES%2Fs1200d%2F0_IMG_2416.jpg&w=1200&output=jpg"
 ---
 
 A UK couple has lost nearly £1,000 on their dream holiday to Turkey after being stopped at the airport gates – and the reason might surprise you.

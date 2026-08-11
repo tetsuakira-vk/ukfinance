@@ -4,7 +4,6 @@ title: "PlayStation Store: PS4 & PS5 Games — Up to 90% Off"
 date: 2026-06-17T08:01:23.242Z
 labels: ["Deals", "Entertainment", "Tech"]
 source: "https://www.hotukdeals.com/deals/all-ps4-ps5-discounts-17626-4914187"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FzNfcw%2F4914187_1%2Fre%2F1024x1024%2Fqt%2F60%2F4914187_1.jpg&w=1200&output=jpg"
 ---
 
 The PlayStation Store has dropped massive discounts on hundreds of PS4 and PS5 games today, with savings up to 90% off. We're talking blockbuster titles, indie gems, and everything in between — all slashed for their Mid-Year and Hot Deals sales.

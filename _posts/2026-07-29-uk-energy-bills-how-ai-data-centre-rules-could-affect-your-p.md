@@ -4,7 +4,6 @@ title: "UK Energy Bills: How AI Data Centre Rules Could Affect Your Power Costs"
 date: 2026-07-29T08:01:26.038Z
 labels: ["Energy", "News", "Cost of Living", "Consumer Rights"]
 source: "https://www.cityam.com/ofgem-targets-speculative-ai-data-centres-to-free-up-britains-energy-grid/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2025%2F03%2F016-stock-data-centre.jpg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 Ofgem has launched a crackdown on speculative artificial intelligence data centre projects that are clogging up Britain's electricity grid — and it could have real implications for your energy bills and the stability of the power supply you rely on.

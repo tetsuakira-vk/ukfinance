@@ -4,7 +4,6 @@ title: "Save £10 on garden chairs this May: Aldi vs Dunelm"
 date: 2026-05-19T13:31:25.913Z
 labels: ["Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/shopping-deals/aldis-25-ultimate-comfort-garden-37176859"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37176867.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2171619064.jpg&w=1200&output=jpg"
 ---
 
 If you're planning to splash out on garden furniture this spring, here's a money-saving tip: Aldi's latest Specialbuy deals could help you kit out your garden for less than half the price of high street rivals.

@@ -4,7 +4,6 @@ title: "Could a Scottish food price cap help UK households with bills?"
 date: 2026-05-19T08:01:38.463Z
 labels: ["News", "Cost of Living", "Inflation", "Consumer Rights"]
 source: "https://www.cityam.com/the-absolute-insanity-of-the-snps-food-price-cap-policy/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2026%2F05%2F01KR6E49BE3A0RHMJ5VVMNCC3T.jpg%3Fw%3D1071&w=1200&output=jpg"
 ---
 
 The Scottish National Party (SNP) has proposed capping the price of groceries as a way to ease the cost-of-living crisis. It's an eye-catching idea – but does it actually work, and could it spread to the rest of the UK?

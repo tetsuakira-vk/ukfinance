@@ -4,7 +4,6 @@ title: "Give Money to Your Children Tax-Free: The Smart Inheritance Plan"
 date: 2026-07-31T08:01:21.469Z
 labels: ["Tax", "Savings", "Pensions"]
 source: "https://www.dailymail.com/money/diyinvesting/article-16017323/Want-pass-money-child-avoid-inheritance-tax-worried-blow-ANDREW-OXLADE-clever-tax-efficient-solution.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F30%2F16%2F110348497-0-image-m-13_1785426234202.jpg&w=1200&output=jpg"
 ---
 
 If you're worried about passing money to your children but concerned they might spend it unwisely, there's a clever way to help them build long-term security while also reducing what they'll owe in inheritance tax.

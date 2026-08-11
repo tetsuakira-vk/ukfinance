@@ -4,7 +4,6 @@ title: "Why Younger Brits Are Discovering Investment Trusts"
 date: 2026-05-25T08:01:26.452Z
 labels: ["Savings", "Investments", "ISA", "Pensions"]
 source: "https://www.dailymail.com/money/diyinvesting/article-15817909/Investment-trusts-new-younger-generation-fans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F22%2F17%2F108808355-0-image-m-9_1779467240376.jpg&w=1200&output=jpg"
 ---
 
 Investment trusts have been around for over 150 years — the first one launched way back in 1868 — yet most people today couldn't explain what they actually are. The good news? A new generation of younger British investors is waking up to them, and they might deserve a place in your investment strategy too.

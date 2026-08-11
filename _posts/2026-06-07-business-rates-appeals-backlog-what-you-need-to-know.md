@@ -4,7 +4,6 @@ title: "Business Rates Appeals Backlog: What You Need to Know"
 date: 2026-06-07T08:00:18.244Z
 labels: ["Tax", "News", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/markets/article-15879209/Taxman-swamped-tsunami-appeals-desperate-firms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F06%2F11%2F109171167-0-image-m-75_1780743332213.jpg&w=1200&output=jpg"
 ---
 
 If you run a small business or hospitality venue, there's an important issue affecting thousands of firms across the UK right now: the business rates appeals system is buckling under the strain, and it could cost your business thousands in the meantime.

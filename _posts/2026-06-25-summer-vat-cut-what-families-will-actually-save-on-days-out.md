@@ -4,7 +4,6 @@ title: "Summer VAT cut: What families will actually save on days out"
 date: 2026-06-25T08:01:42.614Z
 labels: ["News", "Cost of Living", "Consumer Rights", "Budgeting"]
 source: "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2Ff2b3%2Flive%2Fc31c93b0-705f-11f1-8e1d-bbbb1017d210.jpg&w=1200&output=jpg"
 ---
 
 From Thursday 25 June, families heading to theme parks, zoos, cinemas and restaurants will benefit from a temporary VAT cut — but the savings may be smaller than you'd hope.

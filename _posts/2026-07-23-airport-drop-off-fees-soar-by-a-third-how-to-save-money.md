@@ -4,7 +4,6 @@ title: "Airport drop-off fees soar by a third – how to save money"
 date: 2026-07-23T08:01:42.101Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F7cb0%2Flive%2F357c7500-865f-11f1-b976-0b9c15b0ccfc.jpg&w=1200&output=jpg"
 ---
 
 If you've been dropped off at a UK airport recently, you may have noticed a new charge appearing on your bill. Airport drop-off fees have jumped by a third on average over the past year, according to new analysis by the RAC – and they're only getting pricier.

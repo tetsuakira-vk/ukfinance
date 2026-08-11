@@ -4,7 +4,6 @@ title: "Unemployed? Here's how much you can save into a pension"
 date: 2026-07-13T08:01:28.595Z
 labels: ["Pensions", "Benefits", "Savings", "Tax", "DWP"]
 source: "https://www.dailymail.com/money/pensions/article-15966127/Unemployed-pensions-STEVE-WEBB.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F13%2F08%2F109978799-0-image-a-4_1783926148078.jpg&w=1200&output=jpg"
 ---
 
 If you've left work or are unemployed, you might think your pension contributions have to stop. The good news is they don't — but there are strict limits on how much you can pay in, and understanding these rules could help you make the most of what you're allowed to save.

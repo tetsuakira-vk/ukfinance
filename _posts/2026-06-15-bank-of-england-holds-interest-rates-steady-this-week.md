@@ -4,7 +4,6 @@ title: "Bank of England holds interest rates steady this week"
 date: 2026-06-15T08:01:16.408Z
 labels: ["News", "Interest Rates", "Cost of Living", "Inflation", "Mortgages"]
 source: "https://www.dailymail.com/money/markets/article-15897141/More-tax-pain-way-Britons-autumn-warns-HAMISH-MCRAE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F13%2F11%2F109324787-0-image-m-156_1781348037334.jpg&w=1200&output=jpg"
 ---
 
 The Bank of England is widely expected to keep interest rates on hold at this week's rate-setting meeting, which is good news if you've been dreading another increase to your mortgage payments or savings account disappointment.

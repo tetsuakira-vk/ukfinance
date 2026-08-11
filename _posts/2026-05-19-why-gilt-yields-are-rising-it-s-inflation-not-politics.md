@@ -4,7 +4,6 @@ title: "Why Gilt Yields Are Rising: It's Inflation, Not Politics"
 date: 2026-05-19T08:02:00.653Z
 labels: ["News", "Inflation", "Interest Rates", "Cost of Living", "Mortgages"]
 source: "https://www.cityam.com/inflation-not-andy-burnham-is-the-culprit-behind-high-gilt-yields/"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.cityam.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fburnhamhappy.jpeg%3Fw%3D1107&w=1200&output=jpg"
 ---
 
 If you've heard talk of "gilt yields" in the news lately and wondered what on earth that has to do with your mortgage, savings account, or cost of living — you're not alone. The good news: it matters more than you might think, and the real driver behind rising yields isn't Westminster drama — it's inflation.

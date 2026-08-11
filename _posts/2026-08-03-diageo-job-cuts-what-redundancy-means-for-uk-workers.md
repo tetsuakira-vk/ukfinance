@@ -4,7 +4,6 @@ title: "Diageo job cuts: what redundancy means for UK workers"
 date: 2026-08-03T08:02:18.480Z
 labels: ["Redundancy", "News", "Jobs", "Cost of Living"]
 source: "https://www.dailymail.com/money/markets/article-16024187/Diageos-Drastic-Dave-set-lay-law-job-cuts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F03%2F07%2F110404787-0-image-a-8_1785739155695.jpg&w=1200&output=jpg"
 ---
 
 Diageo, the drinks giant behind Guinness, Johnnie Walker and Smirnoff, is preparing to announce significant job cuts this week. New chief executive Dave Lewis — nicknamed "Drastic Dave" for his tough management style — will reveal the company's turnaround strategy on Thursday 6 August, and staff layoffs are expected to be part of the plan.

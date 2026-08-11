@@ -4,7 +4,6 @@ title: "15m Britons not saving enough for retirement – what you need to know"
 date: 2026-05-19T07:32:28.465Z
 labels: ["News", "Pensions", "Savings", "Cost of Living", "Budgeting"]
 source: "https://www.theguardian.com/money/2026/may/19/britons-not-saving-enough-retire-pensions-commission"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F2b07e73bc3b99a6df01428b9d1069454a94bdbbf%2F520_0_5200_4160%2Fmaster%2F5200.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3Db91973a44480d99ffa66fb5e87d6a1e0&w=1200&output=jpg"
 ---
 
 A stark warning has just landed: up to 15 million people across the UK are not saving enough for retirement, and without urgent action, this number could climb to 19 million. That's the message from a government-backed Pensions Commission report released in May 2026 — and it affects a huge chunk of the population.

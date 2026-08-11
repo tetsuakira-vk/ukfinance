@@ -4,7 +4,6 @@ title: "Lidl: Electric BBQ & Smoker — £30 Off with App"
 date: 2026-06-11T08:01:43.589Z
 labels: ["Deals", "Shopping", "Home"]
 source: "https://www.hotukdeals.com/deals/premium-electric-barbecue-smoker-lidl-plus-price-4904341"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2F5Qy56%2F4904341_1%2Fre%2F1024x1024%2Fqt%2F60%2F4904341_1.jpg&w=1200&output=jpg"
 ---
 
 Lidl's knocking £30 off their Silvercrest Premium Electric Barbecue & Smoker, bringing it down to just £99 with the Lidl Plus app — that's a seriously solid price for a 7-in-1 outdoor cooking machine.

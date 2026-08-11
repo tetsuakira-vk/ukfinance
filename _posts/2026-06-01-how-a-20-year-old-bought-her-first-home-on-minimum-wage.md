@@ -4,7 +4,6 @@ title: "How a 20-Year-Old Bought Her First Home on Minimum Wage"
 date: 2026-06-01T08:00:24.251Z
 labels: ["Mortgages", "Budgeting", "Housing", "Savings", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/i-bought-first-house-aged-37230190"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37230208.ece%2FALTERNATES%2Fs1200d%2F0_KNM_BOUGHT_FLAT_AT_20_3.jpg&w=1200&output=jpg"
 ---
 
 Buying your first home in your twenties feels like a distant dream for most young people. But one 20-year-old has just proved it's possible — even on minimum wage.

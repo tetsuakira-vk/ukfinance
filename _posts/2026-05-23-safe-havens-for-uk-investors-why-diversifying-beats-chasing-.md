@@ -4,7 +4,6 @@ title: "Safe havens for UK investors? Why diversifying beats chasing trends now"
 date: 2026-05-23T08:01:17.479Z
 labels: ["Savings", "Pensions", "ISA", "Cost of Living", "Inflation"]
 source: "https://www.dailymail.com/money/investing/article-15808675/Safe-havens-investments-troubled-times.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F21%2F17%2F108741991-0-image-m-14_1779381481560.jpg&w=1200&output=jpg"
 ---
 
 If you're worried about your savings and investments with everything from Middle East tensions to trade wars making headlines, you're not alone. But here's the honest truth: there's no magic "safe" investment right now that will protect you from everything.

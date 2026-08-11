@@ -4,7 +4,6 @@ title: "Premium Bonds July 2026 winners announced – £1m prize draw"
 date: 2026-07-01T08:00:30.645Z
 labels: ["Savings", "News", "ISA"]
 source: "https://www.mirror.co.uk/money/premium-bonds-winners-july-2026-37370245"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle35135967.ece%2FALTERNATES%2Fs1200d%2F2_rans_NvBQzQNjv4BqtR1WRZ4lb6BOb1-FBRpn-lFGGjcI28awSNtOPAVs6pc.jpg&w=1200&output=jpg"
 ---
 
 The July 2026 Premium Bonds prize draw has been announced, with one lucky winner taking home £1 million. If you hold Premium Bonds, it's worth checking whether you've had a windfall.

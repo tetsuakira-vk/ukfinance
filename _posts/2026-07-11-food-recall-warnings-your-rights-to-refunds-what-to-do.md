@@ -4,7 +4,6 @@ title: "Food Recall Warnings: Your Rights to Refunds & What to Do"
 date: 2026-07-11T08:00:46.994Z
 labels: ["Consumer Rights", "News"]
 source: "https://www.mirror.co.uk/lifestyle/latest-food-product-recall-notices-37413562"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37413735.ece%2FALTERNATES%2Fs1200d%2F0_Do-not-eat-warning-issued-to-Tesco-Asda-and-Morrisons-shoppers-after-meat-recall.jpg&w=1200&output=jpg"
 ---
 
 Major UK supermarkets including M&S, Tesco and Lidl have issued urgent recalls on several food products this week due to serious health risks. If you've bought any of these items, you're entitled to a full refund — here's what you need to know.

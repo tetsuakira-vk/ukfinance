@@ -4,7 +4,6 @@ title: "Why Young Workers Face Hiring Squeeze in UK Hospitality"
 date: 2026-06-09T08:01:57.834Z
 labels: ["Jobs", "News", "Cost of Living", "NMW", "Inflation"]
 source: "https://www.dailymail.com/money/markets/article-15884857/Tom-Kerridge-warns-young-workers-just-dont-exist-business-anymore-soaring-wages-taxes-hit-hiring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F09%2F07%2F109218959-0-image-a-18_1780987374824.jpg&w=1200&output=jpg"
 ---
 
 Celebrity chef Tom Kerridge has sounded an alarm about a growing jobs crisis for young people entering the hospitality sector—and his warning highlights a real problem affecting thousands of British workers trying to get on the career ladder.

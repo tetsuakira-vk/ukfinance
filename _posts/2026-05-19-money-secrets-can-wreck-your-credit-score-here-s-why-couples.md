@@ -4,7 +4,6 @@ title: "Money secrets can wreck your credit score — here's why couples must ta
 date: 2026-05-19T13:31:56.314Z
 labels: ["Debt", "Cost of Living", "Budgeting", "News"]
 source: "https://www.mirror.co.uk/money/martin-lewis-household-finances-warning-37176784"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37176846.ece%2FALTERNATES%2Fs1200d%2F0_ML-4.jpg&w=1200&output=jpg"
 ---
 
 Hiding money problems from your partner isn't just awkward — it could seriously damage both your credit scores. That's the stark warning from Martin Lewis, who's highlighted how financial secrets can have real consequences for joint finances.

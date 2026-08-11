@@ -4,7 +4,6 @@ title: "Coastal property prices soar: where first-time buyers can still afford"
 date: 2026-05-29T08:01:02.664Z
 labels: ["Mortgages", "Housing", "News", "Cost of Living", "Investment"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15854855/Merseyside-town-crowned-coastal-property-hotspot-house-prices-soar-11-just-one-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F28%2F16%2F108926743-0-image-a-1_1779981372769.jpg&w=1200&output=jpg"
 ---
 
 If you've been priced out of the property market, there's some encouraging news from the coast. While house prices are falling across most of the UK, a handful of seaside towns are bucking the trend — and some are still remarkably affordable.

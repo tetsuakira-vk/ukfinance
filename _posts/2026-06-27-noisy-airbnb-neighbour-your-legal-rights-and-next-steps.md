@@ -4,7 +4,6 @@ title: "Noisy Airbnb neighbour? Your legal rights and next steps"
 date: 2026-06-27T08:01:08.107Z
 labels: ["Housing", "Consumer Rights", "News"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15929819/My-neighbour-runs-Airbnb-outdoor-hot-tub-noise-nightmare-do.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F25%2F16%2F109598653-0-image-m-108_1782400865427.jpg&w=1200&output=jpg"
 ---
 
 If your neighbour has turned their home into a holiday let and it's become a noise nightmare, you're not alone — and there are real steps you can take to get relief.

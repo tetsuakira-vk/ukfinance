@@ -4,7 +4,6 @@ title: "Ghost broker car insurance scam: how young drivers can avoid £5k fines"
 date: 2026-05-25T08:00:17.650Z
 labels: ["News", "Consumer Rights", "Scams", "Cost of Living"]
 source: "https://www.mirror.co.uk/lifestyle/motoring/young-drivers-could-face-5000-37180547"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37180545.ece%2FALTERNATES%2Fs1200d%2F0_Unlucky-and-fatigue-driver-stuck-in-a-traffic-jam-looking-upset-out-of-his-car-window.jpg&w=1200&output=jpg"
 ---
 
 If you're a young driver looking for a bargain on car insurance, a new warning from the Financial Conduct Authority (FCA) could save you from a devastating fine — and a criminal record.

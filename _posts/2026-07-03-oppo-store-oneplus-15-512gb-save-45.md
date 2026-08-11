@@ -4,7 +4,6 @@ title: "OPPO Store: OnePlus 15 512GB — Save £45+"
 date: 2026-07-03T08:01:59.656Z
 labels: ["Deals", "Tech", "Shopping"]
 source: "https://www.hotukdeals.com/deals/oneplus-15-tri-chip-ai-smartphone-with-snapdragon-8-elite-gen5-165hz-7300mah-battery-512gb-ps68754-with-code-uk-delivery-oppo-store-4927524"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2Fzl76V%2F4927524_1%2Fre%2F1024x1024%2Fqt%2F60%2F4927524_1.jpg&w=1200&output=jpg"
 ---
 
 The OnePlus 15 with 512GB storage is down to £687.54 at the OPPO Store with a code — a solid saving on one of 2025's fastest flagship phones.

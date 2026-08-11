@@ -4,7 +4,6 @@ title: "Can you really save £2,783 a month by moving abroad?"
 date: 2026-07-03T08:00:43.650Z
 labels: ["Budgeting", "Cost of Living", "Housing", "News"]
 source: "https://www.mirror.co.uk/lifestyle/we-ditched-uk-sunshine-pay-37381489"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37381486.ece%2FALTERNATES%2Fs1200d%2F0_british-family-1568403.jpg&w=1200&output=jpg"
 ---
 
 A British family's decision to sell their UK home and relocate to Bali has reignited the conversation about whether moving abroad can offer genuine financial relief from the UK's high cost of living.

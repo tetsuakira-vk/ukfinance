@@ -4,7 +4,6 @@ title: "VAT Cut on Electricity Bills: £45 Saving From October"
 date: 2026-07-21T08:00:36.839Z
 labels: ["Energy", "News", "Cost of Living", "Tax", "Budgeting"]
 source: "https://www.theguardian.com/politics/2026/jul/21/burnham-announces-plans-to-cut-vat-on-electricity-bills-as-first-cost-of-living-move"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F9a7f0f4c0d0598bd1717a17bdffcf3707f323fb6%2F250_0_2500_2000%2Fmaster%2F2500.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3D3f9e76a8deca4c9f8a39f237444ed8e4&w=1200&output=jpg"
 ---
 
 Your electricity bills are about to get cheaper. From October 2026, the government will remove VAT on electricity, saving the average household around £45 a year. It's a welcome bit of breathing room for millions struggling with energy costs.

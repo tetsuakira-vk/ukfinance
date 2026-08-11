@@ -4,7 +4,6 @@ title: "New PM's First Week: What the Cost of Living Help Means for You"
 date: 2026-07-25T08:01:46.125Z
 labels: ["News", "Cost of Living", "Energy", "Budgeting"]
 source: "https://www.bbc.co.uk/news/articles/czekpx8yzj0o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2Ff8ba%2Flive%2Fdb696e10-8771-11f1-b063-4faedc5b4188.png&w=1200&output=jpg"
 ---
 
 Andy Burnham has taken office as Prime Minister and is already rolling out measures aimed at helping British households with the cost of living crisis. Here's what's been announced in his first week — and what it could mean for your wallet.

@@ -4,7 +4,6 @@ title: "State Pension Age Rising to 67 in 2026 – Check Your Dates Now"
 date: 2026-06-11T08:00:23.672Z
 labels: ["News", "Benefits", "Pensions", "DWP", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/state-pension-age-rising-2026-37278476"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37278475.ece%2FALTERNATES%2Fs1200d%2F0_Mature-man-reads-letter-paper-Family-budget-of-a-mature-couple-bankruptcy-Sanctions-increased-rent.jpg&w=1200&output=jpg"
 ---
 
 If you were born between 1960 and 1977, your State Pension age is about to change – and it's worth understanding exactly when. The Department for Work and Pensions (DWP) has confirmed that phased increases from age 66 to 67 will begin in April 2026, meaning thousands of British workers will need to adjust their retirement plans.

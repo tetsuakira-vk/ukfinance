@@ -4,7 +4,6 @@ title: "PlayStation Store: Summer Sale — Up to 90% Off"
 date: 2026-07-15T08:01:58.762Z
 labels: ["Deals", "Entertainment", "Tech"]
 source: "https://www.hotukdeals.com/deals/summer-sale-all-ps4-ps5-discounts-15726-4936081"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FVSYci%2F4936081_1%2Fre%2F1024x1024%2Fqt%2F60%2F4936081_1.jpg&w=1200&output=jpg"
 ---
 
 PlayStation Store's massive summer sale is live with over 4,000 games discounted across PS4 and PS5 — we're talking up to 90% off some absolute gems.

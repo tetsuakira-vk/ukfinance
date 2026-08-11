@@ -4,7 +4,6 @@ title: "Child Benefit Tax: Why HMRC Calculator Differs From Your Sums"
 date: 2026-07-11T08:00:30.895Z
 labels: ["Tax", "Benefits", "HMRC", "DWP", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/hmrc-explains-guidance-over-how-37415776"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37415898.ece%2FALTERNATES%2Fs1200d%2F0_DWP-2.jpg&w=1200&output=jpg"
 ---
 
 If you're claiming Child Benefit and earning over £60,000 a year, you'll need to repay some of it to HMRC. But many parents are confused about how much they actually owe — and the official calculator isn't always matching their own workings. Here's what you need to know.

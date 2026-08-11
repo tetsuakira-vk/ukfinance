@@ -4,7 +4,6 @@ title: "1.1m Pensioners Missing £458/Month Attendance Allowance – Check Now"
 date: 2026-05-19T07:36:39.424Z
 labels: ["Benefits", "DWP", "Pensions", "Cost of Living", "News"]
 source: "https://www.mirror.co.uk/money/personal-finance/over-1m-pensioners-could-missing-37173287"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37173200.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2213315330.jpg&w=1200&output=jpg"
 ---
 
 If you're over State Pension age and managing a long-term health condition or disability, you could be missing out on up to £458.40 every month. New figures suggest over 1.1 million pensioners aren't claiming Attendance Allowance — a benefit worth up to £5.2 billion annually that goes unclaimed.

@@ -4,7 +4,6 @@ title: "Opera Star's Pension Strategy: Why She Won't Touch Three Pots Yet"
 date: 2026-08-09T08:01:11.899Z
 labels: ["Pensions", "Savings", "News"]
 source: "https://www.dailymail.com/money/meandmymoney/article-16020505/Opera-legend-Lesley-Garrett-three-pensions-wont-touch-hang-tonsils.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F07%2F14%2F110498725-0-image-m-24_1786109895971.jpg&w=1200&output=jpg"
 ---
 
 Opera legend Lesley Garrett has built an enviable financial life — but her approach to pensions offers a surprising lesson for everyday savers: sometimes the best money decision is to leave your nest egg alone.

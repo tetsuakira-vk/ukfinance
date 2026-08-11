@@ -4,7 +4,6 @@ title: "Interactive Investor Sipp Cashback: Up to £3,000 This August"
 date: 2026-08-07T08:00:53.906Z
 labels: ["Savings", "Pensions", "News", "Investments"]
 source: "https://www.dailymail.com/money/diyinvesting/article-16028239/interactive-investor-paying-cashback-you-open-sipp-august.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F06%2F09%2F103371929-0-image-m-13_1786006711842.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about opening a self-invested personal pension (Sipp) or moving an existing pension to a new provider, Interactive Investor is offering a tempting sweetener this month: up to £3,000 in cashback.

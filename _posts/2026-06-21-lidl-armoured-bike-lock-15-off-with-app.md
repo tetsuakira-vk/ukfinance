@@ -4,7 +4,6 @@ title: "Lidl: Armoured Bike Lock — 15% Off with App"
 date: 2026-06-21T08:00:44.677Z
 labels: ["Deals", "Shopping", "Home"]
 source: "https://www.hotukdeals.com/deals/crivit-armoured-bike-lock-4909593"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FqtU0i%2F4909593_1%2Fre%2F1024x1024%2Fqt%2F60%2F4909593_1.jpg&w=1200&output=jpg"
 ---
 
 Grab a CRIVIT Armoured Bike Lock for just £4.24 at Lidl with 15% off using the Lidl Plus app — that's proper value for a quality lock.

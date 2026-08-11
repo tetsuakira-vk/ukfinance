@@ -4,7 +4,6 @@ title: "Train vs Electric Car: Can You Save £9,000 a Year on UK Commutes?"
 date: 2026-07-29T08:01:42.370Z
 labels: ["News", "Cost of Living", "Consumer Rights", "Budgeting"]
 source: "https://www.dailymail.com/money/electriccars/article-16008249/Andy-Burnham-commute-No10-North-Westminster-rail-EV.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F28%2F10%2F110292209-0-image-m-10_1785229690426.jpg&w=1200&output=jpg"
 ---
 
 A new analysis has highlighted just how expensive train travel has become in the UK – and it raises an important question for anyone commuting regularly between major cities: could switching to an electric car actually save you thousands of pounds a year?

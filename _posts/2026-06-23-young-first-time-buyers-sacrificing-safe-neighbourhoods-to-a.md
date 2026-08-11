@@ -4,7 +4,6 @@ title: "Young first-time buyers sacrificing safe neighbourhoods to afford homes"
 date: 2026-06-23T08:02:25.688Z
 labels: ["Mortgages", "Housing", "Cost of Living", "News"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15913999/Young-buyers-willing-sacrifice-safe-neighbourhood-buy-cheap-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F19%2F14%2F109468199-0-image-m-39_1781876164438.jpg&w=1200&output=jpg"
 ---
 
 The race to get on the property ladder is forcing young people to make tough compromises — and new research suggests many are willing to move to less safe areas if it means they can finally afford to buy.

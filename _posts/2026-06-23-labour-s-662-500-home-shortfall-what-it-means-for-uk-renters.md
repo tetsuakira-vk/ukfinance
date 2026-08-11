@@ -4,7 +4,6 @@ title: "Labour's 662,500 home shortfall: what it means for UK renters and buyers
 date: 2026-06-23T08:01:46.682Z
 labels: ["News", "Housing", "Cost of Living", "Mortgages"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15919617/Labour-fall-662-500-homes-short-manifesto-pledge-Britain-building-according-forecast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F22%2F13%2F109516595-0-image-m-29_1782132981430.jpg&w=1200&output=jpg"
 ---
 
 Labour came to power in 2024 with an ambitious promise: build 1.5 million new homes and "Get Britain building again." But according to recent forecasts, the party is on track to fall nearly 662,500 homes short of that pledge. Here's what this means for your housing prospects and finances.

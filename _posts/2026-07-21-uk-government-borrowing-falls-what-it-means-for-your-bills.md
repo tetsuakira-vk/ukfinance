@@ -4,7 +4,6 @@ title: "UK Government Borrowing Falls: What It Means for Your Bills"
 date: 2026-07-21T08:00:52.721Z
 labels: ["News", "Cost of Living", "Interest Rates", "Inflation", "Energy"]
 source: "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F26ce%2Flive%2Fb883f0a0-84ce-11f1-bc1a-3f050829cba4.png&w=1200&output=jpg"
 ---
 
 The UK government borrowed less money than expected in June — but experts warn there's still limited room to help households with living costs.

@@ -4,7 +4,6 @@ title: "Holiday Gone Wrong? Know Your Rights to Get Money Back"
 date: 2026-05-21T08:00:54.205Z
 labels: ["Consumer Rights", "News", "Cost of Living"]
 source: "https://www.mirror.co.uk/travel/family-suffer-sickness-electric-shock-37185520"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37185439.ece%2FALTERNATES%2Fs1200d%2F0_Jam_Press_JMP868239.jpg&w=1200&output=jpg"
 ---
 
 When a family holiday turns into a nightmare, it's not just the experience that suffers — your bank balance can take a hit too. A Welsh family's £3,000 trip to Egypt became a cautionary tale about what can go wrong when a holiday company fails to deliver what you've paid for.

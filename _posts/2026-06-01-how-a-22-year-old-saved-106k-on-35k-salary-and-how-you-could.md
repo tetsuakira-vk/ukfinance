@@ -4,7 +4,6 @@ title: "How a 22-year-old saved £106k on £35k salary—and how you could too"
 date: 2026-06-01T08:01:06.720Z
 labels: ["Savings", "Budgeting", "ISA", "Pensions", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/im-22-earn-35000-year-37230173"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37230170.ece%2FALTERNATES%2Fs1200d%2F0_how-i-saved-100-1545621.jpg&w=1200&output=jpg"
 ---
 
 At 22, most people are still paying off student loans or figuring out their first pay packet. Gabriella Goddard from Bath has already saved £106,000. The secret? Hard work, living at home, and a clear saving strategy—not a lucky inheritance.

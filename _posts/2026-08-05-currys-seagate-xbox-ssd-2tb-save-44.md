@@ -4,7 +4,6 @@ title: "Currys: Seagate Xbox SSD 2TB — Save £44+"
 date: 2026-08-05T08:00:32.286Z
 labels: ["Deals", "Tech", "Shopping"]
 source: "https://www.hotukdeals.com/deals/seagate-expansion-ssd-for-xbox-series-xs-2-tb-4950863"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2F1HhDd%2F4950863_1%2Fre%2F1024x1024%2Fqt%2F60%2F4950863_1.jpg&w=1200&output=jpg"
 ---
 
 Currys has slashed the Seagate Expansion SSD for Xbox Series X/S down to £155.97 — that's a solid £44+ saving compared to eBay prices hovering around £200+.

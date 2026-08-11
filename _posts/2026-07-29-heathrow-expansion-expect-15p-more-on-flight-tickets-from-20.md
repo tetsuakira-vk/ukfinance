@@ -4,7 +4,6 @@ title: "Heathrow expansion: expect 15p more on flight tickets from 2028"
 date: 2026-07-29T08:00:31.413Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F75ba%2Flive%2Fc1afe420-8b15-11f1-ad6a-6171441778fb.jpg&w=1200&output=jpg"
 ---
 
 If you're planning a holiday abroad from the UK, it's worth knowing: Heathrow Airport's third runway expansion is about to cost you a little extra at the till.

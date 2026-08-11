@@ -4,7 +4,6 @@ title: "Should UK savers consider defence sector shares?"
 date: 2026-07-25T08:00:18.793Z
 labels: ["Savings", "Pensions", "ISA", "Cost of Living"]
 source: "https://www.dailymail.com/money/investing/article-16004397/As-Andy-Burnham-vows-help-defence-sector-consider-shares-skyrocket.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F25%2F08%2F110245471-0-image-m-33_1784963062806.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about where to put your savings, defence sector shares are getting a lot of attention right now — but it's worth understanding what's driving the interest before you invest.

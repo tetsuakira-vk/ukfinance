@@ -4,7 +4,6 @@ title: "Should You Move £1m From Savings to Stocks? What You Need to Know"
 date: 2026-07-25T08:01:04.529Z
 labels: ["Savings", "News", "Investments", "Interest Rates", "Inflation", "ISA"]
 source: "https://www.dailymail.com/money/saving/article-16002727/More-33-000-Britons-1million-savings-account-Labour-wants-invest-instead.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F24%2F16%2F110232827-0-image-a-2_1784908745403.jpg&w=1200&output=jpg"
 ---
 
 Over 33,000 British savers are currently holding at least £1 million in cash savings accounts — and the government wants them to invest it instead.

@@ -4,7 +4,6 @@ title: "How to land a job in 2024: insider tips to beat AI and stand out"
 date: 2026-06-25T08:00:49.671Z
 labels: ["Jobs", "Cost of Living", "Employment Law"]
 source: "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2Fb813%2Flive%2Fa1869260-6fb9-11f1-8dfa-636ee713b41c.jpg&w=1200&output=jpg"
 ---
 
 Job hunting in the UK right now is tougher than ever. Graduate vacancies have plummeted from around 180,000 just three or four years ago to just 50,000 today — and if you've sent dozens of applications into the void, you're not alone. But there's real, practical advice on how to get noticed.

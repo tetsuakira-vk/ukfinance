@@ -4,7 +4,6 @@ title: "Five shopping habits that could kill your mortgage application"
 date: 2026-05-19T07:33:48.132Z
 labels: ["Mortgages", "Housing", "Budgeting", "Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/expert-says-common-shopping-mistake-37173465"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37173081.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1250060948.jpg&w=1200&output=jpg"
 ---
 
 If you're saving for a house, here's something that might surprise you: your shopping habits could cost you a mortgage. According to mortgage experts, everyday financial decisions you make now could trigger an instant rejection when you apply to borrow.

@@ -4,7 +4,6 @@ title: "New school uniform rule could cut your back-to-school bill"
 date: 2026-08-09T08:01:41.527Z
 labels: ["Budgeting", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/before-you-buy-school-uniform-37525596"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37009981.ece%2FALTERNATES%2Fs1200d%2F1_GettyImages-2224293443.jpg&w=1200&output=jpg"
 ---
 
 If you're dreading the annual back-to-school uniform bill, there's good news. A new rule coming into force for the 2026 academic year could genuinely help you spend less — but only if you know about it.

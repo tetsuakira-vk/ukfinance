@@ -4,7 +4,6 @@ title: "Premium Bonds £1m jackpot: what are your real odds?"
 date: 2026-06-07T08:01:50.606Z
 labels: ["Savings", "News", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/article-15879579/How-you-REALLY-need-Premium-Bonds-win-1m-jackpot-reveal-truth-rumours.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F06%2F16%2F109175273-0-image-a-14_1780760525831.jpg&w=1200&output=jpg"
 ---
 
 Premium Bonds are Britain's most popular savings product, with 23 million people holding them and dreaming of winning the £1 million jackpot each month. But if you're wondering whether your bonds are likely to come up trumps, it's worth understanding exactly how the odds work — and why your chances may be very different from what you've heard.

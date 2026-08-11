@@ -4,7 +4,6 @@ title: "What Wes Streeting's Capital Gains Tax Plan Could Mean for You"
 date: 2026-05-21T08:00:33.792Z
 labels: ["Tax", "News", "Savings", "Investments"]
 source: "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F0484%2Flive%2Fd27c4ad0-5494-11f1-a1d5-55f015dfb1f3.jpg&w=1200&output=jpg"
 ---
 
 If you sell an investment property, shares, or other assets and make a profit, you'll pay capital gains tax on those earnings. A new proposal from Labour leadership contender Wes Streeting could significantly change how much tax you owe — and it's worth understanding what it means for your finances.

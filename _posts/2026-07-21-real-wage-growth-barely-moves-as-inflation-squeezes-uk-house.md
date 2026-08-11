@@ -4,7 +4,6 @@ title: "Real wage growth barely moves as inflation squeezes UK household budgets
 date: 2026-07-21T08:01:43.589Z
 labels: ["News", "Cost of Living", "Inflation", "Jobs", "Energy"]
 source: "https://www.mirror.co.uk/money/inflation-eats-wage-growth-andy-37455398"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37140622.ece%2FALTERNATES%2Fs1200d%2F8_Man-And-Woman-Checking-Payment-Bills-In-The-Kitchen-At-Home-Planning-Family-Budget.jpg&w=1200&output=jpg"
 ---
 
 Your pay packet is growing, but your money isn't going as far. That's the reality facing millions of British workers right now, according to new figures from the Office for National Statistics.

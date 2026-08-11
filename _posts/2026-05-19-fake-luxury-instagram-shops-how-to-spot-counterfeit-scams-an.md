@@ -4,7 +4,6 @@ title: "Fake luxury Instagram shops: how to spot counterfeit scams and protect y
 date: 2026-05-19T13:32:58.429Z
 labels: ["Consumer Rights", "Scams", "Cost of Living"]
 source: "https://www.dailymail.com/money/beatthescammers/article-15830361/The-hidden-signs-luxury-boutique-Instagram-actually-flogging-cheap-Chinese-knock-offs-telltale-names-sneaky-tactics-giveaway-family-backstory.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F19%2F12%2F108716349-0-image-m-13_1779190873989.jpg&w=1200&output=jpg"
 ---
 
 If you've scrolled past a slick Instagram ad for a "luxury boutique" selling designer clothes at suspiciously low prices, you're not alone. Thousands of British shoppers are being targeted by fake retailers flogging cheap Chinese knock-offs as premium fashion — and losing money in the process.

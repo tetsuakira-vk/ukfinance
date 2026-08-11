@@ -4,7 +4,6 @@ title: "Property Boundary Disputes: What Homeowners Need to Know"
 date: 2026-06-15T08:00:42.748Z
 labels: ["Mortgages", "Housing", "Consumer Rights", "News"]
 source: "https://www.mirror.co.uk/news/uk-news/row-man-says-neighbours-built-37295798"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37295812.ece%2FALTERNATES%2Fs1200d%2F2_were-in-a-turf-1554665.jpg&w=1200&output=jpg"
 ---
 
 A Shropshire family's £600,000 dream home has become a legal nightmare after discovering their neighbours built a garden office on land that should belong to them. Their story highlights a crucial issue many UK homeowners face: what happens when a property boundary is installed incorrectly, and how long you have to fix it.

@@ -4,7 +4,6 @@ title: "Annuities surge as inheritance tax hits pensions from April 2027"
 date: 2026-06-29T08:01:19.370Z
 labels: ["Tax", "Pensions", "News", "Savings", "Cost of Living"]
 source: "https://www.dailymail.com/money/pensions/article-15932741/strong-annuity-rates-drive-surge-demand.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F29%2F08%2F109664429-0-image-a-8_1782717732129.jpg&w=1200&output=jpg"
 ---
 
 From April 2027, your unused pension pot will be taxed as part of your estate when you die – and it's already changing how people plan for retirement. New data shows a dramatic shift: the number of over-75s asking for annuity quotes has quadrupled in just two years, jumping from 1.3% to 5.5% of people in that age group.

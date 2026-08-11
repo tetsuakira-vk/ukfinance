@@ -4,7 +4,6 @@ title: "Pass Plus training: how to get car insurance discounts"
 date: 2026-05-25T08:00:32.752Z
 labels: ["Budgeting", "Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/lifestyle/motoring/dvla-guidance-drivers-could-discount-37192840"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37087758.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1443252947.jpg&w=1200&output=jpg"
 ---
 
 If you've recently passed your driving test or want to brush up your skills, there's a potential saving waiting for you. The DVLA recommends Pass Plus training courses, which could knock money off your car insurance premiums – and some local councils will even help you pay for the course itself.

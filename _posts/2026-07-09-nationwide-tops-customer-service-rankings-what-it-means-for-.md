@@ -4,7 +4,6 @@ title: "Nationwide Tops Customer Service Rankings – What It Means for You"
 date: 2026-07-09T08:01:26.738Z
 labels: ["News", "Consumer Rights", "Savings", "Banking"]
 source: "https://www.dailymail.com/money/markets/article-15962233/Nationwide-tops-list-ten-best-companies-customer-service.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F08%2F13%2F109880197-0-image-m-86_1783515116156.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about switching banks or building society, here's some good news: Nationwide Building Society has just topped the UK's official customer satisfaction rankings for the first time ever, scoring 87.3 out of 100.

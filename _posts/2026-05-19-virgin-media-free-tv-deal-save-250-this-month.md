@@ -4,7 +4,6 @@ title: "Virgin Media Free TV Deal: Save £250 This Month"
 date: 2026-05-19T08:00:43.175Z
 labels: ["News", "Consumer Rights", "Cost of Living"]
 source: "https://www.mirror.co.uk/tech/virgin-media-free-smart-tv-37171665"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37172719.ece%2FALTERNATES%2Fs1200d%2F0_Untitled-6jpeg.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about switching broadband providers, Virgin Media has just made the decision a bit more tempting. The company is offering new customers a free Ultra HD 4K smart TV worth around £250, or a £125 bill credit instead — but you'll need to act fast.

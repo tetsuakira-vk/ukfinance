@@ -4,7 +4,6 @@ title: "1.6m Britons blocked from buy now, pay later as new rules kick in today"
 date: 2026-07-15T08:01:24.567Z
 labels: ["Debt", "Consumer Rights", "Cost of Living", "Budgeting"]
 source: "https://www.dailymail.com/money/article-15978017/The-1-6million-shoppers-blocked-using-buy-pay-later-deals-like-Klarna-TODAY.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F14%2F23%2F110019567-0-image-m-36_1784069466215.jpg&w=1200&output=jpg"
 ---
 
 From today, over 1.6 million people in the UK will be locked out of using buy now, pay later (BNPL) services like Klarna. It sounds harsh, but it's actually good news for your finances — here's why.

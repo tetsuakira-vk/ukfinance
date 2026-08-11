@@ -4,7 +4,6 @@ title: "Budget cooling gadgets at Lidl: Beat the heatwave without breaking the b
 date: 2026-06-27T08:01:46.677Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/shopping-deals/lidl-now-selling-15-portable-37353238"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37353361.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1199719234.jpg&w=1200&output=jpg"
 ---
 
 With temperatures soaring and energy bills already a serious concern for many UK households, Lidl's latest range of affordable cooling gadgets could help you stay comfortable without pushing your budget to breaking point.

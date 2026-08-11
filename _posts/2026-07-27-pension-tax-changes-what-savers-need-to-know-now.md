@@ -4,7 +4,6 @@ title: "Pension Tax Changes: What Savers Need to Know Now"
 date: 2026-07-27T08:01:10.921Z
 labels: ["Tax", "News", "Pensions", "Cost of Living", "Government Policy"]
 source: "https://www.dailymail.com/money/markets/article-16007403/Growing-calls-John-Healey-dismiss-tax-raid-pensions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F27%2F08%2F110270249-0-image-m-16_1785136913856.jpg&w=1200&output=jpg"
 ---
 
 The government's plans to change how pensions are taxed have sparked serious concern among financial experts and savers alike. Here's what you need to know if you're saving for retirement.

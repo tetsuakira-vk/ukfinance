@@ -4,7 +4,6 @@ title: "£2,200 waiting: how to claim your Child Trust Fund"
 date: 2026-07-07T08:01:22.016Z
 labels: ["Benefits", "HMRC", "Savings", "News"]
 source: "https://www.mirror.co.uk/money/hmrc-owe-people-born-between-37396560"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37396559.ece%2FALTERNATES%2Fs1200d%2F0_Portrait-of-a-happy-young-woman-counting-British-20-pounds.jpg&w=1200&output=jpg"
 ---
 
 If you were born between September 2002 and January 2011, the government may have opened a savings account for you — and you could be sitting on an average of £2,200 without realising it.

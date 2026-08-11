@@ -4,7 +4,6 @@ title: "Polestar: Electric Dual Motor Car — £33,990"
 date: 2026-07-07T08:01:58.264Z
 labels: ["Deals", "Tech", "Finance"]
 source: "https://www.hotukdeals.com/deals/polestar-2-dual-motor-long-range-pre-reg-pilot-plus-climate-i-collect-from-polestar-4930442"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FAM8GL%2F4930442_1%2Fre%2F1024x1024%2Fqt%2F60%2F4930442_1.jpg&w=1200&output=jpg"
 ---
 
 Polestar Automotive UK is shifting a stunning pre-registered Polestar 2 Dual Motor Long Range for £33,990 — and honestly, that's a cracking price for this spec.

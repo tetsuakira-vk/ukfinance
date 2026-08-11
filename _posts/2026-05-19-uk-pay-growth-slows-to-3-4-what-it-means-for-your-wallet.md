@@ -4,7 +4,6 @@ title: "UK Pay Growth Slows to 3.4%: What It Means for Your Wallet"
 date: 2026-05-19T07:22:53.408Z
 labels: ["News", "Cost of Living", "Inflation", "Jobs", "Budgeting"]
 source: "https://www.mirror.co.uk/money/millions-workers-face-new-pay-37174542"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle36969524.ece%2FALTERNATES%2Fs1200d%2F2_Person-worried-at-work.jpg&w=1200&output=jpg"
 ---
 
 Your wages are falling behind the cost of living, and the jobs market is making it harder to push back. New figures from the Office for National Statistics paint a worrying picture for millions of British workers facing a real-terms pay squeeze.

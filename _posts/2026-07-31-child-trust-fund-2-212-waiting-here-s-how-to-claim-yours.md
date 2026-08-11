@@ -4,7 +4,6 @@ title: "Child Trust Fund: £2,212 waiting – here's how to claim yours"
 date: 2026-07-31T08:01:04.906Z
 labels: ["Benefits", "HMRC", "Savings", "Tax", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/parents-who-children-between-2002-37498192"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37498197.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2283118419.jpg&w=1200&output=jpg"
 ---
 
 If you were born between September 2002 and January 2011, you could have over £2,000 sitting in a forgotten bank account right now. The HMRC has warned that more than 750,000 young adults are missing out on Child Trust Funds that belong to them – and claiming yours is completely free.

@@ -4,7 +4,6 @@ title: "Why Britons are hoarding £50 notes—and should you?"
 date: 2026-06-19T08:01:48.784Z
 labels: ["News", "Savings", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/saving/article-15910503/Surprise-rise-50-notes-circulation-Resilience-Committee-discuss-physical-cash-Britons-hold-emergency.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F18%2F11%2F109436945-0-image-a-8_1781778445409.jpg&w=1200&output=jpg"
 ---
 
 It sounds like a paradox: cash payments are at an all-time low in Britain, yet the amount of banknotes in circulation has surged. New figures from the Bank of England reveal there's now £91.5 billion worth of notes in people's wallets, purses and hiding places—up nearly 63% since 2014.

@@ -4,7 +4,6 @@ title: "Premium Bonds August 2026: £100k winner with just £650 saved"
 date: 2026-08-03T08:00:22.188Z
 labels: ["Savings", "News", "Interest Rates"]
 source: "https://www.mirror.co.uk/money/premium-bonds-august-2026-winners-37506582"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37505104.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1264440356.jpg&w=1200&output=jpg"
 ---
 
 One Premium Bonds holder has just won £100,000 with less than £700 in savings — a timely reminder of why millions of Brits keep money in NS&I's monthly prize draw.

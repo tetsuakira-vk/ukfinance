@@ -4,7 +4,6 @@ title: "UK Households Pay Thousands More Tax: How Much Has Your Bill Risen?"
 date: 2026-06-17T08:01:38.748Z
 labels: ["Tax", "News", "Cost of Living", "HMRC", "Pensions", "Budgeting"]
 source: "https://www.dailymail.com/money/mailplus/article-15904973/tax-bill-hikes-households-biggest-losers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F16%2F20%2F109394525-0-image-a-19_1781638916537.jpg&w=1200&output=jpg"
 ---
 
 British families are facing the steepest tax burden since 1945, according to new analysis from Tax Policy Associates. If you're wondering why your bank balance feels tighter each year, the numbers explain why — and they're sobering.

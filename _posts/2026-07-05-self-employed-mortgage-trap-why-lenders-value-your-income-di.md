@@ -4,7 +4,6 @@ title: "Self-employed mortgage trap: why lenders value your income differently"
 date: 2026-07-05T08:00:25.347Z
 labels: ["Mortgages", "Housing", "Tax", "News"]
 source: "https://www.mirror.co.uk/money/self-employed-caught-out-little-37370388"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37370401.ece%2FALTERNATES%2Fs1200d%2F0_pexels-rdne-8292840.jpg&w=1200&output=jpg"
 ---
 
 If you're self-employed or run a limited company, you could be losing out on thousands of pounds in mortgage borrowing without realising it. A mortgage broker has highlighted a little-known difference in how lenders assess your income — and it could be costing you your dream home.

@@ -4,7 +4,6 @@ title: "High Street Crime Crackdown: How It Affects Your Local Shops"
 date: 2026-05-19T08:01:11.133Z
 labels: ["News", "Consumer Rights", "Scams"]
 source: "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F137b%2Flive%2F03bc4dd0-52fa-11f1-b682-cf91850925ea.jpg&w=1200&output=jpg"
 ---
 
 The government has launched a major crackdown on organised crime operating through High Street shops, and it could change where and how you shop locally. Here's what you need to know.

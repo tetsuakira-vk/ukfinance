@@ -4,7 +4,6 @@ title: "Can Your Neighbour Run a Business From Home? UK Rules Explained"
 date: 2026-06-13T08:00:35.283Z
 labels: ["Housing", "Consumer Rights"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15885403/My-neighbour-set-cake-shed-business-quiet-street-allowed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F09%2F11%2F109223055-0-image-m-86_1781002348686.jpg&w=1200&output=jpg"
 ---
 
 If your neighbour has recently started a cake-selling business from their home and you're noticing increased traffic, noise, and disruption on your quiet street, you're not alone in wondering whether this is actually allowed. The short answer is: it depends on several factors, including planning permission, council regulations, and the terms of their mortgage or tenancy.

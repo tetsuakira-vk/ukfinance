@@ -4,7 +4,6 @@ title: "DWP Now Records Benefit Assessments by Default – Here's What You Need 
 date: 2026-06-29T08:00:27.592Z
 labels: ["Benefits", "DWP", "Universal Credit", "News", "Consumer Rights"]
 source: "https://www.gov.uk/government/news/health-assessments-to-be-recorded-as-standard-in-major-transparency-drive"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.gov.uk%2Fassets%2Ffrontend%2Fgovuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png&w=1200&output=jpg"
 ---
 
 From today (29 June 2026), if you're claiming disability or sickness benefits, your health assessment will be automatically recorded unless you actively choose to opt out. This is a major change that could give you more protection and transparency when dealing with the Department for Work and Pensions.

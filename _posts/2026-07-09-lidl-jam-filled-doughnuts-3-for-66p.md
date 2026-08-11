@@ -4,7 +4,6 @@ title: "Lidl: Jam-Filled Doughnuts — 3 for 66p"
 date: 2026-07-09T08:01:53.086Z
 labels: ["Deals", "Shopping", "Groceries", "Food & Drink"]
 source: "https://www.hotukdeals.com/deals/in-store-bakery-jam-filled-doughnut-3-for-66p-4926695"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2Fb59aR%2F4926695_1%2Fre%2F1024x1024%2Fqt%2F60%2F4926695_1.jpg&w=1200&output=jpg"
 ---
 
 Lidl's in-store bakery jam-filled doughnuts are an absolute steal at just 22p each when you grab three for 66p — that's a proper bargain for a sweet treat.

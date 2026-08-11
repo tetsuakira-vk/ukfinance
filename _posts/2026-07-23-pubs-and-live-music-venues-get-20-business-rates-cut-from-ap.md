@@ -4,7 +4,6 @@ title: "Pubs and Live Music Venues Get 20% Business Rates Cut From April 2026"
 date: 2026-07-23T08:02:44.732Z
 labels: ["News", "Cost of Living", "Tax"]
 source: "https://www.gov.uk/government/news/burnham-means-business-pm-slashes-business-rates-bills-for-pubs-clubs-and-live-music-venues"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fwww.gov.uk%2Fassets%2Ffrontend%2Fgovuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png&w=1200&output=jpg"
 ---
 
 If you run a pub, social club or live music venue, there's good news coming your way. From April 2026, the government is cutting business rates bills by 20% for nearly 32,000 of these venues across England — saving the typical pub around £1,100 a year.

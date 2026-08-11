@@ -4,7 +4,6 @@ title: "Beat the next heatwave – UK home cooling buys to order now"
 date: 2026-07-25T08:01:19.131Z
 labels: ["Energy", "Cost of Living", "Consumer Rights", "Housing"]
 source: "https://www.mirror.co.uk/money/shopping-deals/beat-next-heatwave-restocked-cooling-37468505"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37468671.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2154408552.jpg&w=1200&output=jpg"
 ---
 
 With summer temperatures climbing and heatwaves becoming more frequent, it's worth thinking ahead about keeping your home cool – and your energy bills in check.

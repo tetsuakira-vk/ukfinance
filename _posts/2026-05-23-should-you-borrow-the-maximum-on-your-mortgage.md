@@ -4,7 +4,6 @@ title: "Should You Borrow the Maximum on Your Mortgage?"
 date: 2026-05-23T08:00:47.311Z
 labels: ["Mortgages", "Cost of Living", "Budgeting", "Housing", "Inflation"]
 source: "https://www.mirror.co.uk/money/im-mortgage-broker-just-because-37187440"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37110736.ece%2FALTERNATES%2Fs1200d%2F1_Gaurav-Shukla.jpg&w=1200&output=jpg"
 ---
 
 Just because a lender will give you a bigger mortgage doesn't mean you should take it. That's the stark warning from mortgage brokers as high street lenders increasingly offer larger loans relative to what borrowers earn.

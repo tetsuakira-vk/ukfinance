@@ -4,7 +4,6 @@ title: "Vodafone: Samsung Galaxy S24 Ultra — £462 Total Cost"
 date: 2026-08-07T08:01:33.194Z
 labels: ["Deals", "Tech", "Shopping"]
 source: "https://www.hotukdeals.com/deals/samsung-s24-ultra-good-condition-from-vodafone-4952303"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FULvvq%2F4952303_1%2Fre%2F1024x1024%2Fqt%2F60%2F4952303_1.jpg&w=1200&output=jpg"
 ---
 
 Vodafone's flogging the Samsung Galaxy S24 Ultra in good condition for just £462 total — that's a seriously competitive price for flagship tech.

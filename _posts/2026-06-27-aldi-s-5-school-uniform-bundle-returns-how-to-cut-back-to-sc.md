@@ -4,7 +4,6 @@ title: "Aldi's £5 school uniform bundle returns: how to cut back-to-school cost
 date: 2026-06-27T08:00:46.019Z
 labels: ["News", "Cost of Living", "Budgeting", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/shopping-deals/aldi-5-school-uniform-bundle-37341895"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37342322.ece%2FALTERNATES%2Fs1200d%2F0_MIRROR-TEMPLATE-87.jpg&w=1200&output=jpg"
 ---
 
 If you've got children heading back to school this September, you'll know that uniform costs can add up quickly. The good news is that Aldi has brought back its popular £5 school uniform bundle – a real lifeline for parents feeling the squeeze on household budgets.

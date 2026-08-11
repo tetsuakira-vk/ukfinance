@@ -4,7 +4,6 @@ title: "UK sellers face new £2.50 EU customs charge from July 1"
 date: 2026-06-09T08:01:09.463Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/news/uk-news/new-250-time-charge-july-37267065"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37267070.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-457207679.jpg&w=1200&output=jpg"
 ---
 
 If you sell anything online to customers in Europe, you need to know about a significant change coming on July 1, 2026. A new customs charge of around £2.50 will apply to low-value parcels entering the EU — and if you're not prepared, it could damage your business and upset your customers.

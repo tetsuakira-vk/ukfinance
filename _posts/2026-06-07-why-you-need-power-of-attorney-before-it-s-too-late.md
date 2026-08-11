@@ -4,7 +4,6 @@ title: "Why You Need Power of Attorney Before It's Too Late"
 date: 2026-06-07T08:01:34.947Z
 labels: ["Savings", "Pensions", "Consumer Rights", "Cost of Living"]
 source: "https://www.dailymail.com/money/pensions/article-15879597/healthy-former-pensions-minister-given-children-power-finances-STEVE-WEBB.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F06%2F17%2F109175423-0-image-m-24_1780761773801.jpg&w=1200&output=jpg"
 ---
 
 Even the healthiest among us should plan for a time when we might not be able to manage our own finances. Steve Webb, a former pensions minister, has just revealed why he handed control of his finances to his children at age 60 — and it's a wake-up call we should all take seriously.

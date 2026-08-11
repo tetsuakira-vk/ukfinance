@@ -4,7 +4,6 @@ title: "UK Jobless Forecast: What unemployment surge means for you"
 date: 2026-06-09T08:00:42.303Z
 labels: ["News", "Jobs", "Cost of Living", "Universal Credit", "DWP"]
 source: "https://www.mirror.co.uk/money/uk-employment-rate-iran-war-37265694"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle36810125.ece%2FALTERNATES%2Fs1200d%2F1_Job-Centre-Plus-In-Shrewsbury.jpg&w=1200&output=jpg"
 ---
 
 The UK job market faces a potential shock. Business leaders at the CBI (Confederation of British Industry) have warned that unemployment could jump by 200,000 people, pushing the total jobless figure to around two million. But before you panic, there's a more hopeful side to the story too.

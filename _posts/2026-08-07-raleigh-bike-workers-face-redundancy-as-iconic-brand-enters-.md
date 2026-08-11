@@ -4,7 +4,6 @@ title: "Raleigh bike workers face redundancy as iconic brand enters administrati
 date: 2026-08-07T08:00:17.929Z
 labels: ["Redundancy", "News", "Jobs", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/markets/article-16034053/Raleigh-bike-brand-faces-chop-owner-begins-insolvency-proceedings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F08%2F07%2F08%2F110493633-0-image-m-20_1786089314474.jpg&w=1200&output=jpg"
 ---
 
 The iconic Raleigh bike brand has entered administration after its Dutch owner, Accell Group, ran out of options to keep the business afloat. This is bad news for employees at the Nottingham headquarters — and potentially for anyone considering buying a Raleigh bike right now.

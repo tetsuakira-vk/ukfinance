@@ -4,7 +4,6 @@ title: "UK Holiday Drivers Face Surprise £120 Clean Air Zone Fines"
 date: 2026-06-03T08:01:13.889Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/news/uk-news/anyone-taking-holiday-uk-year-37240225"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37240230.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2244228021.jpg&w=1200&output=jpg"
 ---
 
 If you're planning a UK staycation this summer, there's a hidden cost you need to know about. Drivers entering Clean Air Zones in major cities could be hit with unexpected fines of up to £120 – and many people don't even realise they've broken the rules until a letter arrives weeks later.

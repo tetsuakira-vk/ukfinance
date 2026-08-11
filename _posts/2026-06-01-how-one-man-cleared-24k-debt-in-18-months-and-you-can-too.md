@@ -4,7 +4,6 @@ title: "How one man cleared £24k debt in 18 months—and you can too"
 date: 2026-06-01T08:02:00.484Z
 labels: ["Debt", "Budgeting", "Cost of Living", "Savings"]
 source: "https://www.mirror.co.uk/money/cleared-24000-debt-18months-saved-37230090"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37230097.ece%2FALTERNATES%2Fs1200d%2F1_coverimages55705475.jpg&w=1200&output=jpg"
 ---
 
 Sammie Ellard-King's story is proof that clearing serious debt doesn't require years of sacrifice or eating beans on toast. The Ramsgate resident wiped out £24,000 in just 18 months—and has already saved £3,278 this year using simple, repeatable money hacks. Here's how he did it, and what you can steal from his playbook.

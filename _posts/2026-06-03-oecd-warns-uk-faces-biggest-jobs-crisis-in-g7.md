@@ -4,7 +4,6 @@ title: "OECD warns UK faces biggest jobs crisis in G7"
 date: 2026-06-03T08:00:44.135Z
 labels: ["News", "Jobs", "Cost of Living", "Universal Credit", "DWP"]
 source: "https://www.dailymail.com/money/markets/article-15868651/Britain-suffer-biggest-rise-unemployment-G7-OECD-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F02%2F20%2F109053057-0-image-a-9_1780429063094.jpg&w=1200&output=jpg"
 ---
 
 The Organisation for Economic Co-operation and Development (OECD) has issued a stark warning: Britain faces the biggest rise in unemployment of any major developed economy. If this projection comes to pass, it could affect millions of working people and families across the UK.

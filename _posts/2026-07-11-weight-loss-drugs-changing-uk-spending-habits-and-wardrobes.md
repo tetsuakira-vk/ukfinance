@@ -4,7 +4,6 @@ title: "Weight-loss drugs changing UK spending habits and wardrobes"
 date: 2026-07-11T08:01:13.792Z
 labels: ["News", "Cost of Living", "Consumer Rights", "Budgeting"]
 source: "https://www.theguardian.com/business/2026/jul/11/mounjaro-wegovy-uk-weightloss-drugs-spending-habits"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Fe20992259341cb23ae3ec183b4d400e59e54d865%2F205_0_3335_2668%2Fmaster%2F3335.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3Ddfe9cbd49679c23f633f95859a62539e&w=1200&output=jpg"
 ---
 
 Weight-loss medications like Mounjaro and Wegovy are having an unexpected knock-on effect on UK household budgets – triggering major wardrobe overhauls and changes to shopping habits.

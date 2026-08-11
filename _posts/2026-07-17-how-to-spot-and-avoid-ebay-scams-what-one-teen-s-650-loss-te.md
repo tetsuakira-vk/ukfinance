@@ -4,7 +4,6 @@ title: "How to Spot and Avoid eBay Scams: What One Teen's £650 Loss Teaches Us"
 date: 2026-07-17T08:01:40.034Z
 labels: ["News", "Consumer Rights", "Scams"]
 source: "https://www.mirror.co.uk/news/uk-news/i-lost-laptop-ebay-scam-37442669"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37442671.ece%2FALTERNATES%2Fs1200d%2F1_coverimages55854481.jpg&w=1200&output=jpg"
 ---
 
 A 19-year-old from Kent recently lost £650 to an eBay scammer — but his determination to track down the fraudsters offers vital lessons for anyone selling items online.

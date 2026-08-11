@@ -4,7 +4,6 @@ title: "State Pension Top-Ups: 12 Benefits & Discounts You Might Miss"
 date: 2026-05-27T08:02:32.855Z
 labels: ["Benefits", "DWP", "Pensions", "Cost of Living", "News"]
 source: "https://www.mirror.co.uk/money/extra-benefits-discounts-payments-state-37206997"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37206801.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-2238398991.jpg&w=1200&output=jpg"
 ---
 
 If you're receiving a State Pension, you could be leaving thousands of pounds on the table. New figures show that millions of UK pensioners are missing out on extra benefits, discounts and payments they're entitled to claim alongside their regular pension income.

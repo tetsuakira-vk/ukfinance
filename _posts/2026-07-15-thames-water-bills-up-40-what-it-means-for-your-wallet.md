@@ -4,7 +4,6 @@ title: "Thames Water bills up 40%: what it means for your wallet"
 date: 2026-07-15T08:01:42.417Z
 labels: ["News", "Cost of Living", "Consumer Rights", "Energy"]
 source: "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F0067%2Flive%2F694e25f0-800f-11f1-855c-e18bf6105698.jpg&w=1200&output=jpg"
 ---
 
 Thames Water customers have faced a painful hit to their household budgets, with bills rising by 40% last year. Now the company has announced a return to profit — but that doesn't mean relief is coming for you.

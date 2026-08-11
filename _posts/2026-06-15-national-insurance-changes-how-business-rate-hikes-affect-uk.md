@@ -4,7 +4,6 @@ title: "National Insurance Changes: How Business Rate Hikes Affect UK Jobs"
 date: 2026-06-15T08:01:01.332Z
 labels: ["News", "Cost of Living", "Jobs", "Employment Law", "NMW"]
 source: "https://www.dailymail.com/money/markets/article-15897127/Things-worse-Burnham-Businesses-Makerfield-verdict-Manchester-mayors-power-bid.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F13%2F11%2F109324621-0-image-m-118_1781346766296.jpg&w=1200&output=jpg"
 ---
 
 The National Insurance contribution changes introduced by the government are hitting UK small businesses hard – and workers could pay the price through fewer job opportunities and smaller pay packets.

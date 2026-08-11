@@ -4,7 +4,6 @@ title: "Free kids' bus travel in August: save £££ on family days out"
 date: 2026-07-19T08:01:35.563Z
 labels: ["News", "Cost of Living", "Budgeting"]
 source: "https://www.theguardian.com/travel/2026/jul/19/six-cheap-days-out-england-by-bus-public-transport"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2Ff4401e32bb55459b958b779c2bd63a5f037c0d56%2F666_0_5600_4480%2Fmaster%2F5600.jpg%3Fwidth%3D1200%26height%3D630%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26precrop%3D40%3A21%2Coffset-x50%2Coffset-y0%26overlay-align%3Dbottom%252Cleft%26overlay-width%3D100p%26overlay-base64%3DL2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc%26enable%3Dupscale%26s%3Dd16a328c547ec40b5c37069dde11edfd&w=1200&output=jpg"
 ---
 
 If you're dreading the school holidays because of the cost, here's some good news: throughout August, your children can travel free on buses across England, and adult fares are capped at just £3 per journey. This is a genuine money-saver for families looking to keep the kids entertained without breaking the bank.

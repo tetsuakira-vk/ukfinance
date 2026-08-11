@@ -4,7 +4,6 @@ title: "Tesco Fuel Discount: Save Up to £60 Before August 23"
 date: 2026-08-05T08:01:30.555Z
 labels: ["News", "Cost of Living", "Consumer Rights", "Budgeting"]
 source: "https://www.mirror.co.uk/money/tesco-customers-11-days-secure-37514869"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37514876.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1241339566.jpg&w=1200&output=jpg"
 ---
 
 If you're feeling the squeeze at the petrol pump, Tesco has a limited-time offer that could put some money back in your pocket — but you need to act fast.

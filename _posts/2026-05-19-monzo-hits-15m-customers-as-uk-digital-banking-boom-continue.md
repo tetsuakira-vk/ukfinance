@@ -4,7 +4,6 @@ title: "Monzo hits 15m customers as UK digital banking boom continues"
 date: 2026-05-19T13:33:43.770Z
 labels: ["News", "Savings", "Pensions", "ISA"]
 source: "https://www.dailymail.com/money/markets/article-15830267/Monzo-profits-soar-bags-record-number-new-customers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F19%2F11%2F108713915-0-image-a-8_1779184846132.jpg&w=1200&output=jpg"
 ---
 
 Monzo has announced record-breaking growth, with profits jumping 44% to £87.3 million in the year to March 2026. The digital bank now has 15.2 million customers, making it the UK's largest digital-only bank. If you're thinking about switching to a digital bank or wondering whether Monzo might work for you, here's what you need to know.

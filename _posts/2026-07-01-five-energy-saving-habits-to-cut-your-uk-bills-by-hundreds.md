@@ -4,7 +4,6 @@ title: "Five Energy-Saving Habits to Cut Your UK Bills by Hundreds"
 date: 2026-07-01T08:01:38.764Z
 labels: ["Energy", "Budgeting", "Cost of Living", "Consumer Rights"]
 source: "https://www.mirror.co.uk/money/household-bills/energy-saving-money-bills-appliances-37368501"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37368500.ece%2FALTERNATES%2Fs1200d%2F0_Senior-woman-placing-dishes-on-a-dishwasher.jpg&w=1200&output=jpg"
 ---
 
 Energy bills are squeezing UK household budgets harder than ever — but small daily changes could put hundreds of pounds back in your pocket.

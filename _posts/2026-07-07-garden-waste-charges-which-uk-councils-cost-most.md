@@ -4,7 +4,6 @@ title: "Garden waste charges: which UK councils cost most"
 date: 2026-07-07T08:01:43.326Z
 labels: ["News", "Cost of Living", "Housing", "Consumer Rights", "Budgeting"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15932065/The-councils-charge-residents-away-garden-rubbish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F03%2F11%2F109772821-0-image-a-15_1783076014169.jpg&w=1200&output=jpg"
 ---
 
 If you've noticed your council's garden waste collection bill creeping up, you're not alone. A new analysis has revealed a stark "postcode lottery" across Britain, with some residents paying over £136 a year to dispose of garden rubbish while others pay nothing at all.

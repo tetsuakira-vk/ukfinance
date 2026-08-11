@@ -4,7 +4,6 @@ title: "Flood Performance Certificates: What UK homeowners need to know"
 date: 2026-07-03T08:00:58.648Z
 labels: ["News", "Mortgages", "Housing", "Consumer Rights", "Cost of Living"]
 source: "https://www.dailymail.com/money/mortgageshome/article-15948169/Youll-soon-need-Flood-Performance-Certificate-affordable-home-insurance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F02%2F15%2F109750457-0-image-m-56_1783001677295.jpg&w=1200&output=jpg"
 ---
 
 From next year, getting affordable home insurance could depend on whether your property has a Flood Performance Certificate – and what it rates you.

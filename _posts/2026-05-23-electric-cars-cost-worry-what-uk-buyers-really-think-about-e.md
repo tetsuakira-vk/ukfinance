@@ -4,7 +4,6 @@ title: "Electric cars cost worry: what UK buyers really think about EVs"
 date: 2026-05-23T08:01:32.850Z
 labels: ["News", "Cost of Living", "Consumer Rights"]
 source: "https://www.dailymail.com/money/electriccars/article-15836843/Two-five-cars-sale-Britain-electric.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F05%2F21%2F16%2F108780789-0-image-m-17_1779376039086.jpg&w=1200&output=jpg"
 ---
 
 Electric vehicles are becoming mainstream on British roads — two in five cars now on sale are electric. But a stark reality has emerged: half of UK drivers say they'll never buy one.

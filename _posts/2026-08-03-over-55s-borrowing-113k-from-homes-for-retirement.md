@@ -4,7 +4,6 @@ title: "Over-55s borrowing £113k from homes for retirement"
 date: 2026-08-03T08:01:52.911Z
 labels: ["News", "Mortgages", "Housing", "Pensions", "Cost of Living"]
 source: "https://www.dailymail.com/money/mortgageshome/article-16019923/More-55s-tap-homes-retirement-borrowing-113-779-average.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F31%2F15%2F109594937-0-image-a-47_1785509299505.jpg&w=1200&output=jpg"
 ---
 
 More British homeowners over 55 are turning to equity release to fund their retirement, new figures show – with the average borrower taking out £113,779 from their home.

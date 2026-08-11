@@ -4,7 +4,6 @@ title: "UK Housing Market Weakens as Rate Hike Fears Dampen Buyer Demand"
 date: 2026-06-11T08:01:29.488Z
 labels: ["News", "Mortgages", "Interest Rates", "Housing", "Cost of Living"]
 source: "https://www.dailymail.com/money/markets/article-15891161/Housing-market-fragile-buyer-demand-sales-prices-slide-amid-rate-hike-fears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F06%2F11%2F08%2F109273693-0-image-a-8_1781161371640.jpg&w=1200&output=jpg"
 ---
 
 If you're thinking about buying a home right now, you're not alone in feeling uncertain. New data shows Britain's housing market is struggling as interest rate fears keep potential buyers on the sidelines.

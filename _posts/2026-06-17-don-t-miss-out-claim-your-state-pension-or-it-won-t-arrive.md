@@ -4,7 +4,6 @@ title: "Don't miss out: claim your State Pension or it won't arrive"
 date: 2026-06-17T08:02:19.494Z
 labels: ["Benefits", "Pensions", "DWP", "News"]
 source: "https://www.mirror.co.uk/money/state-pension-reminder-brits-could-37304731"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37304646.ece%2FALTERNATES%2Fs1200d%2F0_GettyImages-1466778775-1.jpg&w=1200&output=jpg"
 ---
 
 If you're approaching retirement age, here's something crucial you need to know: the State Pension won't arrive in your bank account unless you actively claim it. Many people assume it happens automatically — but it doesn't.

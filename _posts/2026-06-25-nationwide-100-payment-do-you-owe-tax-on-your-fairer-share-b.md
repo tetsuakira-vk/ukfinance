@@ -4,7 +4,6 @@ title: "Nationwide £100 Payment: Do You Owe Tax on Your Fairer Share Bonus?"
 date: 2026-06-25T08:02:06.863Z
 labels: ["Tax", "News", "Savings", "HMRC", "Cost of Living"]
 source: "https://www.mirror.co.uk/money/nationwide-building-society-warns-customers-37343365"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37343427.ece%2FALTERNATES%2Fs1200d%2F0_Nat.jpg&w=1200&output=jpg"
 ---
 
 If you've received a £100 payment from Nationwide Building Society as part of its Fairer Share scheme, you may need to set aside some of that money for HMRC. The good news? You might not owe anything at all. Here's what you need to know.

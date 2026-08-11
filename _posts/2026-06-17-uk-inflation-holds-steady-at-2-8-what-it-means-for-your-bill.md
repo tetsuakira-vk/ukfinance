@@ -4,7 +4,6 @@ title: "UK Inflation Holds Steady at 2.8% — What It Means for Your Bills"
 date: 2026-06-17T08:00:34.435Z
 labels: ["News", "Cost of Living", "Inflation", "Interest Rates", "Energy"]
 source: "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F03a8%2Flive%2F2b655710-6983-11f1-8e1d-bbbb1017d210.jpg&w=1200&output=jpg"
 ---
 
 Good news on the inflation front: the cost of living isn't rising as quickly as experts feared. Inflation stayed flat at 2.8% in May, when many predicted it would jump to 3%.

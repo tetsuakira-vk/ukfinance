@@ -4,7 +4,6 @@ title: "John Lewis: Astro Bot PS5 — Save on Delivery"
 date: 2026-05-29T08:01:40.840Z
 labels: ["Deals", "Tech", "Entertainment"]
 source: "https://www.hotukdeals.com/deals/astro-bot-ps5-ps295-cc-or-free-delivery-over-ps50-4899853"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FqKjjZ%2F4899853_1%2Fre%2F1024x1024%2Fqt%2F60%2F4899853_1.jpg&w=1200&output=jpg"
 ---
 
 John Lewis has Astro Bot for PS5 down to £33.99 with bargain delivery options — just £2.95 for click & collect or FREE if you spend over £50.

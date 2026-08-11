@@ -4,7 +4,6 @@ title: "How a teen made £35k from a side hustle to pay for uni debt-free"
 date: 2026-06-13T08:02:10.851Z
 labels: ["News", "Budgeting", "Cost of Living"]
 source: "https://www.bbc.com/news/articles/cly0nelkqq2o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F9eb9%2Flive%2F8999d670-66aa-11f1-b1db-af71d47507d6.jpg&w=1200&output=jpg"
 ---
 
 With student debt in Wales averaging £40,000 at graduation and English graduates leaving university owing £53,000, one 18-year-old has found a creative way to dodge the debt trap altogether — by turning a hobby into a thriving business.

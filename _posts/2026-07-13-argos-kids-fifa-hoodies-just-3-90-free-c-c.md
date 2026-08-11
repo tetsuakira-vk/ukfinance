@@ -4,7 +4,6 @@ title: "Argos: Kids FIFA Hoodies — Just £3.90 + Free C&C"
 date: 2026-07-13T08:01:12.198Z
 labels: ["Deals", "Shopping", "Fashion"]
 source: "https://www.hotukdeals.com/deals/kids-black-white-official-fifa-graphic-hoodie-sizes-1-14-years-free-cc-4934608"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fimages.hotukdeals.com%2Fthreads%2Fraw%2FblJTe%2F4934608_1%2Fre%2F1024x1024%2Fqt%2F60%2F4934608_1.jpg&w=1200&output=jpg"
 ---
 
 Argos has absolutely smashed it with official FIFA graphic hoodies for kids at just £3.90 each — that's a proper steal for licensed sportswear.

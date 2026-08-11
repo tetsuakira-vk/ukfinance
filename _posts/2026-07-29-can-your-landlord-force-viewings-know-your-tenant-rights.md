@@ -4,7 +4,6 @@ title: "Can Your Landlord Force Viewings? Know Your Tenant Rights"
 date: 2026-07-29T08:00:15.744Z
 labels: ["Housing", "Consumer Rights", "Mortgages"]
 source: "https://www.dailymail.com/money/mortgageshome/article-16010929/My-landlords-arranged-ten-viewings-flat-refuse-let-DEAN-DUNHAM-KC-replies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi.dailymail.com%2F1s%2F2026%2F07%2F28%2F21%2F110305839-0-image-m-15_1785271040992.jpg&w=1200&output=jpg"
 ---
 
 If your landlord is arranging a constant stream of viewings while you're still living in the property, you're not alone in feeling frustrated — and the law is more firmly on your side than you might think.

@@ -4,7 +4,6 @@ title: "Data breach lessons: how to protect yourself online"
 date: 2026-06-11T08:00:53.434Z
 labels: ["News", "Consumer Rights", "Scams"]
 source: "https://www.bbc.com/news/articles/cvgj4rgz2n2o?at_medium=RSS&at_campaign=rss"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F1024%2Fbranded_news%2F83f4%2Flive%2F77ad04a0-6551-11f1-9f23-df180e53bbc9.jpg&w=1200&output=jpg"
 ---
 
 A South Korean e-commerce giant has just been hit with a record £299m fine for a massive data breach affecting 37.5 million customers. While this happened abroad, it's a stark reminder of why you need to protect your personal information — especially when shopping online.

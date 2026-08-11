@@ -4,7 +4,6 @@ title: "Found Treasure? Here's What You Need to Know About Your Windfall"
 date: 2026-06-09T08:01:25.870Z
 labels: ["News", "Consumer Rights", "Savings", "Tax"]
 source: "https://www.mirror.co.uk/news/uk-news/metal-detectorist-finds-20000-tudor-37267026"
-image: "https://images.weserv.nl/?url=https%3A%2F%2Fi2-prod.mirror.co.uk%2Farticle37266985.ece%2FALTERNATES%2Fs1200d%2F2_coverimages55757477.jpg&w=1200&output=jpg"
 ---
 
 If you've ever dreamed of striking it rich by finding buried treasure in a field, a Solihull metal detectorist's recent discovery might inspire you — but it also shows why understanding the rules around unexpected windfalls is crucial for your finances.
